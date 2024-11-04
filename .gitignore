@@ -15,4 +15,5 @@
 .tmp-git
 modules.db
 modules.db-journal
-generated
+
+NOTES
