@@ -1,0 +1,12 @@
+{
+  "versions": [
+    {
+      "id": "1.1.4",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/tascam-cd400u-1.1.4.tgz",
+      "apiVersion": "1.10.0",
+      "deprecationReason": null
+    }
+  ]
+}

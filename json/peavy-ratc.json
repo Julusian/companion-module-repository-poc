@@ -1,0 +1,20 @@
+{
+  "versions": [
+    {
+      "id": "1.1.1",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/peavy-ratc-1.1.1.tgz",
+      "apiVersion": "1.10.0",
+      "deprecationReason": null
+    },
+    {
+      "id": "1.0.3",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/peavy-ratc-1.0.3.tgz",
+      "apiVersion": "1.8.0",
+      "deprecationReason": null
+    }
+  ]
+}

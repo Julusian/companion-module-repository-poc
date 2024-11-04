@@ -1,0 +1,12 @@
+{
+  "versions": [
+    {
+      "id": "2.0.2",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/lea-amplifier-2.0.2.tgz",
+      "apiVersion": "1.4.1",
+      "deprecationReason": null
+    }
+  ]
+}

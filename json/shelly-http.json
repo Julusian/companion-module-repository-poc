@@ -1,0 +1,12 @@
+{
+  "versions": [
+    {
+      "id": "1.0.2",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/shelly-http-1.0.2.tgz",
+      "apiVersion": "1.5.0",
+      "deprecationReason": null
+    }
+  ]
+}

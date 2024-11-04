@@ -1,0 +1,44 @@
+{
+  "versions": [
+    {
+      "id": "2.6.1",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/videolan-vlc-2.6.1.tgz",
+      "apiVersion": "1.8.0",
+      "deprecationReason": null
+    },
+    {
+      "id": "2.6.0",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/videolan-vlc-2.6.0.tgz",
+      "apiVersion": "1.8.0",
+      "deprecationReason": null
+    },
+    {
+      "id": "2.5.0",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/videolan-vlc-2.5.0.tgz",
+      "apiVersion": "1.7.0",
+      "deprecationReason": null
+    },
+    {
+      "id": "2.3.3",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/videolan-vlc-2.3.3.tgz",
+      "apiVersion": "1.4.3",
+      "deprecationReason": null
+    },
+    {
+      "id": "2.3.0",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/videolan-vlc-2.3.0.tgz",
+      "apiVersion": "1.0.2",
+      "deprecationReason": null
+    }
+  ]
+}

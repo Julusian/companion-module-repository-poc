@@ -1,0 +1,36 @@
+{
+  "versions": [
+    {
+      "id": "3.2.9",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/barco-eventmaster-3.2.9.tgz",
+      "apiVersion": "1.3.0",
+      "deprecationReason": null
+    },
+    {
+      "id": "3.2.2",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/barco-eventmaster-3.2.2.tgz",
+      "apiVersion": "1.3.0",
+      "deprecationReason": null
+    },
+    {
+      "id": "3.2.1",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/barco-eventmaster-3.2.1.tgz",
+      "apiVersion": "1.3.0",
+      "deprecationReason": null
+    },
+    {
+      "id": "3.0.4",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/barco-eventmaster-3.0.4.tgz",
+      "apiVersion": "1.3.0",
+      "deprecationReason": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "versions": [
+    {
+      "id": "2.3.2",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/bmd-teranex-2.3.2.tgz",
+      "apiVersion": "1.4.3",
+      "deprecationReason": null
+    },
+    {
+      "id": "2.0.1",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/bmd-teranex-2.0.1.tgz",
+      "apiVersion": "1.4.3",
+      "deprecationReason": null
+    },
+    {
+      "id": "2.0.0",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/bmd-teranex-2.0.0.tgz",
+      "apiVersion": "1.4.3",
+      "deprecationReason": null
+    }
+  ]
+}

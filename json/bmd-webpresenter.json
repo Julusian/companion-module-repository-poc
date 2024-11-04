@@ -1,0 +1,36 @@
+{
+  "versions": [
+    {
+      "id": "2.1.1",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/bmd-webpresenter-2.1.1.tgz",
+      "apiVersion": "1.5.1",
+      "deprecationReason": null
+    },
+    {
+      "id": "2.1.0",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/bmd-webpresenter-2.1.0.tgz",
+      "apiVersion": "1.5.1",
+      "deprecationReason": null
+    },
+    {
+      "id": "2.0.3",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/bmd-webpresenter-2.0.3.tgz",
+      "apiVersion": "1.5.1",
+      "deprecationReason": null
+    },
+    {
+      "id": "2.0.2",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/bmd-webpresenter-2.0.2.tgz",
+      "apiVersion": "1.2.1",
+      "deprecationReason": null
+    }
+  ]
+}

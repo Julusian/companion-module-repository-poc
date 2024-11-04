@@ -1,0 +1,28 @@
+{
+  "versions": [
+    {
+      "id": "2.0.7",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/roland-v60hd-2.0.7.tgz",
+      "apiVersion": "1.4.1",
+      "deprecationReason": null
+    },
+    {
+      "id": "2.0.5",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/roland-v60hd-2.0.5.tgz",
+      "apiVersion": "1.4.1",
+      "deprecationReason": null
+    },
+    {
+      "id": "2.0.0",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/roland-v60hd-2.0.0.tgz",
+      "apiVersion": "1.4.1",
+      "deprecationReason": null
+    }
+  ]
+}

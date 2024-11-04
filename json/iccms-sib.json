@@ -1,0 +1,20 @@
+{
+  "versions": [
+    {
+      "id": "1.0.2",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/iccms-sib-1.0.2.tgz",
+      "apiVersion": "1.7.0",
+      "deprecationReason": null
+    },
+    {
+      "id": "0.1.2",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/iccms-sib-0.1.2.tgz",
+      "apiVersion": "1.4.3",
+      "deprecationReason": null
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "versions": [
+    {
+      "id": "2.0.1",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/figure53-qview-2.0.1.tgz",
+      "apiVersion": "1.10.0",
+      "deprecationReason": null
+    },
+    {
+      "id": "2.0.0",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/figure53-qview-2.0.0.tgz",
+      "apiVersion": "1.2.1",
+      "deprecationReason": null
+    }
+  ]
+}

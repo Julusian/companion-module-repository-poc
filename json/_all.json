@@ -1,0 +1,6824 @@
+{
+  "adder-1000series": {
+    "id": "adder-1000series",
+    "name": "adder-1000series",
+    "shortname": "Infinity 1000R",
+    "manufacturer": "Adder",
+    "products": [
+      "Infinity 1000R Series"
+    ],
+    "keywords": [
+      "IP KVM",
+      "KVM"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/adder-1000series",
+    "githubUrl": "https://github.com/bitfocus/companion-module-adder-1000series",
+    "deprecationReason": null
+  },
+  "adder-xdip": {
+    "id": "adder-xdip",
+    "name": "adder-xdip",
+    "shortname": "XDIP",
+    "manufacturer": "Adder",
+    "products": [
+      "XDIP"
+    ],
+    "keywords": [
+      "IP KVM",
+      "KVM Matrix",
+      "KVM Extender",
+      "Remote Control"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/adder-xdip",
+    "githubUrl": "https://github.com/bitfocus/companion-module-adder-xdip",
+    "deprecationReason": null
+  },
+  "agf-characterworks": {
+    "id": "agf-characterworks",
+    "name": "AGF Characterworks",
+    "shortname": "characterworks",
+    "manufacturer": "AGF",
+    "products": [
+      "Characterworks"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/agf-characterworks",
+    "githubUrl": "https://github.com/bitfocus/companion-module-agf-characterworks",
+    "deprecationReason": null
+  },
+  "aimedia-icap": {
+    "id": "aimedia-icap",
+    "name": "aimedia-icap",
+    "shortname": "AI Media iCap Portal",
+    "manufacturer": "AI Media",
+    "products": [
+      "iCap Portal"
+    ],
+    "keywords": [
+      "EEG",
+      "Captioning",
+      "Closed Captions"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/aimedia-icap",
+    "githubUrl": "https://github.com/bitfocus/companion-module-aimedia-icap",
+    "deprecationReason": null
+  },
+  "aimedia-lexilive": {
+    "id": "aimedia-lexilive",
+    "name": "aimedia-lexilive",
+    "shortname": "Lexi-Live",
+    "manufacturer": "AI Media",
+    "products": [
+      "Lexi Live"
+    ],
+    "keywords": [
+      "Closed Captioning"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/aimedia-lexilive",
+    "githubUrl": "https://github.com/bitfocus/companion-module-aimedia-lexilive",
+    "deprecationReason": null
+  },
+  "aja-helo": {
+    "id": "aja-helo",
+    "name": "aja-helo",
+    "shortname": "helo",
+    "manufacturer": "AJA",
+    "products": [
+      "HELO"
+    ],
+    "keywords": [
+      "Stream",
+      "Encode",
+      "Recording"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/aja-helo",
+    "githubUrl": "https://github.com/bitfocus/companion-module-aja-helo",
+    "deprecationReason": null
+  },
+  "aja-kipro": {
+    "id": "aja-kipro",
+    "name": "aja-kipro",
+    "shortname": "kipro",
+    "manufacturer": "AJA",
+    "products": [
+      "Ki Pro",
+      "Ki Pro Ultra"
+    ],
+    "keywords": [
+      "Recording"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/aja-kipro",
+    "githubUrl": "https://github.com/bitfocus/companion-module-aja-kipro",
+    "deprecationReason": null
+  },
+  "aja-kumo": {
+    "id": "aja-kumo",
+    "name": "aja-kumo",
+    "shortname": "kumo",
+    "manufacturer": "AJA",
+    "products": [
+      "Kumo"
+    ],
+    "keywords": [
+      "Protocol",
+      "Matrix"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/aja-kumo",
+    "githubUrl": "https://github.com/bitfocus/companion-module-aja-kumo",
+    "deprecationReason": null
+  },
+  "allenheath-ahm": {
+    "id": "allenheath-ahm",
+    "name": "allenheath-ahm",
+    "shortname": "AHM",
+    "manufacturer": "Allen & Heath",
+    "products": [
+      "AHM"
+    ],
+    "keywords": [
+      "Audio",
+      "Sound"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/allenheath-ahm",
+    "githubUrl": "https://github.com/bitfocus/companion-module-allenheath-ahm",
+    "deprecationReason": null
+  },
+  "analogway-awj": {
+    "id": "analogway-awj",
+    "name": "analogway-awj",
+    "shortname": "AWJdevice",
+    "manufacturer": "Analog Way",
+    "products": [
+      "AWJ Protocol Device",
+      "LivePremier",
+      "Alta 4K",
+      "Midra 4K"
+    ],
+    "keywords": [
+      "Image Processing",
+      "Video",
+      "Aquilon",
+      "Zenith",
+      "Pulse",
+      "Switcher",
+      "HDR",
+      "LUT"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/analogway-awj",
+    "githubUrl": "https://github.com/bitfocus/companion-module-analogway-awj",
+    "deprecationReason": null
+  },
+  "analogway-livecore": {
+    "id": "analogway-livecore",
+    "name": "analogway-livecore",
+    "shortname": "livecore",
+    "manufacturer": "Analog Way",
+    "products": [
+      "LiveCore series"
+    ],
+    "keywords": [
+      "Protocol",
+      "Image Processing"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/analogway-livecore",
+    "githubUrl": "https://github.com/bitfocus/companion-module-analogway-livecore",
+    "deprecationReason": null
+  },
+  "analogway-livepremier": {
+    "id": "analogway-livepremier",
+    "name": "analogway-livepremier",
+    "shortname": "livepremier",
+    "manufacturer": "Analog Way",
+    "products": [
+      "Aquilon"
+    ],
+    "keywords": [
+      "Protocol",
+      "Image Processing",
+      "LivePremier"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/analogway-livepremier",
+    "githubUrl": "https://github.com/bitfocus/companion-module-analogway-livepremier",
+    "deprecationReason": null
+  },
+  "analogway-midra": {
+    "id": "analogway-midra",
+    "name": "analogway-midra",
+    "shortname": "midra",
+    "manufacturer": "Analog Way",
+    "products": [
+      "Midra",
+      "Eikos2",
+      "Saphyr",
+      "Pulse2",
+      "SmartMatriX2",
+      "QuickMatriX",
+      "QuickVu",
+      "Saphyr - H",
+      "Pulse2 - H",
+      "SmartMatriX2 - H"
+    ],
+    "keywords": [
+      "Protocol",
+      "Image Processing"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/analogway-midra",
+    "githubUrl": "https://github.com/bitfocus/companion-module-analogway-midra",
+    "deprecationReason": null
+  },
+  "analogway-picturall": {
+    "id": "analogway-picturall",
+    "name": "analogway-picturall",
+    "shortname": "Picturall",
+    "manufacturer": "Analog Way",
+    "products": [
+      "Picturall Media Server"
+    ],
+    "keywords": [
+      "Protocol",
+      "Media Server"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/analogway-picturall",
+    "githubUrl": "https://github.com/bitfocus/companion-module-analogway-picturall",
+    "deprecationReason": null
+  },
+  "companion-module-android-tv": {
+    "id": "companion-module-android-tv",
+    "name": "androidtv",
+    "shortname": "androidtv",
+    "manufacturer": "Google",
+    "products": [
+      "androidtv"
+    ],
+    "keywords": [
+      "TV"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/companion-module-android-tv",
+    "githubUrl": "https://github.com/bitfocus/companion-module-companion-module-android-tv",
+    "deprecationReason": null
+  },
+  "anomes-millumin": {
+    "id": "anomes-millumin",
+    "name": "anomes-millumin",
+    "shortname": "millumin",
+    "manufacturer": "Anomes",
+    "products": [
+      "Millumin 2",
+      "Millumin 3",
+      "Millumin 4"
+    ],
+    "keywords": [
+      "Software",
+      "Video"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/anomes-millumin",
+    "githubUrl": "https://github.com/bitfocus/companion-module-anomes-millumin",
+    "deprecationReason": null
+  },
+  "apc-ups": {
+    "id": "apc-ups",
+    "name": "apc-ups",
+    "shortname": "APC UPS Monitor",
+    "manufacturer": "APC",
+    "products": [
+      "UPS"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/apc-ups",
+    "githubUrl": "https://github.com/bitfocus/companion-module-apc-ups",
+    "deprecationReason": null
+  },
+  "arkaos-mediamaster": {
+    "id": "arkaos-mediamaster",
+    "name": "arkaos-mediamaster",
+    "shortname": "arkaos",
+    "manufacturer": "ArKaos",
+    "products": [
+      "MediaMaster Remote Player"
+    ],
+    "keywords": [
+      "Video",
+      "Media",
+      "ArKaos",
+      "MediaMaster",
+      "ArKaos Hub",
+      "Remote Player",
+      "Cue",
+      "Controller",
+      "Stream"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/arkaos-mediamaster",
+    "githubUrl": "https://github.com/bitfocus/companion-module-arkaos-mediamaster",
+    "deprecationReason": null
+  },
+  "arri-tally": {
+    "id": "arri-tally",
+    "name": "arri-tally",
+    "shortname": "arri-tally",
+    "manufacturer": "Arri",
+    "products": [
+      "Alexa",
+      "Amira"
+    ],
+    "keywords": [
+      "Arri",
+      "Tally",
+      "Camera",
+      "Alexa",
+      "Amira"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/arri-tally",
+    "githubUrl": "https://github.com/bitfocus/companion-module-arri-tally",
+    "deprecationReason": null
+  },
+  "aten-matrix": {
+    "id": "aten-matrix",
+    "name": "aten-matrix",
+    "shortname": "aten",
+    "manufacturer": "ATEN",
+    "products": [
+      "Matrix"
+    ],
+    "keywords": [
+      "Matrix"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/aten-matrix",
+    "githubUrl": "https://github.com/bitfocus/companion-module-aten-matrix",
+    "deprecationReason": null
+  },
+  "atlasied-atmosphere": {
+    "id": "atlasied-atmosphere",
+    "name": "atlasied-atmosphere",
+    "shortname": "atmosphere",
+    "manufacturer": "AtlasIED",
+    "products": [
+      "Atmosphere"
+    ],
+    "keywords": [
+      "Audio"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/atlasied-atmosphere",
+    "githubUrl": "https://github.com/bitfocus/companion-module-atlasied-atmosphere",
+    "deprecationReason": null
+  },
+  "audac-mtx": {
+    "id": "audac-mtx",
+    "name": "audac-mtx",
+    "shortname": "MTX",
+    "manufacturer": "Audac",
+    "products": [
+      "MTX48/88"
+    ],
+    "keywords": [
+      "Audio"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/audac-mtx",
+    "githubUrl": "https://github.com/bitfocus/companion-module-audac-mtx",
+    "deprecationReason": null
+  },
+  "audinate-dante-ddm": {
+    "id": "audinate-dante-ddm",
+    "name": "Audinate Dante",
+    "shortname": "audinate-dante-ddm",
+    "manufacturer": "Audinate",
+    "products": [
+      "Dante"
+    ],
+    "keywords": [
+      "Audinate",
+      "Dante",
+      "subscription",
+      "subscribe",
+      "DDM"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/audinate-dante-ddm",
+    "githubUrl": "https://github.com/bitfocus/companion-module-audinate-dante-ddm",
+    "deprecationReason": null
+  },
+  "audiostrom-liveprofessor": {
+    "id": "audiostrom-liveprofessor",
+    "name": "audiostrom-liveprofessor",
+    "shortname": "LiveProfessor",
+    "manufacturer": "Audioström",
+    "products": [
+      "LiveProfessor"
+    ],
+    "keywords": [
+      "Software",
+      "Sound"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/audiostrom-liveprofessor",
+    "githubUrl": "https://github.com/bitfocus/companion-module-audiostrom-liveprofessor",
+    "deprecationReason": null
+  },
+  "audiotechnica-ceilingarray": {
+    "id": "audiotechnica-ceilingarray",
+    "name": "audiotechnica-ceilingarray",
+    "shortname": "atnd-1061",
+    "manufacturer": "Audio Technica",
+    "products": [
+      "ATND-1061"
+    ],
+    "keywords": [
+      "Audio",
+      "microphone",
+      "ceiling"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/audiotechnica-ceilingarray",
+    "githubUrl": "https://github.com/bitfocus/companion-module-audiotechnica-ceilingarray",
+    "deprecationReason": null
+  },
+  "audiotechnica-digitalmixer": {
+    "id": "audiotechnica-digitalmixer",
+    "name": "audiotechnica-digitalmixer",
+    "shortname": "atdm",
+    "manufacturer": "Audio Technica",
+    "products": [
+      "ATDM-0604",
+      "ATDM-0604a",
+      "ATDM-1012"
+    ],
+    "keywords": [
+      "Audio",
+      "Mixer"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/audiotechnica-digitalmixer",
+    "githubUrl": "https://github.com/bitfocus/companion-module-audiotechnica-digitalmixer",
+    "deprecationReason": null
+  },
+  "audiotechnica-discussionsystem": {
+    "id": "audiotechnica-discussionsystem",
+    "name": "audiotechnica-discussionsystem",
+    "shortname": "at-uc",
+    "manufacturer": "Audio Technica",
+    "products": [
+      "AT-UC50",
+      "AT-UCIR"
+    ],
+    "keywords": [
+      "Audio",
+      "microphone",
+      "conference"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/audiotechnica-discussionsystem",
+    "githubUrl": "https://github.com/bitfocus/companion-module-audiotechnica-discussionsystem",
+    "deprecationReason": null
+  },
+  "audiotechnica-esw": {
+    "id": "audiotechnica-esw",
+    "name": "audiotechnica-esw",
+    "shortname": "at-esw",
+    "manufacturer": "Audio Technica",
+    "products": [
+      "Engineered Sound Wireless",
+      "ESW"
+    ],
+    "keywords": [
+      "microphone",
+      "wireless"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/audiotechnica-esw",
+    "githubUrl": "https://github.com/bitfocus/companion-module-audiotechnica-esw",
+    "deprecationReason": null
+  },
+  "audivero-unityintercom-client": {
+    "id": "audivero-unityintercom-client",
+    "name": "audivero-unityintercom-client",
+    "shortname": "unityintercom-client",
+    "manufacturer": "Audivero",
+    "products": [
+      "Unity Intercom Client"
+    ],
+    "keywords": [
+      "Intercom"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/audivero-unityintercom-client",
+    "githubUrl": "https://github.com/bitfocus/companion-module-audivero-unityintercom-client",
+    "deprecationReason": null
+  },
+  "aver-ptz": {
+    "id": "aver-ptz",
+    "name": "aver-ptz",
+    "shortname": "aver-ptz",
+    "manufacturer": "Aver",
+    "products": [
+      "PTZ"
+    ],
+    "keywords": [
+      "VISCA",
+      "VISCA over IP",
+      "PTZ",
+      "Camera",
+      "Aver",
+      "UDP"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/aver-ptz",
+    "githubUrl": "https://github.com/bitfocus/companion-module-aver-ptz",
+    "deprecationReason": null
+  },
+  "avmediatools-protimer": {
+    "id": "avmediatools-protimer",
+    "name": "AVMediaTools-ProTimer",
+    "shortname": "ProTimer",
+    "manufacturer": "avmediatools",
+    "products": [
+      "protimer"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/avmediatools-protimer",
+    "githubUrl": "https://github.com/bitfocus/companion-module-avmediatools-protimer",
+    "deprecationReason": null
+  },
+  "avo-landscape": {
+    "id": "avo-landscape",
+    "name": "avocet-landscape",
+    "shortname": "avocet-landscape",
+    "manufacturer": "Avocet RT Ltd",
+    "products": [
+      "StreamDeck Interface"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/avo-landscape",
+    "githubUrl": "https://github.com/bitfocus/companion-module-avo-landscape",
+    "deprecationReason": null
+  },
+  "avstumpfl-pixera": {
+    "id": "avstumpfl-pixera",
+    "name": "avstumpfl-pixera",
+    "shortname": "pixera",
+    "manufacturer": "AVStumpfl",
+    "products": [
+      "Pixera"
+    ],
+    "keywords": [
+      "Software",
+      "Media Server",
+      "Showcontrol"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/avstumpfl-pixera",
+    "githubUrl": "https://github.com/bitfocus/companion-module-avstumpfl-pixera",
+    "deprecationReason": null
+  },
+  "aws-elementallive": {
+    "id": "aws-elementallive",
+    "name": "aws-elementallive",
+    "shortname": "elemental",
+    "manufacturer": "AWS",
+    "products": [
+      "Elemental Live"
+    ],
+    "keywords": [
+      "Streaming"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/aws-elementallive",
+    "githubUrl": "https://github.com/bitfocus/companion-module-aws-elementallive",
+    "deprecationReason": null
+  },
+  "aws-medialive": {
+    "id": "aws-medialive",
+    "name": "aws-medialive",
+    "shortname": "medialive",
+    "manufacturer": "AWS",
+    "products": [
+      "Elemental MediaLive"
+    ],
+    "keywords": [
+      "aws",
+      "medialive",
+      "amazon web services"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/aws-medialive",
+    "githubUrl": "https://github.com/bitfocus/companion-module-aws-medialive",
+    "deprecationReason": null
+  },
+  "axeltechnology-cgplus": {
+    "id": "axeltechnology-cgplus",
+    "name": "axeltechnology-cgplus",
+    "shortname": "CG Plus",
+    "manufacturer": "AxelTech",
+    "products": [
+      "CG Plus"
+    ],
+    "keywords": [
+      "axel,technology,cg,cgplus,video,broadcast,news,plus,axe"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/axeltechnology-cgplus",
+    "githubUrl": "https://github.com/bitfocus/companion-module-axeltechnology-cgplus",
+    "deprecationReason": null
+  },
+  "axeltechnology-vjpro": {
+    "id": "axeltechnology-vjpro",
+    "name": "axeltechnology-vjpro",
+    "shortname": "vjpro",
+    "manufacturer": "AxelTech",
+    "products": [
+      "VJ Pro"
+    ],
+    "keywords": [
+      "vjpro",
+      "vj",
+      "axel",
+      "technology",
+      "pro",
+      "vj pro"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/axeltechnology-vjpro",
+    "githubUrl": "https://github.com/bitfocus/companion-module-axeltechnology-vjpro",
+    "deprecationReason": null
+  },
+  "axeltechnology-xplayout": {
+    "id": "axeltechnology-xplayout",
+    "name": "axeltechnology-xplayout",
+    "shortname": "xplayout",
+    "manufacturer": "AxelTech",
+    "products": [
+      "XPlayout"
+    ],
+    "keywords": [
+      "xplayout",
+      "vj",
+      "axel",
+      "technology",
+      "play",
+      "out",
+      "xplay"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/axeltechnology-xplayout",
+    "githubUrl": "https://github.com/bitfocus/companion-module-axeltechnology-xplayout",
+    "deprecationReason": null
+  },
+  "axeltechnology-xradio": {
+    "id": "axeltechnology-xradio",
+    "name": "axeltechnology-xradio",
+    "shortname": "xradio",
+    "manufacturer": "AxelTech",
+    "products": [
+      "XRadio"
+    ],
+    "keywords": [
+      "xradio",
+      "vj",
+      "axel",
+      "technology"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/axeltechnology-xradio",
+    "githubUrl": "https://github.com/bitfocus/companion-module-axeltechnology-xradio",
+    "deprecationReason": null
+  },
+  "axeltechnology-youplay": {
+    "id": "axeltechnology-youplay",
+    "name": "axeltechnology-youplay",
+    "shortname": "youplay",
+    "manufacturer": "AxelTech",
+    "products": [
+      "YouPlay"
+    ],
+    "keywords": [
+      "axel",
+      "youplay",
+      "you",
+      "play"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/axeltechnology-youplay",
+    "githubUrl": "https://github.com/bitfocus/companion-module-axeltechnology-youplay",
+    "deprecationReason": null
+  },
+  "aximmetry-composer": {
+    "id": "aximmetry-composer",
+    "name": "aximmetry-composer",
+    "shortname": "aximmetry",
+    "manufacturer": "Aximmetry",
+    "products": [
+      "Composer"
+    ],
+    "keywords": [
+      "Virtual Sudio"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/aximmetry-composer",
+    "githubUrl": "https://github.com/bitfocus/companion-module-aximmetry-composer",
+    "deprecationReason": null
+  },
+  "axis-ptz": {
+    "id": "axis-ptz",
+    "name": "axis-ptz",
+    "shortname": "axis-PTZ",
+    "manufacturer": "axis",
+    "products": [
+      "PTZ Camera"
+    ],
+    "keywords": [
+      "ptz",
+      "Camera"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/axis-ptz",
+    "githubUrl": "https://github.com/bitfocus/companion-module-axis-ptz",
+    "deprecationReason": null
+  },
+  "barco-clickshare": {
+    "id": "barco-clickshare",
+    "name": "barco-clickshare",
+    "shortname": "clickshare",
+    "manufacturer": "Barco",
+    "products": [
+      "Clickshare"
+    ],
+    "keywords": [
+      "barco",
+      "sharing",
+      "clickshare"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/barco-clickshare",
+    "githubUrl": "https://github.com/bitfocus/companion-module-barco-clickshare",
+    "deprecationReason": null
+  },
+  "barco-eventmaster": {
+    "id": "barco-eventmaster",
+    "name": "barco-eventmaster",
+    "shortname": "eventmaster",
+    "manufacturer": "Barco",
+    "products": [
+      "Event Master"
+    ],
+    "keywords": [
+      "Protocol",
+      "Image Processing"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/barco-eventmaster",
+    "githubUrl": "https://github.com/bitfocus/companion-module-barco-eventmaster",
+    "deprecationReason": null
+  },
+  "barco-pds": {
+    "id": "barco-pds",
+    "name": "barco-pds",
+    "shortname": "pds",
+    "manufacturer": "Barco",
+    "products": [
+      "PDS"
+    ],
+    "keywords": [
+      "Image Processing"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/barco-pds",
+    "githubUrl": "https://github.com/bitfocus/companion-module-barco-pds",
+    "deprecationReason": null
+  },
+  "barco-pulse": {
+    "id": "barco-pulse",
+    "name": "barco-pulse",
+    "shortname": "pulse",
+    "manufacturer": "Barco",
+    "products": [
+      "UDX Pulse Projector"
+    ],
+    "keywords": [
+      "Projector",
+      "Protocol"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/barco-pulse",
+    "githubUrl": "https://github.com/bitfocus/companion-module-barco-pulse",
+    "deprecationReason": null
+  },
+  "baserow-baserow": {
+    "id": "baserow-baserow",
+    "name": "baserow-baserow",
+    "shortname": "baserow",
+    "manufacturer": "Baserow",
+    "products": [
+      "Baserow"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/baserow-baserow",
+    "githubUrl": "https://github.com/bitfocus/companion-module-baserow-baserow",
+    "deprecationReason": null
+  },
+  "bbc-raven": {
+    "id": "bbc-raven",
+    "name": "bbc-raven",
+    "shortname": "raven",
+    "manufacturer": "BBC",
+    "products": [
+      "Raven"
+    ],
+    "keywords": [
+      "Video",
+      "Media",
+      "Broadcast",
+      "Server"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/bbc-raven",
+    "githubUrl": "https://github.com/bitfocus/companion-module-bbc-raven",
+    "deprecationReason": null
+  },
+  "behringer-x32": {
+    "id": "behringer-x32",
+    "name": "behringer-x32",
+    "shortname": "x32",
+    "manufacturer": "Behringer/Midas",
+    "products": [
+      "X32/M32"
+    ],
+    "keywords": [
+      "Audio"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/behringer-x32",
+    "githubUrl": "https://github.com/bitfocus/companion-module-behringer-x32",
+    "deprecationReason": null
+  },
+  "behringer-xair": {
+    "id": "behringer-xair",
+    "name": "behringer-xair",
+    "shortname": "xair",
+    "manufacturer": "Behringer/Midas",
+    "products": [
+      "XR/MR",
+      "XAir",
+      "XR12",
+      "XR16",
+      "X18",
+      "XR18"
+    ],
+    "keywords": [
+      "Audio",
+      "Mixer",
+      "Console"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/behringer-xair",
+    "githubUrl": "https://github.com/bitfocus/companion-module-behringer-xair",
+    "deprecationReason": null
+  },
+  "betr-support": {
+    "id": "betr-support",
+    "name": "betr-support",
+    "shortname": "betr-support",
+    "manufacturer": "Betr Production",
+    "products": [
+      "Betr Support"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/betr-support",
+    "githubUrl": "https://github.com/bitfocus/companion-module-betr-support",
+    "deprecationReason": null
+  },
+  "biamp-audia": {
+    "id": "biamp-audia",
+    "name": "biamp-audia",
+    "shortname": "biamp-audia",
+    "manufacturer": "Biamp",
+    "products": [
+      "Audia",
+      "Nexia"
+    ],
+    "keywords": [
+      "dsp",
+      "audio",
+      "audia",
+      "Biamp"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/biamp-audia",
+    "githubUrl": "https://github.com/bitfocus/companion-module-biamp-audia",
+    "deprecationReason": null
+  },
+  "binwiederhier-ntfy": {
+    "id": "binwiederhier-ntfy",
+    "name": "binwiederhier-ntfy",
+    "shortname": "ntfy",
+    "manufacturer": "Philipp C. Heckel",
+    "products": [
+      "Ntfy"
+    ],
+    "keywords": [
+      "notification",
+      "push"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/binwiederhier-ntfy",
+    "githubUrl": "https://github.com/bitfocus/companion-module-binwiederhier-ntfy",
+    "deprecationReason": null
+  },
+  "birddog-central": {
+    "id": "birddog-central",
+    "name": "birddog-central",
+    "shortname": "BirdDog Central",
+    "manufacturer": "BirdDog",
+    "products": [
+      "Central"
+    ],
+    "keywords": [
+      "BirdDog",
+      "Central",
+      "Software"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/birddog-central",
+    "githubUrl": "https://github.com/bitfocus/companion-module-birddog-central",
+    "deprecationReason": null
+  },
+  "birddog-cloud": {
+    "id": "birddog-cloud",
+    "name": "birddog-cloud",
+    "shortname": "BirdDog Cloud",
+    "manufacturer": "BirdDog",
+    "products": [
+      "Cloud"
+    ],
+    "keywords": [
+      "BirdDog",
+      "Cloud"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/birddog-cloud",
+    "githubUrl": "https://github.com/bitfocus/companion-module-birddog-cloud",
+    "deprecationReason": null
+  },
+  "birddog-converters": {
+    "id": "birddog-converters",
+    "name": "birddog-converters",
+    "shortname": "BirdDog NDI",
+    "manufacturer": "BirdDog",
+    "products": [
+      "Converters"
+    ],
+    "keywords": [
+      "NDI",
+      "Video"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/birddog-converters",
+    "githubUrl": "https://github.com/bitfocus/companion-module-birddog-converters",
+    "deprecationReason": null
+  },
+  "birddog-ptz": {
+    "id": "birddog-ptz",
+    "name": "birddog-ptz",
+    "shortname": "BirdDog PTZ",
+    "manufacturer": "BirdDog",
+    "products": [
+      "PTZ"
+    ],
+    "keywords": [
+      "Protocol",
+      "Camera"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/birddog-ptz",
+    "githubUrl": "https://github.com/bitfocus/companion-module-birddog-ptz",
+    "deprecationReason": null
+  },
+  "bitfocus-cloud": {
+    "id": "bitfocus-cloud",
+    "name": "bitfocus-cloud",
+    "shortname": "cloud",
+    "manufacturer": "Bitfocus",
+    "products": [
+      "Companion Cloud"
+    ],
+    "keywords": [
+      "cloud"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/bitfocus-cloud",
+    "githubUrl": "https://github.com/bitfocus/companion-module-bitfocus-cloud",
+    "deprecationReason": null
+  },
+  "blackbox-boxilla": {
+    "id": "blackbox-boxilla",
+    "name": "blackbox-boxilla",
+    "shortname": "boxilla",
+    "manufacturer": "Blackbox",
+    "products": [
+      "Boxilla"
+    ],
+    "keywords": [
+      "blackbox",
+      "emerald",
+      "kvm"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/blackbox-boxilla",
+    "githubUrl": "https://github.com/bitfocus/companion-module-blackbox-boxilla",
+    "deprecationReason": null
+  },
+  "bmd-atem": {
+    "id": "bmd-atem",
+    "name": "bmd-atem",
+    "shortname": "atem",
+    "manufacturer": "Blackmagic Design",
+    "products": [
+      "ATEM"
+    ],
+    "keywords": [
+      "Vision Mixer"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/bmd-atem",
+    "githubUrl": "https://github.com/bitfocus/companion-module-bmd-atem",
+    "deprecationReason": null
+  },
+  "bmd-hyperdeck": {
+    "id": "bmd-hyperdeck",
+    "name": "bmd-hyperdeck",
+    "shortname": "hyperdeck",
+    "manufacturer": "Blackmagic Design",
+    "products": [
+      "Hyperdeck"
+    ],
+    "keywords": [
+      "Recording",
+      "Video",
+      "Media"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/bmd-hyperdeck",
+    "githubUrl": "https://github.com/bitfocus/companion-module-bmd-hyperdeck",
+    "deprecationReason": null
+  },
+  "bmd-smartview": {
+    "id": "bmd-smartview",
+    "name": "bmd-smartview",
+    "shortname": "smart",
+    "manufacturer": "Blackmagic Design",
+    "products": [
+      "SmartView",
+      "SmartScope"
+    ],
+    "keywords": [
+      "Scope",
+      "Monitor"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/bmd-smartview",
+    "githubUrl": "https://github.com/bitfocus/companion-module-bmd-smartview",
+    "deprecationReason": null
+  },
+  "bmd-teranex": {
+    "id": "bmd-teranex",
+    "name": "bmd-teranex",
+    "shortname": "teranex",
+    "manufacturer": "Blackmagic Design",
+    "products": [
+      "Teranex"
+    ],
+    "keywords": [
+      "Image Processing"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/bmd-teranex",
+    "githubUrl": "https://github.com/bitfocus/companion-module-bmd-teranex",
+    "deprecationReason": null
+  },
+  "bmd-ultimatte": {
+    "id": "bmd-ultimatte",
+    "name": "bmd-ultimatte",
+    "shortname": "bmd-ultimatte",
+    "manufacturer": "Blackmagic Design",
+    "products": [
+      "Ultimatte"
+    ],
+    "keywords": [
+      "Blackmagic",
+      "Ultimatte",
+      "Keyer"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/bmd-ultimatte",
+    "githubUrl": "https://github.com/bitfocus/companion-module-bmd-ultimatte",
+    "deprecationReason": null
+  },
+  "bmd-videohub": {
+    "id": "bmd-videohub",
+    "name": "bmd-videohub",
+    "shortname": "videohub",
+    "manufacturer": "Blackmagic Design",
+    "products": [
+      "Videohub"
+    ],
+    "keywords": [
+      "Matrix"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/bmd-videohub",
+    "githubUrl": "https://github.com/bitfocus/companion-module-bmd-videohub",
+    "deprecationReason": null
+  },
+  "bmd-webpresenter": {
+    "id": "bmd-webpresenter",
+    "name": "bmd-webpresenter",
+    "shortname": "WebPresenter",
+    "manufacturer": "Blackmagic Design",
+    "products": [
+      "WebPresenter HD",
+      "WebPresenter 4K"
+    ],
+    "keywords": [
+      "Streaming",
+      "Web Encoder",
+      "Livestream",
+      "Encoding",
+      "RTMP",
+      "SRT"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/bmd-webpresenter",
+    "githubUrl": "https://github.com/bitfocus/companion-module-bmd-webpresenter",
+    "deprecationReason": null
+  },
+  "boinx-mimolive": {
+    "id": "boinx-mimolive",
+    "name": "boinx-mimolive",
+    "shortname": "mimoLive",
+    "manufacturer": "Boinx",
+    "products": [
+      "mimoLive"
+    ],
+    "keywords": [
+      "Software",
+      "Vision Mixer"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/boinx-mimolive",
+    "githubUrl": "https://github.com/bitfocus/companion-module-boinx-mimolive",
+    "deprecationReason": null
+  },
+  "boxcast-api": {
+    "id": "boxcast-api",
+    "name": "boxcast-api",
+    "shortname": "boxcast-api",
+    "manufacturer": "Boxcast",
+    "products": [
+      "API"
+    ],
+    "keywords": [
+      "streaming"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/boxcast-api",
+    "githubUrl": "https://github.com/bitfocus/companion-module-boxcast-api",
+    "deprecationReason": null
+  },
+  "broadlink-rm4pro": {
+    "id": "broadlink-rm4pro",
+    "name": "broadlink-rm4pro",
+    "shortname": "rm4pro",
+    "manufacturer": "BroadLink",
+    "products": [
+      "RM4 Pro"
+    ],
+    "keywords": [
+      "rf",
+      "ir"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/broadlink-rm4pro",
+    "githubUrl": "https://github.com/bitfocus/companion-module-broadlink-rm4pro",
+    "deprecationReason": null
+  },
+  "brompton-tessera": {
+    "id": "brompton-tessera",
+    "name": "brompton-tessera",
+    "shortname": "Tessera",
+    "manufacturer": "Brompton Technology",
+    "products": [
+      "Tessera LED Processor Control"
+    ],
+    "keywords": [
+      "brompton",
+      "tessera",
+      "processor",
+      "control",
+      "led",
+      "panel"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/brompton-tessera",
+    "githubUrl": "https://github.com/bitfocus/companion-module-brompton-tessera",
+    "deprecationReason": null
+  },
+  "bss-soundweb": {
+    "id": "bss-soundweb",
+    "name": "BSS Soundweb London Control for Companion v3",
+    "shortname": "BSS Soundweb",
+    "manufacturer": "BSS",
+    "products": [
+      "Soundweb London"
+    ],
+    "keywords": [
+      "Harman",
+      "BSS",
+      "Soundweb"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/bss-soundweb",
+    "githubUrl": "https://github.com/bitfocus/companion-module-bss-soundweb",
+    "deprecationReason": null
+  },
+  "bytehive-playoutbee": {
+    "id": "bytehive-playoutbee",
+    "name": "bytehive-playoutbee",
+    "shortname": "playoutbee",
+    "manufacturer": "ByteHive",
+    "products": [
+      "PlayoutBee"
+    ],
+    "keywords": [
+      "keyword"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/bytehive-playoutbee",
+    "githubUrl": "https://github.com/bitfocus/companion-module-bytehive-playoutbee",
+    "deprecationReason": null
+  },
+  "cablematters-matrix": {
+    "id": "cablematters-matrix",
+    "name": "cablematters-matrix",
+    "shortname": "cm-matrix",
+    "manufacturer": "Cable Matters",
+    "products": [
+      "Matrix"
+    ],
+    "keywords": [
+      "matrix",
+      "hdmi",
+      "4x4",
+      "Cable Matters"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/cablematters-matrix",
+    "githubUrl": "https://github.com/bitfocus/companion-module-cablematters-matrix",
+    "deprecationReason": null
+  },
+  "camstreamer-camstreamer": {
+    "id": "camstreamer-camstreamer",
+    "name": "camstreamer-camstreamer",
+    "shortname": "camstreamer-camstreamer",
+    "manufacturer": "camstreamer",
+    "products": [
+      "camstreamer Camera"
+    ],
+    "keywords": [
+      "camstreamer",
+      "Camera"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/camstreamer-camstreamer",
+    "githubUrl": "https://github.com/bitfocus/companion-module-camstreamer-camstreamer",
+    "deprecationReason": null
+  },
+  "canon-ptz": {
+    "id": "canon-ptz",
+    "name": "canon-ptz",
+    "shortname": "canon-ptz",
+    "manufacturer": "Canon",
+    "products": [
+      "CR-N300",
+      "CR-N500",
+      "CR-N700",
+      "CR-X300",
+      "CR-X500",
+      "XF605",
+      "C300 MkIII",
+      "C500 MkII",
+      "C70"
+    ],
+    "keywords": [
+      "ptz",
+      "camera"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/canon-ptz",
+    "githubUrl": "https://github.com/bitfocus/companion-module-canon-ptz",
+    "deprecationReason": null
+  },
+  "canon-xf": {
+    "id": "canon-xf",
+    "name": "canon-xf",
+    "shortname": "canon-xf",
+    "manufacturer": "Canon",
+    "products": [
+      "XF405",
+      "XF705",
+      "C100",
+      "C200",
+      "Browser Remote"
+    ],
+    "keywords": [
+      "Canon"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/canon-xf",
+    "githubUrl": "https://github.com/bitfocus/companion-module-canon-xf",
+    "deprecationReason": null
+  },
+  "casparcg-server": {
+    "id": "casparcg-server",
+    "name": "casparcg-server",
+    "shortname": "caspar",
+    "manufacturer": "CasparCG",
+    "products": [
+      "Server"
+    ],
+    "keywords": [
+      "Video",
+      "Software",
+      "Graphics"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/casparcg-server",
+    "githubUrl": "https://github.com/bitfocus/companion-module-casparcg-server",
+    "deprecationReason": null
+  },
+  "chamsys-magicq-osc": {
+    "id": "chamsys-magicq-osc",
+    "name": "chamsys-magicq-osc",
+    "shortname": "magicq",
+    "manufacturer": "ChamSys",
+    "products": [
+      "MagicQ"
+    ],
+    "keywords": [
+      "Lighting"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/chamsys-magicq-osc",
+    "githubUrl": "https://github.com/bitfocus/companion-module-chamsys-magicq-osc",
+    "deprecationReason": null
+  },
+  "chamsys-magicq-udp": {
+    "id": "chamsys-magicq-udp",
+    "name": "chamsys-magicq-udp",
+    "shortname": "magicq",
+    "manufacturer": "ChamSys",
+    "products": [
+      "MagicQ (UDP)"
+    ],
+    "keywords": [
+      "Lighting"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/chamsys-magicq-udp",
+    "githubUrl": "https://github.com/bitfocus/companion-module-chamsys-magicq-udp",
+    "deprecationReason": null
+  },
+  "chamsys-quickq": {
+    "id": "chamsys-quickq",
+    "name": "chamsys-quickq",
+    "shortname": "quickq",
+    "manufacturer": "Chamsys",
+    "products": [
+      "QuickQ"
+    ],
+    "keywords": [
+      "Lighting"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/chamsys-quickq",
+    "githubUrl": "https://github.com/bitfocus/companion-module-chamsys-quickq",
+    "deprecationReason": null
+  },
+  "christie-projector": {
+    "id": "christie-projector",
+    "name": "christie-projector",
+    "shortname": "ChristiePj",
+    "manufacturer": "Christie",
+    "products": [
+      "Projector"
+    ],
+    "keywords": [
+      "Projectors"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/christie-projector",
+    "githubUrl": "https://github.com/bitfocus/companion-module-christie-projector",
+    "deprecationReason": null
+  },
+  "christie-spyder": {
+    "id": "christie-spyder",
+    "name": "christie-spyder",
+    "shortname": "spyder",
+    "manufacturer": "Christie",
+    "products": [
+      "Spyder X20/X80"
+    ],
+    "keywords": [
+      "Image Processing"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/christie-spyder",
+    "githubUrl": "https://github.com/bitfocus/companion-module-christie-spyder",
+    "deprecationReason": null
+  },
+  "churchapps-freeshow": {
+    "id": "churchapps-freeshow",
+    "name": "churchapps-freeshow",
+    "shortname": "freeshow",
+    "manufacturer": "ChurchApps",
+    "products": [
+      "FreeShow"
+    ],
+    "keywords": [
+      "Software",
+      "Presentation"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/churchapps-freeshow",
+    "githubUrl": "https://github.com/bitfocus/companion-module-churchapps-freeshow",
+    "deprecationReason": null
+  },
+  "chyronhego-lyric": {
+    "id": "chyronhego-lyric",
+    "name": "chyronhego-lyric",
+    "shortname": "Lyric",
+    "manufacturer": "Chyron-Hego",
+    "products": [
+      "Lyric"
+    ],
+    "keywords": [
+      "Intelligent Interface",
+      "CG"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/chyronhego-lyric",
+    "githubUrl": "https://github.com/bitfocus/companion-module-chyronhego-lyric",
+    "deprecationReason": null
+  },
+  "cisco-roomos": {
+    "id": "cisco-roomos",
+    "name": "cisco-roomos",
+    "shortname": "RoomOS",
+    "manufacturer": "Cisco",
+    "products": [
+      "RoomOS"
+    ],
+    "keywords": [
+      "Hardware"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/cisco-roomos",
+    "githubUrl": "https://github.com/bitfocus/companion-module-cisco-roomos",
+    "deprecationReason": null
+  },
+  "cockos-reaper": {
+    "id": "cockos-reaper",
+    "name": "cockos-reaper",
+    "shortname": "reaper",
+    "manufacturer": "Cockos",
+    "products": [
+      "REAPER"
+    ],
+    "keywords": [
+      "Audio",
+      "Recording"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/cockos-reaper",
+    "githubUrl": "https://github.com/bitfocus/companion-module-cockos-reaper",
+    "deprecationReason": null
+  },
+  "Colorlight-GrandShow": {
+    "id": "Colorlight-GrandShow",
+    "name": "Golorlight-GrandShow",
+    "shortname": "GrandShow",
+    "manufacturer": "Colorlight",
+    "products": [
+      "GrandShow"
+    ],
+    "keywords": [
+      "Colorlight",
+      "GrandShow"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/Colorlight-GrandShow",
+    "githubUrl": "https://github.com/bitfocus/companion-module-Colorlight-GrandShow",
+    "deprecationReason": null
+  },
+  "colorlight-processor": {
+    "id": "colorlight-processor",
+    "name": "colorlight-processor",
+    "shortname": "colorlight",
+    "manufacturer": "Colorlight",
+    "products": [
+      "Z-Series",
+      "X-Series",
+      "V-Series",
+      "VX-Series",
+      "D-Series",
+      "some S-Series"
+    ],
+    "keywords": [
+      "LED Processing"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/colorlight-processor",
+    "githubUrl": "https://github.com/bitfocus/companion-module-colorlight-processor",
+    "deprecationReason": null
+  },
+  "companion-module-combitech-vidblasterx": {
+    "id": "companion-module-combitech-vidblasterx",
+    "name": "companion-module-combitech-vidblasterx",
+    "shortname": "vidblasterx",
+    "manufacturer": "CombiTech",
+    "products": [
+      "VidBlasterX"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/companion-module-combitech-vidblasterx",
+    "githubUrl": "https://github.com/bitfocus/companion-module-companion-module-combitech-vidblasterx",
+    "deprecationReason": null
+  },
+  "cvmeventi-countdown": {
+    "id": "cvmeventi-countdown",
+    "name": "cvmeventi-countdown",
+    "shortname": "cvmeventi-countdown",
+    "manufacturer": "CVM Eventi",
+    "products": [
+      "Countdown"
+    ],
+    "keywords": [
+      "CVM",
+      "Timer",
+      "Countdown",
+      "Clock"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/cvmeventi-countdown",
+    "githubUrl": "https://github.com/bitfocus/companion-module-cvmeventi-countdown",
+    "deprecationReason": null
+  },
+  "cyberpower-pdu": {
+    "id": "cyberpower-pdu",
+    "name": "cyberpower-pdu",
+    "shortname": "CyberPower PDU",
+    "manufacturer": "CyberPower",
+    "products": [
+      "PDU"
+    ],
+    "keywords": [
+      "Power",
+      "Control"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/cyberpower-pdu",
+    "githubUrl": "https://github.com/bitfocus/companion-module-cyberpower-pdu",
+    "deprecationReason": null
+  },
+  "dan-dugan-automixer": {
+    "id": "dan-dugan-automixer",
+    "name": "dan-dugan-automixer",
+    "shortname": "Dugan Automixer",
+    "manufacturer": "Dan Dugan Sound Design",
+    "products": [
+      "Model M",
+      "Model N"
+    ],
+    "keywords": [
+      "Hardware",
+      "Automixer",
+      "MADI",
+      "Dante"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/dan-dugan-automixer",
+    "githubUrl": "https://github.com/bitfocus/companion-module-dan-dugan-automixer",
+    "deprecationReason": null
+  },
+  "dashare-multiplay": {
+    "id": "dashare-multiplay",
+    "name": "dashare-multiplay",
+    "shortname": "multiplay",
+    "manufacturer": "da-share",
+    "products": [
+      "MultiPlay"
+    ],
+    "keywords": [
+      "Media Server",
+      "Playback",
+      "Software"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/dashare-multiplay",
+    "githubUrl": "https://github.com/bitfocus/companion-module-dashare-multiplay",
+    "deprecationReason": null
+  },
+  "companion-module-dashare-multiplay3": {
+    "id": "companion-module-dashare-multiplay3",
+    "name": "companion-module-dashare-multiplay3",
+    "shortname": "multiplay",
+    "manufacturer": "da-Share",
+    "products": [
+      "MultiPlay 3"
+    ],
+    "keywords": [
+      "multiplay",
+      "osc"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/companion-module-dashare-multiplay3",
+    "githubUrl": "https://github.com/bitfocus/companion-module-companion-module-dashare-multiplay3",
+    "deprecationReason": null
+  },
+  "dataton-watchout": {
+    "id": "dataton-watchout",
+    "name": "dataton-watchout",
+    "shortname": "watchout",
+    "manufacturer": "Dataton",
+    "products": [
+      "Watchout"
+    ],
+    "keywords": [
+      "Media Server",
+      "Software",
+      "Video"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/dataton-watchout",
+    "githubUrl": "https://github.com/bitfocus/companion-module-dataton-watchout",
+    "deprecationReason": null
+  },
+  "dataton-watchout-json": {
+    "id": "dataton-watchout-json",
+    "name": "dataton-watchout-json",
+    "shortname": "watchout-json",
+    "manufacturer": "Dataton",
+    "products": [
+      "Watchout 7"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/dataton-watchout-json",
+    "githubUrl": "https://github.com/bitfocus/companion-module-dataton-watchout-json",
+    "deprecationReason": null
+  },
+  "dbaudiotechnik-amps": {
+    "id": "dbaudiotechnik-amps",
+    "name": "d&b audiotechnik Amps",
+    "shortname": "d&b-Amps",
+    "manufacturer": "d&b audiotechnik",
+    "products": [
+      "5D",
+      "10D",
+      "30D",
+      "40D",
+      "D20",
+      "D40",
+      "D80"
+    ],
+    "keywords": [
+      "Amp",
+      "Amps",
+      "Audio",
+      "d&b",
+      "d&b audiotechnik"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/dbaudiotechnik-amps",
+    "githubUrl": "https://github.com/bitfocus/companion-module-dbaudiotechnik-amps",
+    "deprecationReason": null
+  },
+  "denon-receiver": {
+    "id": "denon-receiver",
+    "name": "Denon Receiver",
+    "shortname": "Denon-AVR",
+    "manufacturer": "Denon",
+    "products": [
+      "AVR"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/denon-receiver",
+    "githubUrl": "https://github.com/bitfocus/companion-module-denon-receiver",
+    "deprecationReason": null
+  },
+  "denon-recorder": {
+    "id": "denon-recorder",
+    "name": "denon-recorder",
+    "shortname": "recorder",
+    "manufacturer": "Denon",
+    "products": [
+      "DN-900R",
+      "DN-700R",
+      "DN-500R",
+      "DN-F650R",
+      "DN-F450R"
+    ],
+    "keywords": [
+      "SD Recorder",
+      "USB Recorder"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/denon-recorder",
+    "githubUrl": "https://github.com/bitfocus/companion-module-denon-recorder",
+    "deprecationReason": null
+  },
+  "depili-clock-8001": {
+    "id": "depili-clock-8001",
+    "name": "depili-clock-8001",
+    "shortname": "clock-8001",
+    "manufacturer": "Depili",
+    "products": [
+      "Clock-8001"
+    ],
+    "keywords": [
+      "Timing",
+      "Clock"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/depili-clock-8001",
+    "githubUrl": "https://github.com/bitfocus/companion-module-depili-clock-8001",
+    "deprecationReason": null
+  },
+  "devantech-ds": {
+    "id": "devantech-ds",
+    "name": "devantech-ds",
+    "shortname": "DS",
+    "manufacturer": "Devantech",
+    "products": [
+      "DSXXX"
+    ],
+    "keywords": [
+      "Relay",
+      "Electronics"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/devantech-ds",
+    "githubUrl": "https://github.com/bitfocus/companion-module-devantech-ds",
+    "deprecationReason": null
+  },
+  "digitalprojection-projectors": {
+    "id": "digitalprojection-projectors",
+    "name": "digitalprojection-projectors",
+    "shortname": "DP-projectors",
+    "manufacturer": "DigitalProjection",
+    "products": [
+      "Models supported by Projector Controller II"
+    ],
+    "keywords": [
+      "DigitalProjection",
+      "Satellite",
+      "MLS",
+      "SCM",
+      "Titan",
+      "HIGHlite",
+      "E-Vision",
+      "M-Vision",
+      "TCP",
+      "Projector"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/digitalprojection-projectors",
+    "githubUrl": "https://github.com/bitfocus/companion-module-digitalprojection-projectors",
+    "deprecationReason": null
+  },
+  "discord-api": {
+    "id": "discord-api",
+    "name": "discord-api",
+    "shortname": "discord",
+    "manufacturer": "Discord",
+    "products": [
+      "API"
+    ],
+    "keywords": [
+      "Software",
+      "Chat"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/discord-api",
+    "githubUrl": "https://github.com/bitfocus/companion-module-discord-api",
+    "deprecationReason": null
+  },
+  "disguise-smc": {
+    "id": "disguise-smc",
+    "name": "disguise-smc",
+    "shortname": "SMC",
+    "manufacturer": "Disguise",
+    "products": [
+      "Disguise - SMC"
+    ],
+    "keywords": [
+      "Media Server",
+      "Video",
+      "D3"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/disguise-smc",
+    "githubUrl": "https://github.com/bitfocus/companion-module-disguise-smc",
+    "deprecationReason": null
+  },
+  "dolby-cinemaprocessor": {
+    "id": "dolby-cinemaprocessor",
+    "name": "dolby-cinemaprocessor",
+    "shortname": "cinemaprocessor",
+    "manufacturer": "Dolby",
+    "products": [
+      "Cinema Processor"
+    ],
+    "keywords": [
+      "Cinema",
+      "Processor"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/dolby-cinemaprocessor",
+    "githubUrl": "https://github.com/bitfocus/companion-module-dolby-cinemaprocessor",
+    "deprecationReason": null
+  },
+  "dtvideolabs-playbackproplus": {
+    "id": "dtvideolabs-playbackproplus",
+    "name": "dtvideolabs-playbackproplus",
+    "shortname": "pbp",
+    "manufacturer": "DT Videolabs",
+    "products": [
+      "PlaybackPro Plus"
+    ],
+    "keywords": [
+      "Video",
+      "Software"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/dtvideolabs-playbackproplus",
+    "githubUrl": "https://github.com/bitfocus/companion-module-dtvideolabs-playbackproplus",
+    "deprecationReason": null
+  },
+  "eaton-epdu": {
+    "id": "eaton-epdu",
+    "name": "eaton-epdu",
+    "shortname": "epdu",
+    "manufacturer": "Eaton",
+    "products": [
+      "ePDU"
+    ],
+    "keywords": [
+      "Power"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/eaton-epdu",
+    "githubUrl": "https://github.com/bitfocus/companion-module-eaton-epdu",
+    "deprecationReason": null
+  },
+  "ecamm-live": {
+    "id": "ecamm-live",
+    "name": "ecamm-live",
+    "shortname": "ecammlive",
+    "manufacturer": "ecamm",
+    "products": [
+      "Live"
+    ],
+    "keywords": [
+      "ecamm",
+      "live"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/ecamm-live",
+    "githubUrl": "https://github.com/bitfocus/companion-module-ecamm-live",
+    "deprecationReason": null
+  },
+  "elgato-keylight": {
+    "id": "elgato-keylight",
+    "name": "elgato-keylight",
+    "shortname": "keylight",
+    "manufacturer": "Elgato",
+    "products": [
+      "Key Light",
+      "Ring Light"
+    ],
+    "keywords": [
+      "Lighting"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/elgato-keylight",
+    "githubUrl": "https://github.com/bitfocus/companion-module-elgato-keylight",
+    "deprecationReason": null
+  },
+  "Emotimo-ST4": {
+    "id": "Emotimo-ST4",
+    "name": "Emotimo-ST4",
+    "shortname": "Emotimo",
+    "manufacturer": "eMotimo",
+    "products": [
+      "ST4",
+      "ST4.3",
+      "SA2.6"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/Emotimo-ST4",
+    "githubUrl": "https://github.com/bitfocus/companion-module-Emotimo-ST4",
+    "deprecationReason": null
+  },
+  "epiphan-pearl": {
+    "id": "epiphan-pearl",
+    "name": "epiphan-pearl",
+    "shortname": "pearl",
+    "manufacturer": "Epiphan",
+    "products": [
+      "Pearl"
+    ],
+    "keywords": [
+      "Stream",
+      "Encode",
+      "Recording"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/epiphan-pearl",
+    "githubUrl": "https://github.com/bitfocus/companion-module-epiphan-pearl",
+    "deprecationReason": null
+  },
+  "epson-businesspj": {
+    "id": "epson-businesspj",
+    "name": "epson-businesspj",
+    "shortname": "epsonpj",
+    "manufacturer": "Epson",
+    "products": [
+      "Business Projectors"
+    ],
+    "keywords": [
+      "Projector",
+      "Epson"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/epson-businesspj",
+    "githubUrl": "https://github.com/bitfocus/companion-module-epson-businesspj",
+    "deprecationReason": null
+  },
+  "esphome-api": {
+    "id": "esphome-api",
+    "name": "esphome-api",
+    "shortname": "esphome",
+    "manufacturer": "ESPHome",
+    "products": [
+      "API"
+    ],
+    "keywords": [
+      "esphome"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/esphome-api",
+    "githubUrl": "https://github.com/bitfocus/companion-module-esphome-api",
+    "deprecationReason": null
+  },
+  "etc-eos": {
+    "id": "etc-eos",
+    "name": "etc-eos",
+    "shortname": "etc-eos",
+    "manufacturer": "ETC",
+    "products": [
+      "EOS"
+    ],
+    "keywords": [
+      "Lighting"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/etc-eos",
+    "githubUrl": "https://github.com/bitfocus/companion-module-etc-eos",
+    "deprecationReason": null
+  },
+  "companion-module-etc-paradigm": {
+    "id": "companion-module-etc-paradigm",
+    "name": "etc-paradigm",
+    "shortname": "paradigm",
+    "manufacturer": "ETC",
+    "products": [
+      "Paradigm"
+    ],
+    "keywords": [
+      "Hardware",
+      "ETC",
+      "Lighting"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/companion-module-etc-paradigm",
+    "githubUrl": "https://github.com/bitfocus/companion-module-companion-module-etc-paradigm",
+    "deprecationReason": null
+  },
+  "etcaudiovisuel-onlyview": {
+    "id": "etcaudiovisuel-onlyview",
+    "name": "etcaudiovisuel-onlyview",
+    "shortname": "Onlyview",
+    "manufacturer": "ETC Audiovisuel",
+    "products": [
+      "Onlyview"
+    ],
+    "keywords": [
+      "Media Server"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/etcaudiovisuel-onlyview",
+    "githubUrl": "https://github.com/bitfocus/companion-module-etcaudiovisuel-onlyview",
+    "deprecationReason": null
+  },
+  "evertz-quartz": {
+    "id": "evertz-quartz",
+    "name": "evertz-quartz",
+    "shortname": "quartz",
+    "manufacturer": "Evertz",
+    "products": [
+      "EQX Router"
+    ],
+    "keywords": [
+      "router"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/evertz-quartz",
+    "githubUrl": "https://github.com/bitfocus/companion-module-evertz-quartz",
+    "deprecationReason": null
+  },
+  "evertz-symphony": {
+    "id": "evertz-symphony",
+    "name": "evertz-symphony",
+    "shortname": "Symphony",
+    "manufacturer": "Evertz",
+    "products": [
+      "MVP",
+      "VIP",
+      "NGI",
+      "Exhibit"
+    ],
+    "keywords": [
+      "Multiviewer"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/evertz-symphony",
+    "githubUrl": "https://github.com/bitfocus/companion-module-evertz-symphony",
+    "deprecationReason": null
+  },
+  "extron-smp351": {
+    "id": "extron-smp351",
+    "name": "extron-smp351",
+    "shortname": "SMP 351",
+    "manufacturer": "Extron",
+    "products": [
+      "SMP 351"
+    ],
+    "keywords": [
+      "Stream",
+      "Recording"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/extron-smp351",
+    "githubUrl": "https://github.com/bitfocus/companion-module-extron-smp351",
+    "deprecationReason": null
+  },
+  "ezcoo-matrix": {
+    "id": "ezcoo-matrix",
+    "name": "ezcoo-matrix",
+    "shortname": "ezcoo-matrix",
+    "manufacturer": "EZCOO",
+    "products": [
+      "MX44-HAS2 4x4 HDMI Matrix",
+      "MX42HS 4x2 HDMI Matrix"
+    ],
+    "keywords": [
+      "HDMI Matrix"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/ezcoo-matrix",
+    "githubUrl": "https://github.com/bitfocus/companion-module-ezcoo-matrix",
+    "deprecationReason": null
+  },
+  "figure53-go-button": {
+    "id": "figure53-go-button",
+    "name": "figure53-go-button",
+    "shortname": "gobutton",
+    "manufacturer": "Figure 53",
+    "products": [
+      "GoButton with feedback"
+    ],
+    "keywords": [
+      "Software",
+      "Media Server"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/figure53-go-button",
+    "githubUrl": "https://github.com/bitfocus/companion-module-figure53-go-button",
+    "deprecationReason": null
+  },
+  "figure53-qlab-advance": {
+    "id": "figure53-qlab-advance",
+    "name": "figure53-qlab-advance",
+    "shortname": "qlabfb",
+    "manufacturer": "Figure 53",
+    "products": [
+      "QLab with feedback"
+    ],
+    "keywords": [
+      "Software",
+      "Media Server"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/figure53-qlab-advance",
+    "githubUrl": "https://github.com/bitfocus/companion-module-figure53-qlab-advance",
+    "deprecationReason": null
+  },
+  "figure53-qview": {
+    "id": "figure53-qview",
+    "name": "figure53-qview",
+    "shortname": "qview",
+    "manufacturer": "Figure 53",
+    "products": [
+      "QView"
+    ],
+    "keywords": [
+      "Software"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/figure53-qview",
+    "githubUrl": "https://github.com/bitfocus/companion-module-figure53-qview",
+    "deprecationReason": null
+  },
+  "fora-mfr": {
+    "id": "fora-mfr",
+    "name": "fora-mfr",
+    "shortname": "fora-mfr",
+    "manufacturer": "For.A",
+    "products": [
+      "MFR"
+    ],
+    "keywords": [
+      "Switcher, Router, Matrix"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/fora-mfr",
+    "githubUrl": "https://github.com/bitfocus/companion-module-fora-mfr",
+    "deprecationReason": null
+  },
+  "gdsys-muxkvmswitch": {
+    "id": "gdsys-muxkvmswitch",
+    "name": "MUX KVM-Switch",
+    "shortname": "muxkvm",
+    "manufacturer": "Guntermann&Drunck",
+    "products": [
+      "DL-DVI-MUX4"
+    ],
+    "keywords": [
+      "KVM",
+      "KVM-Switch"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/gdsys-muxkvmswitch",
+    "githubUrl": "https://github.com/bitfocus/companion-module-gdsys-muxkvmswitch",
+    "deprecationReason": null
+  },
+  "generic-artnet": {
+    "id": "generic-artnet",
+    "name": "generic-artnet",
+    "shortname": "artnet",
+    "manufacturer": "Generic",
+    "products": [
+      "Art-Net"
+    ],
+    "keywords": [
+      "Protocol",
+      "Lighting",
+      "Generic"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/generic-artnet",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-artnet",
+    "deprecationReason": null
+  },
+  "generic-blink": {
+    "id": "generic-blink",
+    "name": "generic-blink",
+    "shortname": "generic-blink",
+    "manufacturer": "Generic",
+    "products": [
+      "Button Blinker"
+    ],
+    "keywords": [
+      "Blink"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/generic-blink",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-blink",
+    "deprecationReason": null
+  },
+  "generic-bridge": {
+    "id": "generic-bridge",
+    "name": "Generic Bridge",
+    "shortname": "bridge",
+    "manufacturer": "Generic",
+    "products": [
+      "Bridge"
+    ],
+    "keywords": [
+      "Generic",
+      "Bridge",
+      "WebSocket",
+      "Client",
+      "Server",
+      "State",
+      "Transmit"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/generic-bridge",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-bridge",
+    "deprecationReason": null
+  },
+  "generic-dataentry": {
+    "id": "generic-dataentry",
+    "name": "Data Entry",
+    "shortname": "dataentry",
+    "manufacturer": "Generic",
+    "products": [
+      "Data Entry"
+    ],
+    "keywords": [
+      "Data",
+      "Variables",
+      "Keypad",
+      "Numpad",
+      "Keyboard",
+      "format"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/generic-dataentry",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-dataentry",
+    "deprecationReason": null
+  },
+  "generic-emberplus": {
+    "id": "generic-emberplus",
+    "name": "generic-emberplus",
+    "shortname": "emberplus",
+    "manufacturer": "Generic",
+    "products": [
+      "Ember+"
+    ],
+    "keywords": [
+      "ember",
+      "emberplus"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/generic-emberplus",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-emberplus",
+    "deprecationReason": null
+  },
+  "generic-filereader": {
+    "id": "generic-filereader",
+    "name": "generic-filereader",
+    "shortname": "generic-filereader",
+    "manufacturer": "Generic",
+    "products": [
+      "File Reader"
+    ],
+    "keywords": [
+      "File"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/generic-filereader",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-filereader",
+    "deprecationReason": null
+  },
+  "generic-http": {
+    "id": "generic-http",
+    "name": "generic-http",
+    "shortname": "http",
+    "manufacturer": "Generic",
+    "products": [
+      "HTTP Requests"
+    ],
+    "keywords": [
+      "Protocol",
+      "Generic"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/generic-http",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-http",
+    "deprecationReason": null
+  },
+  "generic-midi": {
+    "id": "generic-midi",
+    "name": "generic-midi",
+    "shortname": "generic-midi",
+    "manufacturer": "generic",
+    "products": [
+      "MIDI"
+    ],
+    "keywords": [
+      "MIDI"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/generic-midi",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-midi",
+    "deprecationReason": null
+  },
+  "generic-mqtt": {
+    "id": "generic-mqtt",
+    "name": "generic-mqtt",
+    "shortname": "mqtt",
+    "manufacturer": "Generic",
+    "products": [
+      "MQTT"
+    ],
+    "keywords": [
+      "Protocol",
+      "Generic"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/generic-mqtt",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-mqtt",
+    "deprecationReason": null
+  },
+  "generic-onvif": {
+    "id": "generic-onvif",
+    "name": "generic-onvif",
+    "shortname": "onvif",
+    "manufacturer": "Generic",
+    "products": [
+      "ONVIF"
+    ],
+    "keywords": [
+      "ptz",
+      "camera"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/generic-onvif",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-onvif",
+    "deprecationReason": null
+  },
+  "generic-osc": {
+    "id": "generic-osc",
+    "name": "generic-osc",
+    "shortname": "osc",
+    "manufacturer": "Generic",
+    "products": [
+      "OSC"
+    ],
+    "keywords": [
+      "Protocol",
+      "Generic"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/generic-osc",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-osc",
+    "deprecationReason": null
+  },
+  "generic-ping": {
+    "id": "generic-ping",
+    "name": "generic-ping",
+    "shortname": "generic-ping",
+    "manufacturer": "Generic",
+    "products": [
+      "Ping"
+    ],
+    "keywords": [
+      "Ping"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/generic-ping",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-ping",
+    "deprecationReason": null
+  },
+  "generic-pjlink": {
+    "id": "generic-pjlink",
+    "name": "generic-pjlink",
+    "shortname": "pjlink",
+    "manufacturer": "JBMIA",
+    "products": [
+      "Projector",
+      "PJLink"
+    ],
+    "keywords": [
+      "Projector",
+      "Protocol"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/generic-pjlink",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-pjlink",
+    "deprecationReason": null
+  },
+  "generic-sacn": {
+    "id": "generic-sacn",
+    "name": "generic-sacn",
+    "shortname": "SACN",
+    "manufacturer": "Generic",
+    "products": [
+      "Streaming ACN"
+    ],
+    "keywords": [
+      "Protocol",
+      "Lighting",
+      "Generic",
+      "Net3",
+      "SACN"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/generic-sacn",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-sacn",
+    "deprecationReason": null
+  },
+  "generic-smtp": {
+    "id": "generic-smtp",
+    "name": "generic-smtp",
+    "shortname": "smtp",
+    "manufacturer": "Generic",
+    "products": [
+      "SMTP"
+    ],
+    "keywords": [
+      "Generic"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/generic-smtp",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-smtp",
+    "deprecationReason": null
+  },
+  "generic-snmp": {
+    "id": "generic-snmp",
+    "name": "generic-snmp",
+    "shortname": "snmp",
+    "manufacturer": "Generic",
+    "products": [
+      "SNMP Requests"
+    ],
+    "keywords": [
+      "Protocol",
+      "Generic"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/generic-snmp",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-snmp",
+    "deprecationReason": null
+  },
+  "generic-speedtest": {
+    "id": "generic-speedtest",
+    "name": "generic-speedtest",
+    "shortname": "speedtest",
+    "manufacturer": "Generic",
+    "products": [
+      "Speedtest"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/generic-speedtest",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-speedtest",
+    "deprecationReason": null
+  },
+  "generic-ssh": {
+    "id": "generic-ssh",
+    "name": "generic-ssh",
+    "shortname": "ssh",
+    "manufacturer": "Generic",
+    "products": [
+      "SSH"
+    ],
+    "keywords": [
+      "Protocol",
+      "Generic"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/generic-ssh",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-ssh",
+    "deprecationReason": null
+  },
+  "generic-stopwatch": {
+    "id": "generic-stopwatch",
+    "name": "generic-stopwatch",
+    "shortname": "stopwatch",
+    "manufacturer": "Generic",
+    "products": [
+      "Stopwatch"
+    ],
+    "keywords": [
+      "time",
+      "timer"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/generic-stopwatch",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-stopwatch",
+    "deprecationReason": null
+  },
+  "generic-swp02": {
+    "id": "generic-swp02",
+    "name": "Generic-SW-P-02",
+    "shortname": "SW-P-02",
+    "manufacturer": "Generic",
+    "products": [
+      "SW-P-02",
+      "Probel Router SW P 02",
+      "Snell Router SW P 02"
+    ],
+    "keywords": [
+      "Hardware",
+      "Router",
+      "Video",
+      "SDI"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/generic-swp02",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-swp02",
+    "deprecationReason": null
+  },
+  "generic-swp08": {
+    "id": "generic-swp08",
+    "name": "generic-swp08",
+    "shortname": "SW-P-08",
+    "manufacturer": "Generic",
+    "products": [
+      "SW-P-08",
+      "SW-P-08 Ross Router",
+      "SW-P-08 Snell ProBel Router",
+      "SW-P-08 Grass Valley Router",
+      "SW-P-08 Lawo VSM",
+      "SW-P-08 Calrec Router",
+      "SW-P-08 NVision Router",
+      "SW-P-08 Sony Broadcast Router",
+      "SW-P-08 BNCS",
+      "SW-P-08 DirectOut M.1k2"
+    ],
+    "keywords": [
+      "Router",
+      "Matrix",
+      "Broadcast",
+      "Production"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/generic-swp08",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-swp08",
+    "deprecationReason": null
+  },
+  "generic-tcp-serial": {
+    "id": "generic-tcp-serial",
+    "name": "generic-tcp-serial",
+    "shortname": "tsp",
+    "manufacturer": "Generic",
+    "products": [
+      "TCP Serial Port"
+    ],
+    "keywords": [
+      "TCP",
+      "serial",
+      "RS232",
+      "Generic"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/generic-tcp-serial",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-tcp-serial",
+    "deprecationReason": null
+  },
+  "generic-tcp-udp": {
+    "id": "generic-tcp-udp",
+    "name": "generic-tcp-udp",
+    "shortname": "tcp-udp",
+    "manufacturer": "Generic",
+    "products": [
+      "TCP and UDP Requests"
+    ],
+    "keywords": [
+      "Protocol",
+      "Generic"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/generic-tcp-udp",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-tcp-udp",
+    "deprecationReason": null
+  },
+  "generic-timezone": {
+    "id": "generic-timezone",
+    "name": "generic-timezone",
+    "shortname": "timezone",
+    "manufacturer": "Generic",
+    "products": [
+      "Timezone"
+    ],
+    "keywords": [
+      "time"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/generic-timezone",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-timezone",
+    "deprecationReason": null
+  },
+  "generic-wakeonlan": {
+    "id": "generic-wakeonlan",
+    "name": "generic-wakeonlan",
+    "shortname": "Wake-on-LAN",
+    "manufacturer": "Generic",
+    "products": [
+      "Wake-on-LAN"
+    ],
+    "keywords": [
+      "Protocol",
+      "Generic"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/generic-wakeonlan",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-wakeonlan",
+    "deprecationReason": null
+  },
+  "generic-websocket": {
+    "id": "generic-websocket",
+    "name": "generic-websocket",
+    "shortname": "websocket",
+    "manufacturer": "Generic",
+    "products": [
+      "WebSocket"
+    ],
+    "keywords": [
+      "Protocol",
+      "Generic"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/generic-websocket",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-websocket",
+    "deprecationReason": null
+  },
+  "generic-webtable": {
+    "id": "generic-webtable",
+    "name": "Generic Web-Table",
+    "shortname": "table",
+    "manufacturer": "Generic",
+    "products": [
+      "Web-Table"
+    ],
+    "keywords": [
+      "Browser",
+      "Web",
+      "Table"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/generic-webtable",
+    "githubUrl": "https://github.com/bitfocus/companion-module-generic-webtable",
+    "deprecationReason": null
+  },
+  "getontime-ontime": {
+    "id": "getontime-ontime",
+    "name": "getontime-ontime",
+    "shortname": "ontime",
+    "manufacturer": "GetOntime",
+    "products": [
+      "Ontime"
+    ],
+    "keywords": [
+      "ontime",
+      "companion"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/getontime-ontime",
+    "githubUrl": "https://github.com/bitfocus/companion-module-getontime-ontime",
+    "deprecationReason": null
+  },
+  "glensound-divine": {
+    "id": "glensound-divine",
+    "name": "glensound-divine",
+    "shortname": "Divine",
+    "manufacturer": "Glensound",
+    "products": [
+      "Divine"
+    ],
+    "keywords": [
+      "Audio",
+      "Speaker",
+      "Monitoring",
+      "DANTE",
+      "AES 67",
+      "Network Audio"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/glensound-divine",
+    "githubUrl": "https://github.com/bitfocus/companion-module-glensound-divine",
+    "deprecationReason": null
+  },
+  "glensound-minferno": {
+    "id": "glensound-minferno",
+    "name": "glensound-minferno",
+    "shortname": "gsminferno",
+    "manufacturer": "Glensound",
+    "products": [
+      "Minferno"
+    ],
+    "keywords": [
+      "Glensound",
+      "Minferno"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/glensound-minferno",
+    "githubUrl": "https://github.com/bitfocus/companion-module-glensound-minferno",
+    "deprecationReason": null
+  },
+  "globalcache-itac-cc": {
+    "id": "globalcache-itac-cc",
+    "name": "globalcache-itac-cc",
+    "shortname": "ip2cc",
+    "manufacturer": "Global Cache",
+    "products": [
+      "iTach IP2CC"
+    ],
+    "keywords": [
+      "Generic"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/globalcache-itac-cc",
+    "githubUrl": "https://github.com/bitfocus/companion-module-globalcache-itac-cc",
+    "deprecationReason": null
+  },
+  "globalcache-itac-ir": {
+    "id": "globalcache-itac-ir",
+    "name": "globalcache-itac-ir",
+    "shortname": "ip2ir",
+    "manufacturer": "Global Cache",
+    "products": [
+      "iTach IP2IR"
+    ],
+    "keywords": [
+      "Generic"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/globalcache-itac-ir",
+    "githubUrl": "https://github.com/bitfocus/companion-module-globalcache-itac-ir",
+    "deprecationReason": null
+  },
+  "globalcache-itac-sl": {
+    "id": "globalcache-itac-sl",
+    "name": "globalcache-itac-sl",
+    "shortname": "ip2sl",
+    "manufacturer": "Global Cache",
+    "products": [
+      "iTach IP2SL"
+    ],
+    "keywords": [
+      "Generic"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/globalcache-itac-sl",
+    "githubUrl": "https://github.com/bitfocus/companion-module-globalcache-itac-sl",
+    "deprecationReason": null
+  },
+  "gnuralnet-livetoair": {
+    "id": "gnuralnet-livetoair",
+    "name": "gnuralnet-livetoair",
+    "shortname": "lta",
+    "manufacturer": "Gnural Net",
+    "products": [
+      "Live To Air"
+    ],
+    "keywords": [
+      "Live",
+      "Broadcast"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/gnuralnet-livetoair",
+    "githubUrl": "https://github.com/bitfocus/companion-module-gnuralnet-livetoair",
+    "deprecationReason": null
+  },
+  "google-sheets": {
+    "id": "google-sheets",
+    "name": "google-sheets",
+    "shortname": "Google Sheets",
+    "manufacturer": "Google",
+    "products": [
+      "Sheets"
+    ],
+    "keywords": [
+      "Software",
+      "Chat"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/google-sheets",
+    "githubUrl": "https://github.com/bitfocus/companion-module-google-sheets",
+    "deprecationReason": null
+  },
+  "govee-lights": {
+    "id": "govee-lights",
+    "name": "govee-lights",
+    "shortname": "govee-lights",
+    "manufacturer": "Govee",
+    "products": [
+      "Lights"
+    ],
+    "keywords": [
+      "lights",
+      "lighting"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/govee-lights",
+    "githubUrl": "https://github.com/bitfocus/companion-module-govee-lights",
+    "deprecationReason": null
+  },
+  "grassvalley-amp": {
+    "id": "grassvalley-amp",
+    "name": "grassvalley-amp",
+    "shortname": "amp",
+    "manufacturer": "Grass Valley",
+    "products": [
+      "AMP"
+    ],
+    "keywords": [
+      "Protocol"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/grassvalley-amp",
+    "githubUrl": "https://github.com/bitfocus/companion-module-grassvalley-amp",
+    "deprecationReason": null
+  },
+  "green-go-intercom": {
+    "id": "green-go-intercom",
+    "name": "green-go-intercom",
+    "shortname": "GGO_Device",
+    "manufacturer": "Green-GO",
+    "products": [
+      "Intercom Remote (OSC)"
+    ],
+    "keywords": [
+      "Intercom"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/green-go-intercom",
+    "githubUrl": "https://github.com/bitfocus/companion-module-green-go-intercom",
+    "deprecationReason": null
+  },
+  "h2r-graphics": {
+    "id": "h2r-graphics",
+    "name": "h2r-graphics",
+    "shortname": "H2R Graphics",
+    "manufacturer": "Here to Record",
+    "products": [
+      "H2R Graphics"
+    ],
+    "keywords": [
+      "Graphics",
+      "Overlays"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/h2r-graphics",
+    "githubUrl": "https://github.com/bitfocus/companion-module-h2r-graphics",
+    "deprecationReason": null
+  },
+  "haivision-connectdvr": {
+    "id": "haivision-connectdvr",
+    "name": "haivision-connectdvr",
+    "shortname": "de",
+    "manufacturer": "Haivision",
+    "products": [
+      "Connect DVR"
+    ],
+    "keywords": [
+      "Video"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/haivision-connectdvr",
+    "githubUrl": "https://github.com/bitfocus/companion-module-haivision-connectdvr",
+    "deprecationReason": null
+  },
+  "haivision-kbencoder": {
+    "id": "haivision-kbencoder",
+    "name": "haivision-kbencoder",
+    "shortname": "haivision-kbencoder",
+    "manufacturer": "Haivision",
+    "products": [
+      "KB Encoder"
+    ],
+    "keywords": [
+      "Encoder"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/haivision-kbencoder",
+    "githubUrl": "https://github.com/bitfocus/companion-module-haivision-kbencoder",
+    "deprecationReason": null
+  },
+  "hdtv-wolfpackgreen": {
+    "id": "hdtv-wolfpackgreen",
+    "name": "hdtv-wolfpackgreen",
+    "shortname": "HDTV WolfPackGreen HDMI Matrix",
+    "manufacturer": "HDTV",
+    "products": [
+      "WolfPackGreen HDMI Matrix"
+    ],
+    "keywords": [
+      "hdmi matrix",
+      "hdmi",
+      "matrix"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/hdtv-wolfpackgreen",
+    "githubUrl": "https://github.com/bitfocus/companion-module-hdtv-wolfpackgreen",
+    "deprecationReason": null
+  },
+  "highend-hog4": {
+    "id": "highend-hog4",
+    "name": "highend-hog4",
+    "shortname": "hog4",
+    "manufacturer": "High End Systems",
+    "products": [
+      "Hog 4"
+    ],
+    "keywords": [
+      "Lighting"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/highend-hog4",
+    "githubUrl": "https://github.com/bitfocus/companion-module-highend-hog4",
+    "deprecationReason": null
+  },
+  "hologfx-holographics": {
+    "id": "hologfx-holographics",
+    "name": "hologfx-holographics",
+    "shortname": "hologfx",
+    "manufacturer": "hologfx.io",
+    "products": [
+      "Holographics"
+    ],
+    "keywords": [
+      "Graphics",
+      "Software"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/hologfx-holographics",
+    "githubUrl": "https://github.com/bitfocus/companion-module-hologfx-holographics",
+    "deprecationReason": null
+  },
+  "homeassistant-server": {
+    "id": "homeassistant-server",
+    "name": "homeassistant-server",
+    "shortname": "homeassistant-server",
+    "manufacturer": "Home Assistant",
+    "products": [
+      "Server"
+    ],
+    "keywords": [
+      "Generic"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/homeassistant-server",
+    "githubUrl": "https://github.com/bitfocus/companion-module-homeassistant-server",
+    "deprecationReason": null
+  },
+  "ibm-watson": {
+    "id": "ibm-watson",
+    "name": "ibm-watson",
+    "shortname": "watson",
+    "manufacturer": "IBM",
+    "products": [
+      "Watson"
+    ],
+    "keywords": [
+      "Watson",
+      "captioning"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/ibm-watson",
+    "githubUrl": "https://github.com/bitfocus/companion-module-ibm-watson",
+    "deprecationReason": null
+  },
+  "iccms-sib": {
+    "id": "iccms-sib",
+    "name": "iccms-sib",
+    "shortname": "sib",
+    "manufacturer": "IC Control Media & Sport AB",
+    "products": [
+      "Sport In The Box"
+    ],
+    "keywords": [
+      "Sport In The Box",
+      "sib"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/iccms-sib",
+    "githubUrl": "https://github.com/bitfocus/companion-module-iccms-sib",
+    "deprecationReason": null
+  },
+  "ictag-easyvideo": {
+    "id": "ictag-easyvideo",
+    "name": "ictag-easyvideo",
+    "shortname": "easyVideo",
+    "manufacturer": "ICT AG",
+    "products": [
+      "easyVideo"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/ictag-easyvideo",
+    "githubUrl": "https://github.com/bitfocus/companion-module-ictag-easyvideo",
+    "deprecationReason": null
+  },
+  "iiyama-prolite": {
+    "id": "iiyama-prolite",
+    "name": "iiyama-prolite",
+    "shortname": "prolite",
+    "manufacturer": "Iiyama",
+    "products": [
+      "Prolite"
+    ],
+    "keywords": [
+      "iiyama",
+      "monitor",
+      "prolite"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/iiyama-prolite",
+    "githubUrl": "https://github.com/bitfocus/companion-module-iiyama-prolite",
+    "deprecationReason": null
+  },
+  "imagine-lrc": {
+    "id": "imagine-lrc",
+    "name": "imagine-lrc",
+    "shortname": "lrc",
+    "manufacturer": "Imagine Communications",
+    "products": [
+      "Logical Router Control"
+    ],
+    "keywords": [
+      "Imagine Communications",
+      "Logical Router Control",
+      "Video Router"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/imagine-lrc",
+    "githubUrl": "https://github.com/bitfocus/companion-module-imagine-lrc",
+    "deprecationReason": null
+  },
+  "imimot-mitti": {
+    "id": "imimot-mitti",
+    "name": "imimot-mitti",
+    "shortname": "mitti",
+    "manufacturer": "Imimot",
+    "products": [
+      "Mitti"
+    ],
+    "keywords": [
+      "Software",
+      "Video"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/imimot-mitti",
+    "githubUrl": "https://github.com/bitfocus/companion-module-imimot-mitti",
+    "deprecationReason": null
+  },
+  "companion-module-intelix-matrix": {
+    "id": "companion-module-intelix-matrix",
+    "name": "intelix-matrix",
+    "shortname": "intelix",
+    "manufacturer": "Intelix",
+    "products": [
+      "INT-44HDX",
+      "INT-66HDX",
+      "INT-88HDX"
+    ],
+    "keywords": [
+      "Hardware",
+      "Matrix"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/companion-module-intelix-matrix",
+    "githubUrl": "https://github.com/bitfocus/companion-module-companion-module-intelix-matrix",
+    "deprecationReason": null
+  },
+  "interactivetechnologies-cueserver": {
+    "id": "interactivetechnologies-cueserver",
+    "name": "interactivetechnologies-cueserver",
+    "shortname": "cueserver",
+    "manufacturer": "Interactive Technologies",
+    "products": [
+      "CueServer"
+    ],
+    "keywords": [
+      "Lighting"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/interactivetechnologies-cueserver",
+    "githubUrl": "https://github.com/bitfocus/companion-module-interactivetechnologies-cueserver",
+    "deprecationReason": null
+  },
+  "interspace-mastercuev7": {
+    "id": "interspace-mastercuev7",
+    "name": "interspace-mastercuev7",
+    "shortname": "MasterCueV7",
+    "manufacturer": "Interspace Industries",
+    "products": [
+      "MasterCue V7"
+    ],
+    "keywords": [
+      "MasterCue",
+      "Cue",
+      "V7",
+      "Interspace"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/interspace-mastercuev7",
+    "githubUrl": "https://github.com/bitfocus/companion-module-interspace-mastercuev7",
+    "deprecationReason": null
+  },
+  "ioversal-vertex": {
+    "id": "ioversal-vertex",
+    "name": "ioversal-vertex",
+    "shortname": "Vertex",
+    "manufacturer": "ioversal",
+    "products": [
+      "Vertex"
+    ],
+    "keywords": [
+      "Media Server",
+      "Software",
+      "Video",
+      "Multi System Playout",
+      "Interactive Show Control"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/ioversal-vertex",
+    "githubUrl": "https://github.com/bitfocus/companion-module-ioversal-vertex",
+    "deprecationReason": null
+  },
+  "ipl-ocp": {
+    "id": "ipl-ocp",
+    "name": "ipl-ocp",
+    "shortname": "ocp",
+    "manufacturer": "Inkling Performance Labs",
+    "products": [
+      "Overlay Control Panel"
+    ],
+    "keywords": [
+      "ipl",
+      "ocp",
+      "Inkling Performance Labs",
+      "Overlay Control Panel"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/ipl-ocp",
+    "githubUrl": "https://github.com/bitfocus/companion-module-ipl-ocp",
+    "deprecationReason": null
+  },
+  "irisdown-countdowntimer": {
+    "id": "irisdown-countdowntimer",
+    "name": "irisdown-countdowntimer",
+    "shortname": "countdown",
+    "manufacturer": "Irisdown",
+    "products": [
+      "Countdown Timer"
+    ],
+    "keywords": [
+      "Software",
+      "Timing"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/irisdown-countdowntimer",
+    "githubUrl": "https://github.com/bitfocus/companion-module-irisdown-countdowntimer",
+    "deprecationReason": null
+  },
+  "irisdown-remoteshowcontrol": {
+    "id": "irisdown-remoteshowcontrol",
+    "name": "irisdown-remoteshowcontrol",
+    "shortname": "rsc",
+    "manufacturer": "Irisdown",
+    "products": [
+      "Remote Show Control"
+    ],
+    "keywords": [
+      "Software"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/irisdown-remoteshowcontrol",
+    "githubUrl": "https://github.com/bitfocus/companion-module-irisdown-remoteshowcontrol",
+    "deprecationReason": null
+  },
+  "jozeemedia-jcounter": {
+    "id": "jozeemedia-jcounter",
+    "name": "jozeemedia-jcounter",
+    "shortname": "",
+    "manufacturer": "Jozee Media Solutions",
+    "products": [
+      "J-Counter"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/jozeemedia-jcounter",
+    "githubUrl": "https://github.com/bitfocus/companion-module-jozeemedia-jcounter",
+    "deprecationReason": null
+  },
+  "justmacros-lua": {
+    "id": "justmacros-lua",
+    "name": "justmacros-lua",
+    "shortname": "justmacros",
+    "manufacturer": "JustMacros",
+    "products": [
+      "LUA"
+    ],
+    "keywords": [
+      "Show Control",
+      "Software"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/justmacros-lua",
+    "githubUrl": "https://github.com/bitfocus/companion-module-justmacros-lua",
+    "deprecationReason": null
+  },
+  "jvc-ptz": {
+    "id": "jvc-ptz",
+    "name": "jvc-ptz",
+    "shortname": "JVC ptz",
+    "manufacturer": "JVC",
+    "products": [
+      "Camera",
+      "KZ100",
+      "PZ510"
+    ],
+    "keywords": [
+      "Camera",
+      "PTZ"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/jvc-ptz",
+    "githubUrl": "https://github.com/bitfocus/companion-module-jvc-ptz",
+    "deprecationReason": null
+  },
+  "kenkufm": {
+    "id": "kenkufm",
+    "name": "KenkuFM",
+    "shortname": "kenkufm",
+    "manufacturer": "KenkuFM",
+    "products": [
+      "API Controller"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/kenkufm",
+    "githubUrl": "https://github.com/bitfocus/companion-module-kenkufm",
+    "deprecationReason": null
+  },
+  "kiloview-encoder": {
+    "id": "kiloview-encoder",
+    "name": "kiloview-encoder",
+    "shortname": "kiloview",
+    "manufacturer": "Kiloview",
+    "products": [
+      "E1",
+      "E2",
+      "G1",
+      "G2"
+    ],
+    "keywords": [
+      "Kiloview",
+      "Encoder"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/kiloview-encoder",
+    "githubUrl": "https://github.com/bitfocus/companion-module-kiloview-encoder",
+    "deprecationReason": null
+  },
+  "kiloview-ndi": {
+    "id": "kiloview-ndi",
+    "name": "kiloview-ndi",
+    "shortname": "kiloview",
+    "manufacturer": "Kiloview",
+    "products": [
+      "N40",
+      "N50",
+      "N60",
+      "N5",
+      "N6"
+    ],
+    "keywords": [
+      "NDI",
+      "Video"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/kiloview-ndi",
+    "githubUrl": "https://github.com/bitfocus/companion-module-kiloview-ndi",
+    "deprecationReason": null
+  },
+  "klang-app": {
+    "id": "klang-app",
+    "name": "Klang App",
+    "shortname": "Klang App",
+    "manufacturer": "Klang",
+    "products": [
+      "App"
+    ],
+    "keywords": [
+      "Klang",
+      "audio",
+      "immersive",
+      "Konductor",
+      "Vokal",
+      "DMI-Klang"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/klang-app",
+    "githubUrl": "https://github.com/bitfocus/companion-module-klang-app",
+    "deprecationReason": null
+  },
+  "klang-immersive": {
+    "id": "klang-immersive",
+    "name": "Klang Immersive",
+    "shortname": "Klang",
+    "manufacturer": "Klang",
+    "products": [
+      "Immersive",
+      "Konductor",
+      "Vokal",
+      "DMI-Klang"
+    ],
+    "keywords": [
+      "Klang",
+      "audio",
+      "immersive",
+      "Konductor",
+      "Vokal",
+      "DMI-Klang"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/klang-immersive",
+    "githubUrl": "https://github.com/bitfocus/companion-module-klang-immersive",
+    "deprecationReason": null
+  },
+  "kramer-matrix": {
+    "id": "kramer-matrix",
+    "name": "kramer-matrix",
+    "shortname": "kramer-matrix",
+    "manufacturer": "Kramer",
+    "products": [
+      "Matrix (Generic)"
+    ],
+    "keywords": [
+      "Matrix"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/kramer-matrix",
+    "githubUrl": "https://github.com/bitfocus/companion-module-kramer-matrix",
+    "deprecationReason": null
+  },
+  "lea-amplifier": {
+    "id": "lea-amplifier",
+    "name": "lea-amplifier",
+    "shortname": "lea-amp",
+    "manufacturer": "LEA",
+    "products": [
+      "Amplifier"
+    ],
+    "keywords": [
+      "amplifier",
+      "audio"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/lea-amplifier",
+    "githubUrl": "https://github.com/bitfocus/companion-module-lea-amplifier",
+    "deprecationReason": null
+  },
+  "ableset": {
+    "id": "ableset",
+    "name": "AbleSet",
+    "shortname": "AbleSet",
+    "manufacturer": "Leolabs",
+    "products": [
+      "AbleSet"
+    ],
+    "keywords": [
+      "Ableton",
+      "Live",
+      "Setlist"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/ableset",
+    "githubUrl": "https://github.com/bitfocus/companion-module-ableset",
+    "deprecationReason": null
+  },
+  "leonreucher-vstopowerpoint": {
+    "id": "leonreucher-vstopowerpoint",
+    "name": "leonreucher-vstopowerpoint",
+    "shortname": "vstopowerpoint",
+    "manufacturer": "Leon Reucher",
+    "products": [
+      "PowerPoint Remote VSTO WebSocket"
+    ],
+    "keywords": [
+      "PowerPoint",
+      "Microsoft"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/leonreucher-vstopowerpoint",
+    "githubUrl": "https://github.com/bitfocus/companion-module-leonreucher-vstopowerpoint",
+    "deprecationReason": null
+  },
+  "lightware-lw3": {
+    "id": "lightware-lw3",
+    "name": "lightware-lw3",
+    "shortname": "lightwareLW3",
+    "manufacturer": "Lightware",
+    "products": [
+      "LW3"
+    ],
+    "keywords": [
+      "Protocol",
+      "Matrix"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/lightware-lw3",
+    "githubUrl": "https://github.com/bitfocus/companion-module-lightware-lw3",
+    "deprecationReason": null
+  },
+  "companion-module-limagiran-holyrics": {
+    "id": "companion-module-limagiran-holyrics",
+    "name": "companion-module-limagiran-holyrics",
+    "shortname": "holyrics",
+    "manufacturer": "Lima Giran Ltda.",
+    "products": [
+      "Holyrics"
+    ],
+    "keywords": [
+      "lyrics",
+      "bible verses",
+      "presentation"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/companion-module-limagiran-holyrics",
+    "githubUrl": "https://github.com/bitfocus/companion-module-companion-module-limagiran-holyrics",
+    "deprecationReason": null
+  },
+  "lofas-ndistudioclock": {
+    "id": "lofas-ndistudioclock",
+    "name": "lofas-ndistudioclock",
+    "shortname": "ndistudioclock",
+    "manufacturer": "Lofas AB",
+    "products": [
+      "NDI Studio Clock"
+    ],
+    "keywords": [
+      "Software",
+      "NDI",
+      "Studio Clock",
+      "Clock"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/lofas-ndistudioclock",
+    "githubUrl": "https://github.com/bitfocus/companion-module-lofas-ndistudioclock",
+    "deprecationReason": null
+  },
+  "logos-proclaim": {
+    "id": "logos-proclaim",
+    "name": "logos-proclaim",
+    "shortname": "Proclaim",
+    "manufacturer": "Logos",
+    "products": [
+      "Proclaim"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/logos-proclaim",
+    "githubUrl": "https://github.com/bitfocus/companion-module-logos-proclaim",
+    "deprecationReason": null
+  },
+  "lost-cause-photographic-controlroom": {
+    "id": "lost-cause-photographic-controlroom",
+    "name": "lost-cause-photographic-controlroom",
+    "shortname": "ControlRoom",
+    "manufacturer": "Lost Cause Photographic",
+    "products": [
+      "ControlRoom"
+    ],
+    "keywords": [
+      "GPI",
+      "FSI",
+      "SmallHD"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/lost-cause-photographic-controlroom",
+    "githubUrl": "https://github.com/bitfocus/companion-module-lost-cause-photographic-controlroom",
+    "deprecationReason": null
+  },
+  "ltn-schedule": {
+    "id": "ltn-schedule",
+    "name": "ltn-schedule",
+    "shortname": "Schedule",
+    "manufacturer": "LTN",
+    "products": [
+      "Schedule"
+    ],
+    "keywords": [
+      "Schedule",
+      "Playout"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/ltn-schedule",
+    "githubUrl": "https://github.com/bitfocus/companion-module-ltn-schedule",
+    "deprecationReason": null
+  },
+  "luminex-gigacore": {
+    "id": "luminex-gigacore",
+    "name": "luminex-gigacore",
+    "shortname": "GigaCore",
+    "manufacturer": "Luminex",
+    "products": [
+      "GigaCore"
+    ],
+    "keywords": [
+      "Switch",
+      "Luminex",
+      "GigaCore"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/luminex-gigacore",
+    "githubUrl": "https://github.com/bitfocus/companion-module-luminex-gigacore",
+    "deprecationReason": null
+  },
+  "luminex-luminode": {
+    "id": "luminex-luminode",
+    "name": "luminex-luminode",
+    "shortname": "LumiNode",
+    "manufacturer": "Luminex",
+    "products": [
+      "LumiNode",
+      "LumiCore"
+    ],
+    "keywords": [
+      "Lighting",
+      "Luminex"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/luminex-luminode",
+    "githubUrl": "https://github.com/bitfocus/companion-module-luminex-luminode",
+    "deprecationReason": null
+  },
+  "magewell-director": {
+    "id": "magewell-director",
+    "name": "magewell-director",
+    "shortname": "Director Mini",
+    "manufacturer": "Magewell",
+    "products": [
+      "Director Mini"
+    ],
+    "keywords": [
+      "Magewell",
+      "Director Mini",
+      "Mini"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/magewell-director",
+    "githubUrl": "https://github.com/bitfocus/companion-module-magewell-director",
+    "deprecationReason": null
+  },
+  "magnimage-mig-ec": {
+    "id": "magnimage-mig-ec",
+    "name": "magnimage-mig-ec",
+    "shortname": "mig-ec",
+    "manufacturer": "Magnimage",
+    "products": [
+      "MIG-EC90",
+      "MIG-EC80"
+    ],
+    "keywords": [
+      "magnimage",
+      "ec90",
+      "ec-90",
+      "mig690",
+      "mig-690",
+      "mig-ec90",
+      "ec80",
+      "ec-80",
+      "mig680",
+      "mig-680",
+      "mig-ec80"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/magnimage-mig-ec",
+    "githubUrl": "https://github.com/bitfocus/companion-module-magnimage-mig-ec",
+    "deprecationReason": null
+  },
+  "malighting-grandma2": {
+    "id": "malighting-grandma2",
+    "name": "malighting-grandma2",
+    "shortname": "grandma2",
+    "manufacturer": "MA Lighting",
+    "products": [
+      "GrandMA2"
+    ],
+    "keywords": [
+      "Lighting"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/malighting-grandma2",
+    "githubUrl": "https://github.com/bitfocus/companion-module-malighting-grandma2",
+    "deprecationReason": null
+  },
+  "malighting-grandma3": {
+    "id": "malighting-grandma3",
+    "name": "malighting-grandma3",
+    "shortname": "GrandMA3",
+    "manufacturer": "MA Lighting",
+    "products": [
+      "GrandMA3"
+    ],
+    "keywords": [
+      "Lighting"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/malighting-grandma3",
+    "githubUrl": "https://github.com/bitfocus/companion-module-malighting-grandma3",
+    "deprecationReason": null
+  },
+  "malighting-msc": {
+    "id": "malighting-msc",
+    "name": "malighting-msc",
+    "shortname": "mamsc",
+    "manufacturer": "MA Lighting",
+    "products": [
+      "dot2 MSC",
+      "grandMA2 MSC"
+    ],
+    "keywords": [
+      "Lighting",
+      "Show Control"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/malighting-msc",
+    "githubUrl": "https://github.com/bitfocus/companion-module-malighting-msc",
+    "deprecationReason": null
+  },
+  "marshall-ipcamera": {
+    "id": "marshall-ipcamera",
+    "name": "marshall-ipcamera",
+    "shortname": "m-cam",
+    "manufacturer": "Marshall",
+    "products": [
+      "CV355",
+      "CV420",
+      "CV420e",
+      "CV620",
+      "CV630",
+      "CV730"
+    ],
+    "keywords": [
+      "Marshall IP Camera"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/marshall-ipcamera",
+    "githubUrl": "https://github.com/bitfocus/companion-module-marshall-ipcamera",
+    "deprecationReason": null
+  },
+  "massimo-callegari-qlcplus": {
+    "id": "massimo-callegari-qlcplus",
+    "name": "qlcplus",
+    "shortname": "qlcplus",
+    "manufacturer": "massimo-callegari",
+    "products": [
+      "qlcplus"
+    ],
+    "keywords": [
+      "light",
+      "console"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/massimo-callegari-qlcplus",
+    "githubUrl": "https://github.com/bitfocus/companion-module-massimo-callegari-qlcplus",
+    "deprecationReason": null
+  },
+  "matrox-monarch": {
+    "id": "matrox-monarch",
+    "name": "matrox-monarch",
+    "shortname": "Monarch",
+    "manufacturer": "Matrox",
+    "products": [
+      "Monarch HD/HDX/LCS"
+    ],
+    "keywords": [
+      "Stream",
+      "Encode",
+      "Recording",
+      "Matrox",
+      "Datavideo"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/matrox-monarch",
+    "githubUrl": "https://github.com/bitfocus/companion-module-matrox-monarch",
+    "deprecationReason": null
+  },
+  "microsoft-teams": {
+    "id": "microsoft-teams",
+    "name": "microsoft-teams",
+    "shortname": "teams",
+    "manufacturer": "Microsoft",
+    "products": [
+      "Teams"
+    ],
+    "keywords": [
+      "Teams",
+      "MS Teams",
+      "Microsoft"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/microsoft-teams",
+    "githubUrl": "https://github.com/bitfocus/companion-module-microsoft-teams",
+    "deprecationReason": null
+  },
+  "microsoft-vscode": {
+    "id": "microsoft-vscode",
+    "name": "Microsoft VSCode",
+    "shortname": "VSCode",
+    "manufacturer": "Microsoft",
+    "products": [
+      "VSCode"
+    ],
+    "keywords": [
+      "Code",
+      "Visual Studio Code"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/microsoft-vscode",
+    "githubUrl": "https://github.com/bitfocus/companion-module-microsoft-vscode",
+    "deprecationReason": null
+  },
+  "middleman-adit": {
+    "id": "middleman-adit",
+    "name": "middleman-adit",
+    "shortname": "AdIT",
+    "manufacturer": "Middleman Software",
+    "products": [
+      "AdIT"
+    ],
+    "keywords": [
+      "SCTE",
+      "SCTE 104",
+      "SCTE 35",
+      "Middleman",
+      "DAI",
+      "Dynamic Ad Insertion"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/middleman-adit",
+    "githubUrl": "https://github.com/bitfocus/companion-module-middleman-adit",
+    "deprecationReason": null
+  },
+  "middleman-breaktime": {
+    "id": "middleman-breaktime",
+    "name": "middleman-breaktime",
+    "shortname": "middleman-breaktime",
+    "manufacturer": "Middleman Software",
+    "products": [
+      "BreakTime"
+    ],
+    "keywords": [
+      "SCTE-104"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/middleman-breaktime",
+    "githubUrl": "https://github.com/bitfocus/companion-module-middleman-breaktime",
+    "deprecationReason": null
+  },
+  "middlethings-middlecontrol": {
+    "id": "middlethings-middlecontrol",
+    "name": "middlethings-middlecontrol",
+    "shortname": "middlecontrol",
+    "manufacturer": "Middle Things",
+    "products": [
+      "Middle Control"
+    ],
+    "keywords": [
+      "PTZ",
+      "RS2",
+      "DJI",
+      "APC-R",
+      "APC",
+      "Blackmagic",
+      "Gimbal"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/middlethings-middlecontrol",
+    "githubUrl": "https://github.com/bitfocus/companion-module-middlethings-middlecontrol",
+    "deprecationReason": null
+  },
+  "mixtech-theatremix": {
+    "id": "mixtech-theatremix",
+    "name": "mixtech-theatremix",
+    "shortname": "theatremix",
+    "manufacturer": "Mixing Technology",
+    "products": [
+      "TheatreMix"
+    ],
+    "keywords": [
+      "Show Control",
+      "Audio"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/mixtech-theatremix",
+    "githubUrl": "https://github.com/bitfocus/companion-module-mixtech-theatremix",
+    "deprecationReason": null
+  },
+  "modulopi-moduloplayer": {
+    "id": "modulopi-moduloplayer",
+    "name": "modulopi-moduloplayer",
+    "shortname": "Modulo Player",
+    "manufacturer": "Modulo Pi",
+    "products": [
+      "Modulo Player"
+    ],
+    "keywords": [
+      "Software",
+      "Media Server"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/modulopi-moduloplayer",
+    "githubUrl": "https://github.com/bitfocus/companion-module-modulopi-moduloplayer",
+    "deprecationReason": null
+  },
+  "lightkey": {
+    "id": "lightkey",
+    "name": "Lightkey",
+    "shortname": "Lightkey",
+    "manufacturer": "Monospace",
+    "products": [
+      "Lightkey"
+    ],
+    "keywords": [
+      "lightkey",
+      "lighting",
+      "dmx"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/lightkey",
+    "githubUrl": "https://github.com/bitfocus/companion-module-lightkey",
+    "deprecationReason": null
+  },
+  "monteiro-cronosdown": {
+    "id": "monteiro-cronosdown",
+    "name": "monteiro-cronosdown",
+    "shortname": "cronosdown",
+    "manufacturer": "Monteiro",
+    "products": [
+      "CronosDown"
+    ],
+    "keywords": [
+      "Software",
+      "Timer"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/monteiro-cronosdown",
+    "githubUrl": "https://github.com/bitfocus/companion-module-monteiro-cronosdown",
+    "deprecationReason": null
+  },
+  "monteiro-pptvideo": {
+    "id": "monteiro-pptvideo",
+    "name": "monteiro-pptvideo",
+    "shortname": "pptvideo",
+    "manufacturer": "Monteiro",
+    "products": [
+      "PPT-VIDEO"
+    ],
+    "keywords": [
+      "PPT",
+      "PPTX",
+      "PowerPoint"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/monteiro-pptvideo",
+    "githubUrl": "https://github.com/bitfocus/companion-module-monteiro-pptvideo",
+    "deprecationReason": null
+  },
+  "moxa-e2200series": {
+    "id": "moxa-e2200series",
+    "name": "moxa-e2200series",
+    "shortname": "ioLogik e2200 Series",
+    "manufacturer": "Moxa",
+    "products": [
+      "e2210",
+      "e2212",
+      "e2214",
+      "e2242",
+      "e2260",
+      "e2262"
+    ],
+    "keywords": [
+      "DIO",
+      "DI",
+      "DO",
+      "GPIO",
+      "GPI",
+      "GPO",
+      "ioLogik"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/moxa-e2200series",
+    "githubUrl": "https://github.com/bitfocus/companion-module-moxa-e2200series",
+    "deprecationReason": null
+  },
+  "companion-module-mrmoco-mhc": {
+    "id": "companion-module-mrmoco-mhc",
+    "name": "companion-module-mrmoco-mhc",
+    "shortname": "MHC",
+    "manufacturer": "Mark Roberts Motion Control",
+    "products": [
+      "MHC"
+    ],
+    "keywords": [
+      "MRMC",
+      "Robotics",
+      "Polymotion"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/companion-module-mrmoco-mhc",
+    "githubUrl": "https://github.com/bitfocus/companion-module-companion-module-mrmoco-mhc",
+    "deprecationReason": null
+  },
+  "mt-viki-matrix": {
+    "id": "mt-viki-matrix",
+    "name": "mt-viki-matrix",
+    "shortname": "mt-viki-matrix",
+    "manufacturer": "MT VIKI",
+    "products": [
+      "MT-HD0808 8x8 HDMI Matrix"
+    ],
+    "keywords": [
+      "HDMI Matrix"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/mt-viki-matrix",
+    "githubUrl": "https://github.com/bitfocus/companion-module-mt-viki-matrix",
+    "deprecationReason": null
+  },
+  "mvr-helios": {
+    "id": "mvr-helios",
+    "name": "mvr-helios",
+    "shortname": "Helios",
+    "manufacturer": "Megapixel",
+    "products": [
+      "Helios"
+    ],
+    "keywords": [
+      "MVR",
+      "Megapixel VR",
+      "Megapixel",
+      "Helios",
+      "LED Screen"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/mvr-helios",
+    "githubUrl": "https://github.com/bitfocus/companion-module-mvr-helios",
+    "deprecationReason": null
+  },
+  "nec-display": {
+    "id": "nec-display",
+    "name": "nec-display",
+    "shortname": "nec-display",
+    "manufacturer": "NEC",
+    "products": [
+      "Display"
+    ],
+    "keywords": [
+      "monitor"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/nec-display",
+    "githubUrl": "https://github.com/bitfocus/companion-module-nec-display",
+    "deprecationReason": null
+  },
+  "netgear-avline": {
+    "id": "netgear-avline",
+    "name": "netgear-avline",
+    "shortname": "avline",
+    "manufacturer": "Netgear",
+    "products": [
+      "AV Line"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/netgear-avline",
+    "githubUrl": "https://github.com/bitfocus/companion-module-netgear-avline",
+    "deprecationReason": null
+  },
+  "netio-powerbox": {
+    "id": "netio-powerbox",
+    "name": "netio-powerbox",
+    "shortname": "PowerBOX",
+    "manufacturer": "NETIO",
+    "products": [
+      "PowerBOX"
+    ],
+    "keywords": [
+      "Power",
+      "Electric"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/netio-powerbox",
+    "githubUrl": "https://github.com/bitfocus/companion-module-netio-powerbox",
+    "deprecationReason": null
+  },
+  "netron-en": {
+    "id": "netron-en",
+    "name": "netron-en",
+    "shortname": "netron",
+    "manufacturer": "Netron",
+    "products": [
+      "EN",
+      "EN-12"
+    ],
+    "keywords": [
+      "Lighting"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/netron-en",
+    "githubUrl": "https://github.com/bitfocus/companion-module-netron-en",
+    "deprecationReason": null
+  },
+  "neumannmueller-stageflow": {
+    "id": "neumannmueller-stageflow",
+    "name": "neumannmueller-stageflow",
+    "shortname": "Stageflow",
+    "manufacturer": "Neumann&Müller GmbH & Co. KG",
+    "products": [
+      "Stageflow"
+    ],
+    "keywords": [
+      "Software",
+      "Timing",
+      "Timer",
+      "StagePreview",
+      "DSM"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/neumannmueller-stageflow",
+    "githubUrl": "https://github.com/bitfocus/companion-module-neumannmueller-stageflow",
+    "deprecationReason": null
+  },
+  "newblue-captivate": {
+    "id": "newblue-captivate",
+    "name": "newblue-captivate",
+    "shortname": "Captivate",
+    "manufacturer": "NewBlue",
+    "products": [
+      "Captivate"
+    ],
+    "keywords": [
+      "Graphics"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/newblue-captivate",
+    "githubUrl": "https://github.com/bitfocus/companion-module-newblue-captivate",
+    "deprecationReason": null
+  },
+  "newtek-tricaster": {
+    "id": "newtek-tricaster",
+    "name": "newtek-tricaster",
+    "shortname": "tricaster",
+    "manufacturer": "Newtek",
+    "products": [
+      "Tricaster"
+    ],
+    "keywords": [
+      "Switcher"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/newtek-tricaster",
+    "githubUrl": "https://github.com/bitfocus/companion-module-newtek-tricaster",
+    "deprecationReason": null
+  },
+  "nexo-nxamp": {
+    "id": "nexo-nxamp",
+    "name": "nexo-nxamp",
+    "shortname": "NXAMP",
+    "manufacturer": "NEXO",
+    "products": [
+      "NXAMP"
+    ],
+    "keywords": [
+      "Amplifier",
+      "Audio"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/nexo-nxamp",
+    "githubUrl": "https://github.com/bitfocus/companion-module-nexo-nxamp",
+    "deprecationReason": null
+  },
+  "nohassleav-matrix": {
+    "id": "nohassleav-matrix",
+    "name": "nohassleav-matrix",
+    "shortname": "nohassleav-matrix",
+    "manufacturer": "NoHassleAV",
+    "products": [
+      "Matrix"
+    ],
+    "keywords": [
+      "matrix",
+      "hdmi",
+      "4x4",
+      "NoHassleAV"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/nohassleav-matrix",
+    "githubUrl": "https://github.com/bitfocus/companion-module-nohassleav-matrix",
+    "deprecationReason": null
+  },
+  "nohassleav-videowallprocessor": {
+    "id": "nohassleav-videowallprocessor",
+    "name": "nohassleav-videowallprocessor",
+    "shortname": "nohassleav-vidwallproc",
+    "manufacturer": "NoHassleAV",
+    "products": [
+      "HDP MXB44VW",
+      "Video Wall Processor 4x4"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/nohassleav-videowallprocessor",
+    "githubUrl": "https://github.com/bitfocus/companion-module-nohassleav-videowallprocessor",
+    "deprecationReason": null
+  },
+  "noismada-octopusshowcontrol": {
+    "id": "noismada-octopusshowcontrol",
+    "name": "noismada-octopusshowcontrol",
+    "shortname": "octopuslistener",
+    "manufacturer": "Octopus",
+    "products": [
+      "Listener"
+    ],
+    "keywords": [
+      "Software",
+      "Keyboard emulator"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/noismada-octopusshowcontrol",
+    "githubUrl": "https://github.com/bitfocus/companion-module-noismada-octopusshowcontrol",
+    "deprecationReason": null
+  },
+  "nortek-bluebolt": {
+    "id": "nortek-bluebolt",
+    "name": "nortek-bluebolt",
+    "shortname": "bluebolt",
+    "manufacturer": "Nortek",
+    "products": [
+      "Bluebolt"
+    ],
+    "keywords": [
+      "Furman",
+      "Panamax",
+      "Nortek",
+      "Bluebolt"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/nortek-bluebolt",
+    "githubUrl": "https://github.com/bitfocus/companion-module-nortek-bluebolt",
+    "deprecationReason": null
+  },
+  "notion-timestamp": {
+    "id": "notion-timestamp",
+    "name": "notion-timestamp",
+    "shortname": "timestamp",
+    "manufacturer": "Notion",
+    "products": [
+      "Timestamp"
+    ],
+    "keywords": [
+      "Timestamp",
+      "Notion"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/notion-timestamp",
+    "githubUrl": "https://github.com/bitfocus/companion-module-notion-timestamp",
+    "deprecationReason": null
+  },
+  "companion-module-novastar-coex": {
+    "id": "companion-module-novastar-coex",
+    "name": "companion-module-novastar-coex",
+    "shortname": "novastar-coex",
+    "manufacturer": "NovaStar Coex",
+    "products": [
+      "MX40 Pro",
+      "CX80 Pro",
+      "KU20"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/companion-module-novastar-coex",
+    "githubUrl": "https://github.com/bitfocus/companion-module-companion-module-novastar-coex",
+    "deprecationReason": null
+  },
+  "novastar-controller": {
+    "id": "novastar-controller",
+    "name": "novastar-controller",
+    "shortname": "novastar",
+    "manufacturer": "Novastar",
+    "products": [
+      "MCTRL4K",
+      "VX4S",
+      "VX6S",
+      "NovaPro HD",
+      "NovaPro UHD Jr",
+      "VX1000",
+      "VX600",
+      "VX16S",
+      "J6"
+    ],
+    "keywords": [
+      "LED Processing"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/novastar-controller",
+    "githubUrl": "https://github.com/bitfocus/companion-module-novastar-controller",
+    "deprecationReason": null
+  },
+  "novastar-mediaserver": {
+    "id": "novastar-mediaserver",
+    "name": "novastar-media-server",
+    "shortname": "media-server",
+    "manufacturer": "Nuowaxingyun",
+    "products": [
+      "RX6"
+    ],
+    "keywords": [
+      "Nuowaxingyun",
+      "Media-Server",
+      "RX6"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/novastar-mediaserver",
+    "githubUrl": "https://github.com/bitfocus/companion-module-novastar-mediaserver",
+    "deprecationReason": null
+  },
+  "novastar-mxreal3": {
+    "id": "novastar-mxreal3",
+    "name": "novastar-mxreal3",
+    "shortname": "MxReal 3",
+    "manufacturer": "NovaStar",
+    "products": [
+      "MxReal 3"
+    ],
+    "keywords": [
+      "NovaStar",
+      "XR",
+      "MxReal 3"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/novastar-mxreal3",
+    "githubUrl": "https://github.com/bitfocus/companion-module-novastar-mxreal3",
+    "deprecationReason": null
+  },
+  "novastar-switcher": {
+    "id": "novastar-switcher",
+    "name": "novastar-switcher",
+    "shortname": "switcher",
+    "manufacturer": "NovaStar",
+    "products": [
+      "N10",
+      "N20",
+      "D12",
+      "D32"
+    ],
+    "keywords": [
+      "Nuowaxingyun",
+      "NovaStar"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/novastar-switcher",
+    "githubUrl": "https://github.com/bitfocus/companion-module-novastar-switcher",
+    "deprecationReason": null
+  },
+  "nrk-sofie-chef": {
+    "id": "nrk-sofie-chef",
+    "name": "nrk-sofie-chef",
+    "shortname": "sofie-chef",
+    "manufacturer": "NRK",
+    "products": [
+      "Sofie Chef"
+    ],
+    "keywords": [
+      "Sofie",
+      "Chef",
+      "Websocket",
+      "Video",
+      "Software",
+      "Graphics"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/nrk-sofie-chef",
+    "githubUrl": "https://github.com/bitfocus/companion-module-nrk-sofie-chef",
+    "deprecationReason": null
+  },
+  "ntp-technology-dot": {
+    "id": "ntp-technology-dot",
+    "name": "ntp-technology-dot",
+    "shortname": "DOT Protocol",
+    "manufacturer": "NTP Technology",
+    "products": [
+      "635-800A",
+      "600 Series",
+      "Penta Series"
+    ],
+    "keywords": [
+      "Hardware",
+      "Audio",
+      "Router",
+      "Dante"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/ntp-technology-dot",
+    "githubUrl": "https://github.com/bitfocus/companion-module-ntp-technology-dot",
+    "deprecationReason": null
+  },
+  "obs-studio": {
+    "id": "obs-studio",
+    "name": "obs-studio",
+    "shortname": "obs",
+    "manufacturer": "OBS",
+    "products": [
+      "Studio"
+    ],
+    "keywords": [
+      "Stream"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/obs-studio",
+    "githubUrl": "https://github.com/bitfocus/companion-module-obs-studio",
+    "deprecationReason": null
+  },
+  "obsidiancontrol-onyx-osc": {
+    "id": "obsidiancontrol-onyx-osc",
+    "name": "obsidiancontrol-onyx-osc",
+    "shortname": "onyx-osc",
+    "manufacturer": "Obsidian Control Systems",
+    "products": [
+      "ONYX"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/obsidiancontrol-onyx-osc",
+    "githubUrl": "https://github.com/bitfocus/companion-module-obsidiancontrol-onyx-osc",
+    "deprecationReason": null
+  },
+  "openrgb-sdk": {
+    "id": "openrgb-sdk",
+    "name": "openrgb-sdk",
+    "shortname": "openrgb-sdk",
+    "manufacturer": "OpenRGB",
+    "products": [
+      "OpenRGB"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/openrgb-sdk",
+    "githubUrl": "https://github.com/bitfocus/companion-module-openrgb-sdk",
+    "deprecationReason": null
+  },
+  "openweather-rest": {
+    "id": "openweather-rest",
+    "name": "openweather-rest",
+    "shortname": "ow",
+    "manufacturer": "OpenWeather",
+    "products": [
+      "Current Weather API"
+    ],
+    "keywords": [
+      "weather",
+      "temperature"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/openweather-rest",
+    "githubUrl": "https://github.com/bitfocus/companion-module-openweather-rest",
+    "deprecationReason": null
+  },
+  "optimalaudio-zone": {
+    "id": "optimalaudio-zone",
+    "name": "optimalaudio-zone",
+    "shortname": "zone",
+    "manufacturer": "Optimal Audio",
+    "products": [
+      "Zone"
+    ],
+    "keywords": [
+      "optimalaudio",
+      "zone",
+      "oa"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/optimalaudio-zone",
+    "githubUrl": "https://github.com/bitfocus/companion-module-optimalaudio-zone",
+    "deprecationReason": null
+  },
+  "panasonic-avhs": {
+    "id": "panasonic-avhs",
+    "name": "panasonic-avhs",
+    "shortname": "av-hs",
+    "manufacturer": "Panasonic",
+    "products": [
+      "AV-HS50 / AV-HS410 / AV-UHS500"
+    ],
+    "keywords": [
+      "Vision Mixer",
+      "Video Switcher"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/panasonic-avhs",
+    "githubUrl": "https://github.com/bitfocus/companion-module-panasonic-avhs",
+    "deprecationReason": null
+  },
+  "panasonic-camera-controller": {
+    "id": "panasonic-camera-controller",
+    "name": "panasonic-camera-controller",
+    "shortname": "PTZ controller",
+    "manufacturer": "Panasonic",
+    "products": [
+      "AW-RP50",
+      "AW-RP60",
+      "AW-RP120",
+      "AW-RP150"
+    ],
+    "keywords": [
+      "ptz",
+      "controller"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/panasonic-camera-controller",
+    "githubUrl": "https://github.com/bitfocus/companion-module-panasonic-camera-controller",
+    "deprecationReason": null
+  },
+  "panasonic-cameras": {
+    "id": "panasonic-cameras",
+    "name": "panasonic-cameras",
+    "shortname": "Camera",
+    "manufacturer": "Panasonic",
+    "products": [
+      "Camera"
+    ],
+    "keywords": [
+      "Camera",
+      "PTZ",
+      "AW",
+      "AJ",
+      "AG",
+      "AK",
+      "CX",
+      "UPX",
+      "UB",
+      "POVCAM",
+      "Panasonic"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/panasonic-cameras",
+    "githubUrl": "https://github.com/bitfocus/companion-module-panasonic-cameras",
+    "deprecationReason": null
+  },
+  "panasonic-kairos": {
+    "id": "panasonic-kairos",
+    "name": "panasonic-kairos",
+    "shortname": "kairos",
+    "manufacturer": "Panasonic",
+    "products": [
+      "Kairos"
+    ],
+    "keywords": [
+      "Software",
+      "Vision Mixer"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/panasonic-kairos",
+    "githubUrl": "https://github.com/bitfocus/companion-module-panasonic-kairos",
+    "deprecationReason": null
+  },
+  "panasonic-p2": {
+    "id": "panasonic-p2",
+    "name": "panasonic-p2",
+    "shortname": "Panasonic-P2",
+    "manufacturer": "Panasonic",
+    "products": [
+      "P2",
+      "CX350",
+      "HC-X2",
+      "HC-X20"
+    ],
+    "keywords": [
+      "Panasonic",
+      "P2"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/panasonic-p2",
+    "githubUrl": "https://github.com/bitfocus/companion-module-panasonic-p2",
+    "deprecationReason": null
+  },
+  "panasonic-projector": {
+    "id": "panasonic-projector",
+    "name": "panasonic-projector",
+    "shortname": "projector",
+    "manufacturer": "Panasonic",
+    "products": [
+      "Projector"
+    ],
+    "keywords": [
+      "Projector"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/panasonic-projector",
+    "githubUrl": "https://github.com/bitfocus/companion-module-panasonic-projector",
+    "deprecationReason": null
+  },
+  "panasonic-ptz": {
+    "id": "panasonic-ptz",
+    "name": "panasonic-ptz",
+    "shortname": "Panasonic-PTZ",
+    "manufacturer": "Panasonic",
+    "products": [
+      "PTZ Camera"
+    ],
+    "keywords": [
+      "ptz",
+      "Camera"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/panasonic-ptz",
+    "githubUrl": "https://github.com/bitfocus/companion-module-panasonic-ptz",
+    "deprecationReason": null
+  },
+  "peavy-ratc": {
+    "id": "peavy-ratc",
+    "name": "Peavy RATCv1 / RATCv2",
+    "shortname": "RATCv1 / RATCv2",
+    "manufacturer": "Peavy",
+    "products": [
+      "NION n3",
+      "NION n6",
+      "NION nE",
+      "NION nX"
+    ],
+    "keywords": [
+      "Audio",
+      "DSP",
+      "Cobranet",
+      "Dante"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/peavy-ratc",
+    "githubUrl": "https://github.com/bitfocus/companion-module-peavy-ratc",
+    "deprecationReason": null
+  },
+  "pharos-designer": {
+    "id": "pharos-designer",
+    "name": "pharos-designer",
+    "shortname": "designer",
+    "manufacturer": "Pharos",
+    "products": [
+      "Designer Controller"
+    ],
+    "keywords": [
+      "Pharos",
+      "Designer"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/pharos-designer",
+    "githubUrl": "https://github.com/bitfocus/companion-module-pharos-designer",
+    "deprecationReason": null
+  },
+  "philips-hue": {
+    "id": "philips-hue",
+    "name": "philips-hue",
+    "shortname": "hue",
+    "manufacturer": "Philips",
+    "products": [
+      "Philips Hue"
+    ],
+    "keywords": [
+      "Philips",
+      "Hue"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/philips-hue",
+    "githubUrl": "https://github.com/bitfocus/companion-module-philips-hue",
+    "deprecationReason": null
+  },
+  "pixap-pixtimerpro": {
+    "id": "pixap-pixtimerpro",
+    "name": "pixap-pixtimerpro",
+    "shortname": "piXtimer Pro",
+    "manufacturer": "piXap",
+    "products": [
+      "piXtimer Pro"
+    ],
+    "keywords": [
+      "Software",
+      "Timing"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/pixap-pixtimerpro",
+    "githubUrl": "https://github.com/bitfocus/companion-module-pixap-pixtimerpro",
+    "deprecationReason": null
+  },
+  "pixelhue-mediaserver": {
+    "id": "pixelhue-mediaserver",
+    "name": "pixelhue-media-server",
+    "shortname": "media-server",
+    "manufacturer": "Pixelhue",
+    "products": [
+      "MS3"
+    ],
+    "keywords": [
+      "PixelHue",
+      "Media-Server",
+      "MS3"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/pixelhue-mediaserver",
+    "githubUrl": "https://github.com/bitfocus/companion-module-pixelhue-mediaserver",
+    "deprecationReason": null
+  },
+  "pixelhue-switcher": {
+    "id": "pixelhue-switcher",
+    "name": "pixelhue-switcher",
+    "shortname": "pixelhue",
+    "manufacturer": "Pixelhue",
+    "products": [
+      "P10",
+      "P20",
+      "F4",
+      "F4Lite",
+      "F8",
+      "Q8"
+    ],
+    "keywords": [
+      "Pixelhue"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/pixelhue-switcher",
+    "githubUrl": "https://github.com/bitfocus/companion-module-pixelhue-switcher",
+    "deprecationReason": null
+  },
+  "planningcenter-serviceslive": {
+    "id": "planningcenter-serviceslive",
+    "name": "planningcenter-serviceslive",
+    "shortname": "services-live",
+    "manufacturer": "Planning Center Online",
+    "products": [
+      "Services Live"
+    ],
+    "keywords": [
+      "Show Control"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/planningcenter-serviceslive",
+    "githubUrl": "https://github.com/bitfocus/companion-module-planningcenter-serviceslive",
+    "deprecationReason": null
+  },
+  "pnh-opencountdown": {
+    "id": "pnh-opencountdown",
+    "name": "pnh-opencountdown",
+    "shortname": "opencountdown",
+    "manufacturer": "[Project-Name-Here]",
+    "products": [
+      "opencountdown"
+    ],
+    "keywords": [
+      "Software",
+      "Countdown",
+      "Professional"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/pnh-opencountdown",
+    "githubUrl": "https://github.com/bitfocus/companion-module-pnh-opencountdown",
+    "deprecationReason": null
+  },
+  "pnh-soundr": {
+    "id": "pnh-soundr",
+    "name": "pnh-soundr",
+    "shortname": "soundr",
+    "manufacturer": "[Project-Name-Here]",
+    "products": [
+      "Soundr"
+    ],
+    "keywords": [
+      "Software",
+      "Soundr",
+      "Sound"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/pnh-soundr",
+    "githubUrl": "https://github.com/bitfocus/companion-module-pnh-soundr",
+    "deprecationReason": null
+  },
+  "polecam-autopod": {
+    "id": "polecam-autopod",
+    "name": "polecam-autopod",
+    "shortname": "autopodplus",
+    "manufacturer": "Polecam",
+    "products": [
+      "Autopod+",
+      "Panapod"
+    ],
+    "keywords": [
+      "camera",
+      "elevation",
+      "motor"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/polecam-autopod",
+    "githubUrl": "https://github.com/bitfocus/companion-module-polecam-autopod",
+    "deprecationReason": null
+  },
+  "presentationtools-aps": {
+    "id": "presentationtools-aps",
+    "name": "presentationtools-aps",
+    "shortname": "aps",
+    "manufacturer": "PresentationTools",
+    "products": [
+      "Auto Presentation Switcher"
+    ],
+    "keywords": [
+      "Presentation",
+      "Show Control",
+      "Software"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/presentationtools-aps",
+    "githubUrl": "https://github.com/bitfocus/companion-module-presentationtools-aps",
+    "deprecationReason": null
+  },
+  "presentationtools-cuetimer": {
+    "id": "presentationtools-cuetimer",
+    "name": "presentationtools-cuetimer",
+    "shortname": "cuetimer",
+    "manufacturer": "PresentationTools",
+    "products": [
+      "CueTimer"
+    ],
+    "keywords": [
+      "Presentation",
+      "Timer",
+      "Software"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/presentationtools-cuetimer",
+    "githubUrl": "https://github.com/bitfocus/companion-module-presentationtools-cuetimer",
+    "deprecationReason": null
+  },
+  "ptzoptics-superjoy": {
+    "id": "ptzoptics-superjoy",
+    "name": "ptzoptics-superjoy",
+    "shortname": "superjoy",
+    "manufacturer": "PTZ Optics",
+    "products": [
+      "SuperJoy"
+    ],
+    "keywords": [
+      "SuperJoy",
+      "PTZ"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/ptzoptics-superjoy",
+    "githubUrl": "https://github.com/bitfocus/companion-module-ptzoptics-superjoy",
+    "deprecationReason": null
+  },
+  "ptzoptics-visca": {
+    "id": "ptzoptics-visca",
+    "name": "PTZOptics Visca",
+    "shortname": "visca",
+    "manufacturer": "PTZoptics",
+    "products": [
+      "VISCA"
+    ],
+    "keywords": [
+      "Protocol",
+      "Camera"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/ptzoptics-visca",
+    "githubUrl": "https://github.com/bitfocus/companion-module-ptzoptics-visca",
+    "deprecationReason": null
+  },
+  "qsys-remote-control": {
+    "id": "qsys-remote-control",
+    "name": "qsys-remote-control",
+    "shortname": "Q-SYS Remote",
+    "manufacturer": "Q-SYS",
+    "products": [
+      "Remote Control",
+      "QRC",
+      "Q-Sys"
+    ],
+    "keywords": [
+      "Remote",
+      "Control"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/qsys-remote-control",
+    "githubUrl": "https://github.com/bitfocus/companion-module-qsys-remote-control",
+    "deprecationReason": null
+  },
+  "radiodj-rest": {
+    "id": "radiodj-rest",
+    "name": "radiodj-rest",
+    "shortname": "radiodj",
+    "manufacturer": "RadioDJ",
+    "products": [
+      "REST API"
+    ],
+    "keywords": [
+      "Software"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/radiodj-rest",
+    "githubUrl": "https://github.com/bitfocus/companion-module-radiodj-rest",
+    "deprecationReason": null
+  },
+  "raspberry-gpio": {
+    "id": "raspberry-gpio",
+    "name": "raspberry-gpio",
+    "shortname": "RPi GPIO",
+    "manufacturer": "Raspberry Pi foundation",
+    "products": [
+      "RPi GPIO"
+    ],
+    "keywords": [
+      "Raspberry Pi",
+      "GPIO"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/raspberry-gpio",
+    "githubUrl": "https://github.com/bitfocus/companion-module-raspberry-gpio",
+    "deprecationReason": null
+  },
+  "renewedvision-propresenter": {
+    "id": "renewedvision-propresenter",
+    "name": "renewedvision-propresenter",
+    "shortname": "propresenter",
+    "manufacturer": "Renewed Vision",
+    "products": [
+      "ProPresenter"
+    ],
+    "keywords": [
+      "Software",
+      "Presentation"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/renewedvision-propresenter",
+    "githubUrl": "https://github.com/bitfocus/companion-module-renewedvision-propresenter",
+    "deprecationReason": null
+  },
+  "renewedvision-pvp": {
+    "id": "renewedvision-pvp",
+    "name": "renewedvision-pvp",
+    "shortname": "pvp",
+    "manufacturer": "Renewed Vision",
+    "products": [
+      "PVP 3"
+    ],
+    "keywords": [
+      "Software"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/renewedvision-pvp",
+    "githubUrl": "https://github.com/bitfocus/companion-module-renewedvision-pvp",
+    "deprecationReason": null
+  },
+  "resi-decoders": {
+    "id": "resi-decoders",
+    "name": "resi-decoders",
+    "shortname": "decoder",
+    "manufacturer": "Resi",
+    "products": [
+      "Decoder"
+    ],
+    "keywords": [
+      "Protocol",
+      "Software"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/resi-decoders",
+    "githubUrl": "https://github.com/bitfocus/companion-module-resi-decoders",
+    "deprecationReason": null
+  },
+  "resolume-arena": {
+    "id": "resolume-arena",
+    "name": "resolume-arena",
+    "shortname": "arena",
+    "manufacturer": "Resolume",
+    "products": [
+      "Arena"
+    ],
+    "keywords": [
+      "Video",
+      "Software",
+      "Graphics"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/resolume-arena",
+    "githubUrl": "https://github.com/bitfocus/companion-module-resolume-arena",
+    "deprecationReason": null
+  },
+  "restream-api": {
+    "id": "restream-api",
+    "name": "restream-api",
+    "shortname": "restream",
+    "manufacturer": "Restream",
+    "products": [
+      "API"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/restream-api",
+    "githubUrl": "https://github.com/bitfocus/companion-module-restream-api",
+    "deprecationReason": null
+  },
+  "rgblink-mini": {
+    "id": "rgblink-mini",
+    "name": "rgblink-mini",
+    "shortname": "mini",
+    "manufacturer": "RGBlink",
+    "products": [
+      "mini/mini+"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/rgblink-mini",
+    "githubUrl": "https://github.com/bitfocus/companion-module-rgblink-mini",
+    "deprecationReason": null
+  },
+  "rgblink-vsp628pro": {
+    "id": "rgblink-vsp628pro",
+    "name": "rgblink-vsp628pro",
+    "shortname": "VSP 628pro",
+    "manufacturer": "RGBlink",
+    "products": [
+      "VSP 628pro"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/rgblink-vsp628pro",
+    "githubUrl": "https://github.com/bitfocus/companion-module-rgblink-vsp628pro",
+    "deprecationReason": null
+  },
+  "riedel-mediornet": {
+    "id": "riedel-mediornet",
+    "name": "riedel-mediornet",
+    "shortname": "mediornet",
+    "manufacturer": "Riedel",
+    "products": [
+      "Mediornet"
+    ],
+    "keywords": [
+      "riedel",
+      "mediornet",
+      "mediorworks",
+      "ember",
+      "emberplus"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/riedel-mediornet",
+    "githubUrl": "https://github.com/bitfocus/companion-module-riedel-mediornet",
+    "deprecationReason": null
+  },
+  "riedel-rrcs": {
+    "id": "riedel-rrcs",
+    "name": "riedel-rrcs",
+    "shortname": "Riedel Router Control Software",
+    "manufacturer": "Riedel",
+    "products": [
+      "RRCS"
+    ],
+    "keywords": [
+      "Intercom",
+      "Artist",
+      "Riedel Router Control System"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/riedel-rrcs",
+    "githubUrl": "https://github.com/bitfocus/companion-module-riedel-rrcs",
+    "deprecationReason": null
+  },
+  "rogueamoeba-farrago": {
+    "id": "rogueamoeba-farrago",
+    "name": "rogueamoeba-farrago",
+    "shortname": "farrago",
+    "manufacturer": "Rogue Amoeba",
+    "products": [
+      "Farrago"
+    ],
+    "keywords": [
+      "Audio"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/rogueamoeba-farrago",
+    "githubUrl": "https://github.com/bitfocus/companion-module-rogueamoeba-farrago",
+    "deprecationReason": null
+  },
+  "roku-tv": {
+    "id": "roku-tv",
+    "name": "roku-tv",
+    "shortname": "roku-tv",
+    "manufacturer": "Roku",
+    "products": [
+      "TV"
+    ],
+    "keywords": [
+      "TV"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/roku-tv",
+    "githubUrl": "https://github.com/bitfocus/companion-module-roku-tv",
+    "deprecationReason": null
+  },
+  "roland-p20hd": {
+    "id": "roland-p20hd",
+    "name": "roland-p20hd",
+    "shortname": "p20",
+    "manufacturer": "Roland",
+    "products": [
+      "P-20HD"
+    ],
+    "keywords": [
+      "Video Replay"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/roland-p20hd",
+    "githubUrl": "https://github.com/bitfocus/companion-module-roland-p20hd",
+    "deprecationReason": null
+  },
+  "roland-v160hd": {
+    "id": "roland-v160hd",
+    "name": "roland-v160hd",
+    "shortname": "v160hd",
+    "manufacturer": "Roland",
+    "products": [
+      "V-160HD"
+    ],
+    "keywords": [
+      "Vision Mixer",
+      "Video Switcher"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/roland-v160hd",
+    "githubUrl": "https://github.com/bitfocus/companion-module-roland-v160hd",
+    "deprecationReason": null
+  },
+  "roland-v600uhd": {
+    "id": "roland-v600uhd",
+    "name": "roland-v600uhd",
+    "shortname": "v-600uhd",
+    "manufacturer": "Roland",
+    "products": [
+      "V-600UHD"
+    ],
+    "keywords": [
+      "Vision Mixer"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/roland-v600uhd",
+    "githubUrl": "https://github.com/bitfocus/companion-module-roland-v600uhd",
+    "deprecationReason": null
+  },
+  "roland-v60hd": {
+    "id": "roland-v60hd",
+    "name": "roland-v60hd",
+    "shortname": "v-60hd",
+    "manufacturer": "Roland",
+    "products": [
+      "V-60HD"
+    ],
+    "keywords": [
+      "Vision Mixer",
+      "Video Switcher"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/roland-v60hd",
+    "githubUrl": "https://github.com/bitfocus/companion-module-roland-v60hd",
+    "deprecationReason": null
+  },
+  "roland-vr120hd": {
+    "id": "roland-vr120hd",
+    "name": "roland-vr120hd",
+    "shortname": "vr120hd",
+    "manufacturer": "Roland",
+    "products": [
+      "VR-120HD"
+    ],
+    "keywords": [
+      "Video Switcher"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/roland-vr120hd",
+    "githubUrl": "https://github.com/bitfocus/companion-module-roland-vr120hd",
+    "deprecationReason": null
+  },
+  "rossvideo-rosstalk": {
+    "id": "rossvideo-rosstalk",
+    "name": "rossvideo-rosstalk",
+    "shortname": "rosstalk",
+    "manufacturer": "Ross Video",
+    "products": [
+      "Rosstalk"
+    ],
+    "keywords": [
+      "Protocol",
+      "Vision Mixer",
+      "Software"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/rossvideo-rosstalk",
+    "githubUrl": "https://github.com/bitfocus/companion-module-rossvideo-rosstalk",
+    "deprecationReason": null
+  },
+  "rossvideo-xpression": {
+    "id": "rossvideo-xpression",
+    "name": "rossvideo-xpression",
+    "shortname": "xpression",
+    "manufacturer": "Ross Video",
+    "products": [
+      "Xpression"
+    ],
+    "keywords": [
+      "Graphics"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/rossvideo-xpression",
+    "githubUrl": "https://github.com/bitfocus/companion-module-rossvideo-xpression",
+    "deprecationReason": null
+  },
+  "rundown-studio": {
+    "id": "rundown-studio",
+    "name": "Rundown Studio",
+    "shortname": "rundown-studio",
+    "manufacturer": "Rundown Studio",
+    "products": [
+      "Rundown Studio"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/rundown-studio",
+    "githubUrl": "https://github.com/bitfocus/companion-module-rundown-studio",
+    "deprecationReason": null
+  },
+  "samsung-smarttv": {
+    "id": "samsung-smarttv",
+    "name": "samsung-smarttv",
+    "shortname": "samsung-smarttv",
+    "manufacturer": "Samsung",
+    "products": [
+      "Smart TV"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/samsung-smarttv",
+    "githubUrl": "https://github.com/bitfocus/companion-module-samsung-smarttv",
+    "deprecationReason": null
+  },
+  "sennheiser-digital6000": {
+    "id": "sennheiser-digital6000",
+    "name": "sennheiser-digital6000",
+    "shortname": "Digital 6000",
+    "manufacturer": "Sennheiser",
+    "products": [
+      "EM 6000",
+      "EM 6000 Dante",
+      "L 6000"
+    ],
+    "keywords": [
+      "RF",
+      "Radio Microphone"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/sennheiser-digital6000",
+    "githubUrl": "https://github.com/bitfocus/companion-module-sennheiser-digital6000",
+    "deprecationReason": null
+  },
+  "sgl-dct": {
+    "id": "sgl-dct",
+    "name": "sgl-dct",
+    "shortname": "sgl-dct",
+    "manufacturer": "SGL",
+    "products": [
+      "DCT"
+    ],
+    "keywords": [
+      "Slow Motion",
+      "ATOMOne",
+      "Dream Chip"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/sgl-dct",
+    "githubUrl": "https://github.com/bitfocus/companion-module-sgl-dct",
+    "deprecationReason": null
+  },
+  "shelly-http": {
+    "id": "shelly-http",
+    "name": "shelly-http",
+    "shortname": "shelly",
+    "manufacturer": "Shelly",
+    "products": [
+      "Shelly 1",
+      "Shelly 2.5",
+      "Shelly Dimmer1/2",
+      "Shelly RGBW2"
+    ],
+    "keywords": [
+      "Shelly",
+      "Relay"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/shelly-http",
+    "githubUrl": "https://github.com/bitfocus/companion-module-shelly-http",
+    "deprecationReason": null
+  },
+  "shelly-ws": {
+    "id": "shelly-ws",
+    "name": "shelly-ws",
+    "shortname": "shelly",
+    "manufacturer": "Shelly",
+    "products": [
+      "Shelly Plus 1",
+      "Shelly Plus 1PM",
+      "Shelly Plus 2PM",
+      "Shelly Pro 1",
+      "Shelly Pro 2",
+      "Shelly Pro 2PM",
+      "Shelly Pro 3",
+      "Shelly Pro 4PM",
+      "Shelly Pro Dual Cover PM",
+      "Shelly Plus I4"
+    ],
+    "keywords": [
+      "Shelly",
+      "Relay"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/shelly-ws",
+    "githubUrl": "https://github.com/bitfocus/companion-module-shelly-ws",
+    "deprecationReason": null
+  },
+  "showcuesystems-scs": {
+    "id": "showcuesystems-scs",
+    "name": "showcuesystems-scs",
+    "shortname": "scs",
+    "manufacturer": "Show Cue Systems",
+    "products": [
+      "SCS"
+    ],
+    "keywords": [
+      "Software",
+      "Show Control",
+      "Video",
+      "MIDI",
+      "Lighting"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/showcuesystems-scs",
+    "githubUrl": "https://github.com/bitfocus/companion-module-showcuesystems-scs",
+    "deprecationReason": null
+  },
+  "shure-mxa910": {
+    "id": "shure-mxa910",
+    "name": "shure-mxa910",
+    "shortname": "mxa",
+    "manufacturer": "Shure",
+    "products": [
+      "MXA910",
+      "MXA920"
+    ],
+    "keywords": [
+      "Shure",
+      "Audio",
+      "Intellimix",
+      "Conference",
+      "Microphone"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/shure-mxa910",
+    "githubUrl": "https://github.com/bitfocus/companion-module-shure-mxa910",
+    "deprecationReason": null
+  },
+  "shure-mxcw": {
+    "id": "shure-mxcw",
+    "name": "shure-mxcw",
+    "shortname": "shure-mxcw",
+    "manufacturer": "Shure",
+    "products": [
+      "Microflex Complete Wireless (MXCW)"
+    ],
+    "keywords": [
+      "Wireless Discussion"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/shure-mxcw",
+    "githubUrl": "https://github.com/bitfocus/companion-module-shure-mxcw",
+    "deprecationReason": null
+  },
+  "shure-mxn5": {
+    "id": "shure-mxn5",
+    "name": "shure-mxn5",
+    "shortname": "mxn5",
+    "manufacturer": "Shure",
+    "products": [
+      "MXN-5"
+    ],
+    "keywords": [
+      "Shure",
+      "Audio",
+      "Intellimix",
+      "Conference",
+      "Speaker",
+      "Dante"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/shure-mxn5",
+    "githubUrl": "https://github.com/bitfocus/companion-module-shure-mxn5",
+    "deprecationReason": null
+  },
+  "shure-mxw": {
+    "id": "shure-mxw",
+    "name": "shure-mxw",
+    "shortname": "shure-mxw",
+    "manufacturer": "Shure",
+    "products": [
+      "Microflex (MXW)"
+    ],
+    "keywords": [
+      "Wireless Microphone"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/shure-mxw",
+    "githubUrl": "https://github.com/bitfocus/companion-module-shure-mxw",
+    "deprecationReason": null
+  },
+  "shure-p300": {
+    "id": "shure-p300",
+    "name": "shure-p300",
+    "shortname": "p300",
+    "manufacturer": "Shure",
+    "products": [
+      "P300"
+    ],
+    "keywords": [
+      "Shure",
+      "Audio",
+      "Intellimix",
+      "Conference",
+      "DSP"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/shure-p300",
+    "githubUrl": "https://github.com/bitfocus/companion-module-shure-p300",
+    "deprecationReason": null
+  },
+  "shure-psm1000": {
+    "id": "shure-psm1000",
+    "name": "shure-psm1000",
+    "shortname": "shure-psm1000",
+    "manufacturer": "Shure",
+    "products": [
+      "PSM1000"
+    ],
+    "keywords": [
+      "Wireless IEM"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/shure-psm1000",
+    "githubUrl": "https://github.com/bitfocus/companion-module-shure-psm1000",
+    "deprecationReason": null
+  },
+  "shure-scm820": {
+    "id": "shure-scm820",
+    "name": "shure-scm820",
+    "shortname": "shure-scm820",
+    "manufacturer": "Shure",
+    "products": [
+      "SCM820"
+    ],
+    "keywords": [
+      "Mixer"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/shure-scm820",
+    "githubUrl": "https://github.com/bitfocus/companion-module-shure-scm820",
+    "deprecationReason": null
+  },
+  "shure-wireless": {
+    "id": "shure-wireless",
+    "name": "shure-wireless",
+    "shortname": "shure-wx",
+    "manufacturer": "Shure",
+    "products": [
+      "ULX-D",
+      "QLX-D",
+      "SLX-D",
+      "Axient Digital (AD)"
+    ],
+    "keywords": [
+      "Wireless Microphone"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/shure-wireless",
+    "githubUrl": "https://github.com/bitfocus/companion-module-shure-wireless",
+    "deprecationReason": null
+  },
+  "yes-api-gateway": {
+    "id": "yes-api-gateway",
+    "name": "yes-api-gateway",
+    "shortname": "YAG",
+    "manufacturer": "Si Media",
+    "products": [
+      "Yes Api Gateway"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/yes-api-gateway",
+    "githubUrl": "https://github.com/bitfocus/companion-module-yes-api-gateway",
+    "deprecationReason": null
+  },
+  "simonhyde-piclock": {
+    "id": "simonhyde-piclock",
+    "name": "simonhyde-piclock",
+    "shortname": "simonhyde-piclock",
+    "manufacturer": "Simon Hyde",
+    "products": [
+      "PiClock"
+    ],
+    "keywords": [
+      "Clock",
+      "Software"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/simonhyde-piclock",
+    "githubUrl": "https://github.com/bitfocus/companion-module-simonhyde-piclock",
+    "deprecationReason": null
+  },
+  "singularlive-studio": {
+    "id": "singularlive-studio",
+    "name": "singularlive-studio",
+    "shortname": "singular",
+    "manufacturer": "Singular.Live",
+    "products": [
+      "Studio"
+    ],
+    "keywords": [
+      "Graphics"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/singularlive-studio",
+    "githubUrl": "https://github.com/bitfocus/companion-module-singularlive-studio",
+    "deprecationReason": null
+  },
+  "skaarhoj-rawpanel": {
+    "id": "skaarhoj-rawpanel",
+    "name": "skaarhoj-rawpanel",
+    "shortname": "Raw Panel",
+    "manufacturer": "SKAARHOJ",
+    "products": [
+      "Raw Panel"
+    ],
+    "keywords": [
+      "Controller",
+      "Unisketch",
+      "Bluepill"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/skaarhoj-rawpanel",
+    "githubUrl": "https://github.com/bitfocus/companion-module-skaarhoj-rawpanel",
+    "deprecationReason": null
+  },
+  "slack-webhooks": {
+    "id": "slack-webhooks",
+    "name": "slack-webhooks",
+    "shortname": "slack",
+    "manufacturer": "Slack",
+    "products": [
+      "Webhooks"
+    ],
+    "keywords": [
+      "Webhooks"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/slack-webhooks",
+    "githubUrl": "https://github.com/bitfocus/companion-module-slack-webhooks",
+    "deprecationReason": null
+  },
+  "smartavi-ipmatrix": {
+    "id": "smartavi-ipmatrix",
+    "name": "smartavi-ipmatrix",
+    "shortname": "matrix",
+    "manufacturer": "Smart-AVI",
+    "products": [
+      "MU-88",
+      "MXU-88",
+      "MXCORE"
+    ],
+    "keywords": [
+      "Protocol",
+      "Matrix"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/smartavi-ipmatrix",
+    "githubUrl": "https://github.com/bitfocus/companion-module-smartavi-ipmatrix",
+    "deprecationReason": null
+  },
+  "smodetech-smodelive": {
+    "id": "smodetech-smodelive",
+    "name": "Smode Live",
+    "shortname": "Smode Live",
+    "manufacturer": "Smode",
+    "products": [
+      "Smode Live"
+    ],
+    "keywords": [
+      "Software",
+      "Media Server"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/smodetech-smodelive",
+    "githubUrl": "https://github.com/bitfocus/companion-module-smodetech-smodelive",
+    "deprecationReason": null
+  },
+  "snapav-wattbox": {
+    "id": "snapav-wattbox",
+    "name": "snapav-wattbox",
+    "shortname": "snapav-wattbox",
+    "manufacturer": "Snapav",
+    "products": [
+      "Wattbox"
+    ],
+    "keywords": [
+      "snapav",
+      "power",
+      "wattbox"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/snapav-wattbox",
+    "githubUrl": "https://github.com/bitfocus/companion-module-snapav-wattbox",
+    "deprecationReason": null
+  },
+  "socialstream-ninja": {
+    "id": "socialstream-ninja",
+    "name": "socialstream-ninja",
+    "shortname": "socialstream",
+    "manufacturer": "Social Stream",
+    "products": [
+      "Ninja"
+    ],
+    "keywords": [
+      "Video",
+      "Social",
+      "Stream",
+      "Chat"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/socialstream-ninja",
+    "githubUrl": "https://github.com/bitfocus/companion-module-socialstream-ninja",
+    "deprecationReason": null
+  },
+  "softron-movierecorder": {
+    "id": "softron-movierecorder",
+    "name": "softron-movierecorder",
+    "shortname": "MovieRecorder",
+    "manufacturer": "Softron",
+    "products": [
+      "MovieRecorder"
+    ],
+    "keywords": [
+      "Recording",
+      "Video"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/softron-movierecorder",
+    "githubUrl": "https://github.com/bitfocus/companion-module-softron-movierecorder",
+    "deprecationReason": null
+  },
+  "softron-multicamlogger": {
+    "id": "softron-multicamlogger",
+    "name": "softron-multicamlogger",
+    "shortname": "MulticamLogger",
+    "manufacturer": "Softron",
+    "products": [
+      "Multicam Logger"
+    ],
+    "keywords": [
+      "Logging",
+      "Multicam",
+      "Production",
+      "Vision Mixer"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/softron-multicamlogger",
+    "githubUrl": "https://github.com/bitfocus/companion-module-softron-multicamlogger",
+    "deprecationReason": null
+  },
+  "softron-ontheairvideo": {
+    "id": "softron-ontheairvideo",
+    "name": "softron-ontheairvideo",
+    "shortname": "otav",
+    "manufacturer": "Softron",
+    "products": [
+      "OnTheAir Video"
+    ],
+    "keywords": [
+      "Playback",
+      "Video",
+      "Media"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/softron-ontheairvideo",
+    "githubUrl": "https://github.com/bitfocus/companion-module-softron-ontheairvideo",
+    "deprecationReason": null
+  },
+  "songbeamer-osc": {
+    "id": "songbeamer-osc",
+    "name": "songbeamer-osc",
+    "shortname": "songbeamer-osc",
+    "manufacturer": "Songbeamer",
+    "products": [
+      "OSC"
+    ],
+    "keywords": [
+      "Protocol",
+      "OSC",
+      "Songbeamer"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/songbeamer-osc",
+    "githubUrl": "https://github.com/bitfocus/companion-module-songbeamer-osc",
+    "deprecationReason": null
+  },
+  "sonos-speakers": {
+    "id": "sonos-speakers",
+    "name": "sonos-speakers",
+    "shortname": "sonos-speakers",
+    "manufacturer": "Sonos",
+    "products": [
+      "Speakers"
+    ],
+    "keywords": [
+      "Audio",
+      "Media"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/sonos-speakers",
+    "githubUrl": "https://github.com/bitfocus/companion-module-sonos-speakers",
+    "deprecationReason": null
+  },
+  "sony-bravia": {
+    "id": "sony-bravia",
+    "name": "sony-bravia",
+    "shortname": "sony-bravia",
+    "manufacturer": "Sony",
+    "products": [
+      "Bravia"
+    ],
+    "keywords": [
+      "TV"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/sony-bravia",
+    "githubUrl": "https://github.com/bitfocus/companion-module-sony-bravia",
+    "deprecationReason": null
+  },
+  "sony-serialtally": {
+    "id": "sony-serialtally",
+    "name": "Sony Serial Tally",
+    "shortname": "sony-switcher",
+    "manufacturer": "Sony",
+    "products": [
+      "XVS 9000/8000/7000/6000",
+      "XVS-G1",
+      "MLS-X1"
+    ],
+    "keywords": [
+      "vision mixer",
+      "video switcher",
+      "sony",
+      "serial",
+      "tally"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/sony-serialtally",
+    "githubUrl": "https://github.com/bitfocus/companion-module-sony-serialtally",
+    "deprecationReason": null
+  },
+  "sony-visca": {
+    "id": "sony-visca",
+    "name": "sony-visca",
+    "shortname": "VISCA",
+    "manufacturer": "Sony",
+    "products": [
+      "VISCA"
+    ],
+    "keywords": [
+      "Protocol",
+      "Camera",
+      "VISCA",
+      "PTZ"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/sony-visca",
+    "githubUrl": "https://github.com/bitfocus/companion-module-sony-visca",
+    "deprecationReason": null
+  },
+  "soundcraft-ui": {
+    "id": "soundcraft-ui",
+    "name": "soundcraft-ui",
+    "shortname": "soundcraftui",
+    "manufacturer": "Soundcraft",
+    "products": [
+      "Ui12",
+      "Ui16",
+      "Ui24R"
+    ],
+    "keywords": [
+      "Audio"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/soundcraft-ui",
+    "githubUrl": "https://github.com/bitfocus/companion-module-soundcraft-ui",
+    "deprecationReason": null
+  },
+  "sounddevices-pixnet": {
+    "id": "sounddevices-pixnet",
+    "name": "sounddevices-pixnet",
+    "shortname": "pixnet",
+    "manufacturer": "Sound Devices",
+    "products": [
+      "PIXNET"
+    ],
+    "keywords": [
+      "Recording"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/sounddevices-pixnet",
+    "githubUrl": "https://github.com/bitfocus/companion-module-sounddevices-pixnet",
+    "deprecationReason": null
+  },
+  "soundtrack-remote": {
+    "id": "soundtrack-remote",
+    "name": "soundtrack-remote",
+    "shortname": "soundtrack",
+    "manufacturer": "Soundtrack Your Brand",
+    "products": [
+      "Remote"
+    ],
+    "keywords": [
+      "Soundtrack",
+      "Music",
+      "Spotify"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/soundtrack-remote",
+    "githubUrl": "https://github.com/bitfocus/companion-module-soundtrack-remote",
+    "deprecationReason": null
+  },
+  "spacecommz-intercom": {
+    "id": "spacecommz-intercom",
+    "name": "spacecommz-intercom",
+    "shortname": "SpaceCommz",
+    "manufacturer": "Spacecommz.io",
+    "products": [
+      "SpaceCommz"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/spacecommz-intercom",
+    "githubUrl": "https://github.com/bitfocus/companion-module-spacecommz-intercom",
+    "deprecationReason": null
+  },
+  "spotify-remote": {
+    "id": "spotify-remote",
+    "name": "spotify-remote",
+    "shortname": "Spotify",
+    "manufacturer": "Spotify",
+    "products": [
+      "Web API and Controller"
+    ],
+    "keywords": [
+      "Spotify"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/spotify-remote",
+    "githubUrl": "https://github.com/bitfocus/companion-module-spotify-remote",
+    "deprecationReason": null
+  },
+  "spx-graphics-controller": {
+    "id": "spx-graphics-controller",
+    "name": "SPX Graphics Controller",
+    "shortname": "spx",
+    "manufacturer": "spx",
+    "products": [
+      "gc"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/spx-graphics-controller",
+    "githubUrl": "https://github.com/bitfocus/companion-module-spx-graphics-controller",
+    "deprecationReason": null
+  },
+  "squared-powerlink": {
+    "id": "squared-powerlink",
+    "name": "squared-powerlink",
+    "shortname": "powerlink",
+    "manufacturer": "Square D",
+    "products": [
+      "NF3500G4",
+      "NF3000G3",
+      "NF2000G3"
+    ],
+    "keywords": [
+      "Powerlink",
+      "G3",
+      "G4"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/squared-powerlink",
+    "githubUrl": "https://github.com/bitfocus/companion-module-squared-powerlink",
+    "deprecationReason": null
+  },
+  "stagetec-rcp": {
+    "id": "stagetec-rcp",
+    "name": "stagetec-rcp",
+    "shortname": "stagetec-rcp",
+    "manufacturer": "StageTec",
+    "products": [
+      "XDIP",
+      "NXC-T"
+    ],
+    "keywords": [
+      "Dante",
+      "Yamaha",
+      "Nexus",
+      "RCP"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/stagetec-rcp",
+    "githubUrl": "https://github.com/bitfocus/companion-module-stagetec-rcp",
+    "deprecationReason": null
+  },
+  "stagetec-xci": {
+    "id": "stagetec-xci",
+    "name": "stagetec-xci",
+    "shortname": "Stagetec XCI",
+    "manufacturer": "Stagetec",
+    "products": [
+      "XCI03"
+    ],
+    "keywords": [
+      "Nexus",
+      "Router",
+      "SNMP",
+      "Audio"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/stagetec-xci",
+    "githubUrl": "https://github.com/bitfocus/companion-module-stagetec-xci",
+    "deprecationReason": null
+  },
+  "stagetimerio-api": {
+    "id": "stagetimerio-api",
+    "name": "stagetimer",
+    "shortname": "stagetimer",
+    "manufacturer": "stagetimer.io",
+    "products": [
+      "Stagetimer API"
+    ],
+    "keywords": [
+      "Stagetimer",
+      "stagetimer.io",
+      "Timer",
+      "Companion"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/stagetimerio-api",
+    "githubUrl": "https://github.com/bitfocus/companion-module-stagetimerio-api",
+    "deprecationReason": null
+  },
+  "studiocoast-vmix": {
+    "id": "studiocoast-vmix",
+    "name": "studiocoast-vmix",
+    "shortname": "vmix",
+    "manufacturer": "StudioCoast",
+    "products": [
+      "vMix"
+    ],
+    "keywords": [
+      "Software",
+      "Vision Mixer"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/studiocoast-vmix",
+    "githubUrl": "https://github.com/bitfocus/companion-module-studiocoast-vmix",
+    "deprecationReason": null
+  },
+  "symetrix-dsp": {
+    "id": "symetrix-dsp",
+    "name": "symetrix-dsp",
+    "shortname": "symetrix",
+    "manufacturer": "Symetrix",
+    "products": [
+      "DSP"
+    ],
+    "keywords": [
+      "Symetrix",
+      "DSP",
+      "Audio"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/symetrix-dsp",
+    "githubUrl": "https://github.com/bitfocus/companion-module-symetrix-dsp",
+    "deprecationReason": null
+  },
+  "syncer-live": {
+    "id": "syncer-live",
+    "name": "syncer-live",
+    "shortname": "syncer-live",
+    "manufacturer": "Zusor",
+    "products": [
+      "Syncer.live"
+    ],
+    "keywords": [
+      "sync"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/syncer-live",
+    "githubUrl": "https://github.com/bitfocus/companion-module-syncer-live",
+    "deprecationReason": null
+  },
+  "tascam-bdmp1": {
+    "id": "tascam-bdmp1",
+    "name": "tascam-bdmp1",
+    "shortname": "bdmp1",
+    "manufacturer": "Tascam",
+    "products": [
+      "BD-MP1"
+    ],
+    "keywords": [
+      "Media"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/tascam-bdmp1",
+    "githubUrl": "https://github.com/bitfocus/companion-module-tascam-bdmp1",
+    "deprecationReason": null
+  },
+  "tascam-cd": {
+    "id": "tascam-cd",
+    "name": "tascam-cd",
+    "shortname": "SS-CDR250N",
+    "manufacturer": "Tascam",
+    "products": [
+      "SS-CDR250N",
+      "SS-R250N"
+    ],
+    "keywords": [
+      "Hardware",
+      "Audio",
+      "CD",
+      "Recorder",
+      "SD",
+      "USB"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/tascam-cd",
+    "githubUrl": "https://github.com/bitfocus/companion-module-tascam-cd",
+    "deprecationReason": null
+  },
+  "tascam-cd400u": {
+    "id": "tascam-cd400u",
+    "name": "tascam-cd400u",
+    "shortname": "CD-400U",
+    "manufacturer": "Tascam",
+    "products": [
+      "CD-400U",
+      "CD-400U DAB"
+    ],
+    "keywords": [
+      "Hardware",
+      "Audio",
+      "CD",
+      "Bluetooth",
+      "USB",
+      "Radio",
+      "AM",
+      "FM",
+      "DAB",
+      "SD"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/tascam-cd400u",
+    "githubUrl": "https://github.com/bitfocus/companion-module-tascam-cd400u",
+    "deprecationReason": null
+  },
+  "tascam-da-6400": {
+    "id": "tascam-da-6400",
+    "name": "tascam-da-6400",
+    "shortname": "DA-6400",
+    "manufacturer": "Tascam",
+    "products": [
+      "DA-6400",
+      "DA-6400dp"
+    ],
+    "keywords": [
+      "Hardware",
+      "Audio",
+      "Recorder",
+      "Dante",
+      "MADI"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/tascam-da-6400",
+    "githubUrl": "https://github.com/bitfocus/companion-module-tascam-da-6400",
+    "deprecationReason": null
+  },
+  "tasmota-http": {
+    "id": "tasmota-http",
+    "name": "tasmota-http",
+    "shortname": "tasmota-http",
+    "manufacturer": "Tasmota",
+    "products": [
+      "HTTP"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/tasmota-http",
+    "githubUrl": "https://github.com/bitfocus/companion-module-tasmota-http",
+    "deprecationReason": null
+  },
+  "techministry-beacon": {
+    "id": "techministry-beacon",
+    "name": "techministry-beacon",
+    "shortname": "beacon",
+    "manufacturer": "Tech Ministry",
+    "products": [
+      "Beacon"
+    ],
+    "keywords": [
+      "beacon",
+      "notification"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/techministry-beacon",
+    "githubUrl": "https://github.com/bitfocus/companion-module-techministry-beacon",
+    "deprecationReason": null
+  },
+  "techministry-midirelay": {
+    "id": "techministry-midirelay",
+    "name": "techministry-midirelay",
+    "shortname": "midi-relay",
+    "manufacturer": "Tech Ministry",
+    "products": [
+      "MIDI Relay"
+    ],
+    "keywords": [
+      "MIDI Relay"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/techministry-midirelay",
+    "githubUrl": "https://github.com/bitfocus/companion-module-techministry-midirelay",
+    "deprecationReason": null
+  },
+  "techministry-spotifycontroller": {
+    "id": "techministry-spotifycontroller",
+    "name": "techministry-spotifycontroller",
+    "shortname": "spotify-controller",
+    "manufacturer": "Tech Ministry",
+    "products": [
+      "Spotify Controller"
+    ],
+    "keywords": [
+      "Spotify",
+      "Mac"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/techministry-spotifycontroller",
+    "githubUrl": "https://github.com/bitfocus/companion-module-techministry-spotifycontroller",
+    "deprecationReason": null
+  },
+  "techministry-tallyarbiter": {
+    "id": "techministry-tallyarbiter",
+    "name": "techministry-tallyarbiter",
+    "shortname": "tallyarbiter",
+    "manufacturer": "Tech Ministry",
+    "products": [
+      "Tally Arbiter"
+    ],
+    "keywords": [
+      "Tally Arbiter"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/techministry-tallyarbiter",
+    "githubUrl": "https://github.com/bitfocus/companion-module-techministry-tallyarbiter",
+    "deprecationReason": null
+  },
+  "techministry-timekeeper": {
+    "id": "techministry-timekeeper",
+    "name": "techministry-timekeeper",
+    "shortname": "timekeeper",
+    "manufacturer": "Tech Ministry",
+    "products": [
+      "TimeKeeper"
+    ],
+    "keywords": [
+      "clock",
+      "countdown",
+      "timer"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/techministry-timekeeper",
+    "githubUrl": "https://github.com/bitfocus/companion-module-techministry-timekeeper",
+    "deprecationReason": null
+  },
+  "telegram-bot": {
+    "id": "telegram-bot",
+    "name": "telegram-bot",
+    "shortname": "telegram",
+    "manufacturer": "Telegram",
+    "products": [
+      "Bot"
+    ],
+    "keywords": [
+      "Telegram",
+      "Bot"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/telegram-bot",
+    "githubUrl": "https://github.com/bitfocus/companion-module-telegram-bot",
+    "deprecationReason": null
+  },
+  "telestream-prism": {
+    "id": "telestream-prism",
+    "name": "telestream-prism",
+    "shortname": "Prism",
+    "manufacturer": "Telestream",
+    "products": [
+      "Prism",
+      "MPI2",
+      "MPX2",
+      "MPD",
+      "MPP",
+      "MPS"
+    ],
+    "keywords": [
+      "SDI",
+      "2110",
+      "Waveform Monitor"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/telestream-prism",
+    "githubUrl": "https://github.com/bitfocus/companion-module-telestream-prism",
+    "deprecationReason": null
+  },
+  "tellyo-streamstudio": {
+    "id": "tellyo-streamstudio",
+    "name": "tellyo-streamstudio",
+    "shortname": "streamstudio",
+    "manufacturer": "Tellyo",
+    "products": [
+      "Stream Studio"
+    ],
+    "keywords": [
+      "Software",
+      "Vision Mixer",
+      "Cloud"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/tellyo-streamstudio",
+    "githubUrl": "https://github.com/bitfocus/companion-module-tellyo-streamstudio",
+    "deprecationReason": null
+  },
+  "teradek-prism": {
+    "id": "teradek-prism",
+    "name": "teradek-prism",
+    "shortname": "prism",
+    "manufacturer": "Teradek",
+    "products": [
+      "Prism",
+      "Prism Flex"
+    ],
+    "keywords": [
+      "prism flex",
+      "encoder"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/teradek-prism",
+    "githubUrl": "https://github.com/bitfocus/companion-module-teradek-prism",
+    "deprecationReason": null
+  },
+  "tesla-smart": {
+    "id": "tesla-smart",
+    "name": "tesla-smart",
+    "shortname": "Tesla kvm",
+    "manufacturer": "Tesla",
+    "products": [
+      "smart 8>1"
+    ],
+    "keywords": [
+      "Matrix"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/tesla-smart",
+    "githubUrl": "https://github.com/bitfocus/companion-module-tesla-smart",
+    "deprecationReason": null
+  },
+  "tesmart-hdmimatrix": {
+    "id": "tesmart-hdmimatrix",
+    "name": "tesmart-hdmimatrix",
+    "shortname": "tesmart",
+    "manufacturer": "TESMART",
+    "products": [
+      "HDMI Matrix (multiple variants)"
+    ],
+    "keywords": [
+      "tesmart",
+      "hdmi",
+      "matrix"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/tesmart-hdmimatrix",
+    "githubUrl": "https://github.com/bitfocus/companion-module-tesmart-hdmimatrix",
+    "deprecationReason": null
+  },
+  "theatrixx-xpresscue": {
+    "id": "theatrixx-xpresscue",
+    "name": "theatrixx-xpresscue",
+    "shortname": "xPressCue",
+    "manufacturer": "Theatrixx",
+    "products": [
+      "xPressCue"
+    ],
+    "keywords": [
+      "Player",
+      "Playback",
+      "MediaPlayer",
+      "Media Player",
+      "xPressCue",
+      "Theatrixx"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/theatrixx-xpresscue",
+    "githubUrl": "https://github.com/bitfocus/companion-module-theatrixx-xpresscue",
+    "deprecationReason": null
+  },
+  "thingm-blink1": {
+    "id": "thingm-blink1",
+    "name": "thingm-blink1",
+    "shortname": "Blink(1)",
+    "manufacturer": "ThingM",
+    "products": [
+      "Blink(1)"
+    ],
+    "keywords": [
+      "LED",
+      "Tally"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/thingm-blink1",
+    "githubUrl": "https://github.com/bitfocus/companion-module-thingm-blink1",
+    "deprecationReason": null
+  },
+  "tieline-gateway": {
+    "id": "tieline-gateway",
+    "name": "Tieline",
+    "shortname": "Tieline",
+    "manufacturer": "Tieline",
+    "products": [
+      "Gateway",
+      "Via"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/tieline-gateway",
+    "githubUrl": "https://github.com/bitfocus/companion-module-tieline-gateway",
+    "deprecationReason": null
+  },
+  "timemachines-clock": {
+    "id": "timemachines-clock",
+    "name": "timemachines-clock",
+    "shortname": "tm-clock",
+    "manufacturer": "TimeMachines",
+    "products": [
+      "Clock"
+    ],
+    "keywords": [
+      "clock",
+      "timer"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/timemachines-clock",
+    "githubUrl": "https://github.com/bitfocus/companion-module-timemachines-clock",
+    "deprecationReason": null
+  },
+  "tinkerlist-cuez-automator": {
+    "id": "tinkerlist-cuez-automator",
+    "name": "tinkerlist-cuez-automator",
+    "shortname": "cuez-automator",
+    "manufacturer": "TinkerList",
+    "products": [
+      "Cuez - Automator"
+    ],
+    "keywords": [
+      "Running Order"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/tinkerlist-cuez-automator",
+    "githubUrl": "https://github.com/bitfocus/companion-module-tinkerlist-cuez-automator",
+    "deprecationReason": null
+  },
+  "toggl-track": {
+    "id": "toggl-track",
+    "name": "toggl-track",
+    "shortname": "toggl",
+    "manufacturer": "Toggl",
+    "products": [
+      "Track"
+    ],
+    "keywords": [
+      "Logging",
+      "Timer",
+      "Task Tracking",
+      "Time Tracking",
+      "Project Management"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/toggl-track",
+    "githubUrl": "https://github.com/bitfocus/companion-module-toggl-track",
+    "deprecationReason": null
+  },
+  "toolsonair-justincapture": {
+    "id": "toolsonair-justincapture",
+    "name": "toolsonair-justincapture",
+    "shortname": "justin",
+    "manufacturer": "ToolsOnAir",
+    "products": [
+      "just:in Capture Solutions"
+    ],
+    "keywords": [
+      "video",
+      "capture",
+      "ingest",
+      "broadcast",
+      "recording",
+      "iso",
+      "live",
+      "postproduction",
+      "aja",
+      "blackmagic design",
+      "rest",
+      "api",
+      "macos",
+      "ndi",
+      "baseband",
+      "sdi",
+      "srt",
+      "udp ",
+      "st2110",
+      "hls",
+      "silicon",
+      "linux"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/toolsonair-justincapture",
+    "githubUrl": "https://github.com/bitfocus/companion-module-toolsonair-justincapture",
+    "deprecationReason": null
+  },
+  "tow-mixeffect": {
+    "id": "tow-mixeffect",
+    "name": "tow-mixeffect",
+    "shortname": "mixeffect",
+    "manufacturer": "Adam Tow",
+    "products": [
+      "MixEffect"
+    ],
+    "keywords": [
+      "MixEffect",
+      "ATEM"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/tow-mixeffect",
+    "githubUrl": "https://github.com/bitfocus/companion-module-tow-mixeffect",
+    "deprecationReason": null
+  },
+  "tplink-kasasmartbulb": {
+    "id": "tplink-kasasmartbulb",
+    "name": "tplink-kasasmartbulb",
+    "shortname": "tplink-kasasmartbulb",
+    "manufacturer": "TP-Link",
+    "products": [
+      "Kasa Smart Bulb"
+    ],
+    "keywords": [
+      "bulb",
+      "kasa"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/tplink-kasasmartbulb",
+    "githubUrl": "https://github.com/bitfocus/companion-module-tplink-kasasmartbulb",
+    "deprecationReason": null
+  },
+  "tplink-kasasmartdimmer": {
+    "id": "tplink-kasasmartdimmer",
+    "name": "tplink-kasasmartdimmer",
+    "shortname": "tplink-kasasmartdimmer",
+    "manufacturer": "TP-Link",
+    "products": [
+      "Kasa Smart Dimmer"
+    ],
+    "keywords": [
+      "dimmer",
+      "kasa"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/tplink-kasasmartdimmer",
+    "githubUrl": "https://github.com/bitfocus/companion-module-tplink-kasasmartdimmer",
+    "deprecationReason": null
+  },
+  "tplink-kasasmartplug": {
+    "id": "tplink-kasasmartplug",
+    "name": "tplink-kasasmartplug",
+    "shortname": "tplink-kasasmartplug",
+    "manufacturer": "TP-Link",
+    "products": [
+      "Kasa Smart Plug"
+    ],
+    "keywords": [
+      "plug",
+      "kasa"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/tplink-kasasmartplug",
+    "githubUrl": "https://github.com/bitfocus/companion-module-tplink-kasasmartplug",
+    "deprecationReason": null
+  },
+  "tplink-taposmartplug": {
+    "id": "tplink-taposmartplug",
+    "name": "tplink-taposmartplug",
+    "shortname": "tplink-taposmartplug",
+    "manufacturer": "TP-Link",
+    "products": [
+      "Tapo Smart Plug"
+    ],
+    "keywords": [
+      "plug",
+      "tapo",
+      "outlet"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/tplink-taposmartplug",
+    "githubUrl": "https://github.com/bitfocus/companion-module-tplink-taposmartplug",
+    "deprecationReason": null
+  },
+  "tslproducts-umd": {
+    "id": "tslproducts-umd",
+    "name": "tslproducts-umd",
+    "shortname": "tsl-umd",
+    "manufacturer": "TSL Products",
+    "products": [
+      "UMD protocol"
+    ],
+    "keywords": [
+      "Protocol"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/tslproducts-umd",
+    "githubUrl": "https://github.com/bitfocus/companion-module-tslproducts-umd",
+    "deprecationReason": null
+  },
+  "tslproducts-umdlistener": {
+    "id": "tslproducts-umdlistener",
+    "name": "tslproducts-umdlistener",
+    "shortname": "tslumd-listener",
+    "manufacturer": "TSL Products",
+    "products": [
+      "UMD Listener"
+    ],
+    "keywords": [
+      "UMD",
+      "Tally"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/tslproducts-umdlistener",
+    "githubUrl": "https://github.com/bitfocus/companion-module-tslproducts-umdlistener",
+    "deprecationReason": null
+  },
+  "tslproducts-usp3": {
+    "id": "tslproducts-usp3",
+    "name": "tslproducts-usp3",
+    "shortname": "usp",
+    "manufacturer": "TSL Products",
+    "products": [
+      "Universal Switch Panel"
+    ],
+    "keywords": [
+      "DNF Controls",
+      "GPIO",
+      "GPI",
+      "GPO",
+      "Contact Closure",
+      "Middleman",
+      "SCTE",
+      "SCTE 104",
+      "SCTE 35"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/tslproducts-usp3",
+    "githubUrl": "https://github.com/bitfocus/companion-module-tslproducts-usp3",
+    "deprecationReason": null
+  },
+  "twitch-api": {
+    "id": "twitch-api",
+    "name": "twitch-api",
+    "shortname": "twitch",
+    "manufacturer": "Twitch",
+    "products": [
+      "Twitch Chat & API"
+    ],
+    "keywords": [
+      "Software",
+      "Chat",
+      "Stream"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/twitch-api",
+    "githubUrl": "https://github.com/bitfocus/companion-module-twitch-api",
+    "deprecationReason": null
+  },
+  "ubiquiti-unifi": {
+    "id": "ubiquiti-unifi",
+    "name": "ubiquiti-unifi",
+    "shortname": "unifi",
+    "manufacturer": "Ubiquiti",
+    "products": [
+      "Unifi",
+      "USW"
+    ],
+    "keywords": [
+      "Networking"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/ubiquiti-unifi",
+    "githubUrl": "https://github.com/bitfocus/companion-module-ubiquiti-unifi",
+    "deprecationReason": null
+  },
+  "utahscientific-bpspanel": {
+    "id": "utahscientific-bpspanel",
+    "name": "utahscientific-bpspanel",
+    "shortname": "bpspanel",
+    "manufacturer": "Utah Scientific",
+    "products": [
+      "BPS"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/utahscientific-bpspanel",
+    "githubUrl": "https://github.com/bitfocus/companion-module-utahscientific-bpspanel",
+    "deprecationReason": null
+  },
+  "vaddio-ptz": {
+    "id": "vaddio-ptz",
+    "name": "vaddio-ptz",
+    "shortname": "vaddio-ptz",
+    "manufacturer": "Vaddio",
+    "products": [
+      "PTZ Camera"
+    ],
+    "keywords": [
+      "Camera"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/vaddio-ptz",
+    "githubUrl": "https://github.com/bitfocus/companion-module-vaddio-ptz",
+    "deprecationReason": null
+  },
+  "vbaudio-voicemeeter": {
+    "id": "vbaudio-voicemeeter",
+    "name": "vbaudio-voicemeeter",
+    "shortname": "Voicemeeter",
+    "manufacturer": "VBAudio",
+    "products": [
+      "Voicemeeter"
+    ],
+    "keywords": [
+      "voicemeeter",
+      "audio"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/vbaudio-voicemeeter",
+    "githubUrl": "https://github.com/bitfocus/companion-module-vbaudio-voicemeeter",
+    "deprecationReason": null
+  },
+  "vdo-ninja": {
+    "id": "vdo-ninja",
+    "name": "vdo-ninja",
+    "shortname": "VDO.Ninja",
+    "manufacturer": "VDO",
+    "products": [
+      "Ninja"
+    ],
+    "keywords": [
+      "Video"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/vdo-ninja",
+    "githubUrl": "https://github.com/bitfocus/companion-module-vdo-ninja",
+    "deprecationReason": null
+  },
+  "ventuz-director": {
+    "id": "ventuz-director",
+    "name": "ventuz-director",
+    "shortname": "Director",
+    "manufacturer": "Ventuz Technology",
+    "products": [
+      "Director"
+    ],
+    "keywords": [
+      "Media Server",
+      "Template Graphics"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/ventuz-director",
+    "githubUrl": "https://github.com/bitfocus/companion-module-ventuz-director",
+    "deprecationReason": null
+  },
+  "companion-module-vicreo-display": {
+    "id": "companion-module-vicreo-display",
+    "name": "vicreo-display",
+    "shortname": "VICREO-Display",
+    "manufacturer": "VICREO",
+    "products": [
+      "Display"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/companion-module-vicreo-display",
+    "githubUrl": "https://github.com/bitfocus/companion-module-companion-module-vicreo-display",
+    "deprecationReason": null
+  },
+  "vicreo-hotkey": {
+    "id": "vicreo-hotkey",
+    "name": "vicreo-hotkey",
+    "shortname": "VICREO-Listener",
+    "manufacturer": "VICREO",
+    "products": [
+      "Listener"
+    ],
+    "keywords": [
+      "Keyboard",
+      "emulator"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/vicreo-hotkey",
+    "githubUrl": "https://github.com/bitfocus/companion-module-vicreo-hotkey",
+    "deprecationReason": null
+  },
+  "videolan-vlc": {
+    "id": "videolan-vlc",
+    "name": "videolan-vlc",
+    "shortname": "vlc",
+    "manufacturer": "VideoLAN",
+    "products": [
+      "VLC"
+    ],
+    "keywords": [
+      "Video",
+      "Software"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/videolan-vlc",
+    "githubUrl": "https://github.com/bitfocus/companion-module-videolan-vlc",
+    "deprecationReason": null
+  },
+  "vistream-online": {
+    "id": "vistream-online",
+    "name": "ViStream.online",
+    "shortname": "vistream",
+    "manufacturer": "ViStream",
+    "products": [
+      "online"
+    ],
+    "keywords": [
+      "ViStream",
+      "streaming",
+      "conference",
+      "platform"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/vistream-online",
+    "githubUrl": "https://github.com/bitfocus/companion-module-vistream-online",
+    "deprecationReason": null
+  },
+  "visualproductions-timecore": {
+    "id": "visualproductions-timecore",
+    "name": "visualproductions-timecore",
+    "shortname": "timecore",
+    "manufacturer": "Visual Productions",
+    "products": [
+      "Timecore"
+    ],
+    "keywords": [
+      "Timecore"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/visualproductions-timecore",
+    "githubUrl": "https://github.com/bitfocus/companion-module-visualproductions-timecore",
+    "deprecationReason": null
+  },
+  "vitec-avediaplayer9300-series": {
+    "id": "vitec-avediaplayer9300-series",
+    "name": "vitec-avediaplayer9300-series",
+    "shortname": "AvediaPlayer 9300 series",
+    "manufacturer": "Vitec",
+    "products": [
+      "AvediaPlayer r9300",
+      "AvediaPlayer r9310",
+      "AvediaPlayer m9305",
+      "AvediaPlayer m9325",
+      "AvediaPlayer m9325 Wi-Fi"
+    ],
+    "keywords": [
+      "IPTV",
+      "Digital Signage",
+      "Exterity"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/vitec-avediaplayer9300-series",
+    "githubUrl": "https://github.com/bitfocus/companion-module-vitec-avediaplayer9300-series",
+    "deprecationReason": null
+  },
+  "vivitek-projector": {
+    "id": "vivitek-projector",
+    "name": "vivitek-projector",
+    "shortname": "vivitek",
+    "manufacturer": "Vivitek",
+    "products": [
+      "Projector"
+    ],
+    "keywords": [
+      "Projector",
+      "Protocol"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/vivitek-projector",
+    "githubUrl": "https://github.com/bitfocus/companion-module-vivitek-projector",
+    "deprecationReason": null
+  },
+  "vizio-smartcast": {
+    "id": "vizio-smartcast",
+    "name": "vizio-smartcast",
+    "shortname": "smartcast",
+    "manufacturer": "VIZIO",
+    "products": [
+      "SmartCast"
+    ],
+    "keywords": [
+      "TV"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/vizio-smartcast",
+    "githubUrl": "https://github.com/bitfocus/companion-module-vizio-smartcast",
+    "deprecationReason": null
+  },
+  "companion-module-voicemod-api": {
+    "id": "companion-module-voicemod-api",
+    "name": "companion-module-voicemod-api",
+    "shortname": "Voicemod",
+    "manufacturer": "Voicemod",
+    "products": [
+      "Voicemod"
+    ],
+    "keywords": [
+      "Audio"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/companion-module-voicemod-api",
+    "githubUrl": "https://github.com/bitfocus/companion-module-companion-module-voicemod-api",
+    "deprecationReason": null
+  },
+  "vyv-photon": {
+    "id": "vyv-photon",
+    "name": "vyv-photon",
+    "shortname": "photon",
+    "manufacturer": "VYV",
+    "products": [
+      "Photon"
+    ],
+    "keywords": [
+      "Media Server"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/vyv-photon",
+    "githubUrl": "https://github.com/bitfocus/companion-module-vyv-photon",
+    "deprecationReason": null
+  },
+  "webcomms-panel": {
+    "id": "webcomms-panel",
+    "name": "Web-Comms-Panel",
+    "shortname": "Web-Comms-Panel",
+    "manufacturer": "Web Comms",
+    "products": [
+      "Panel"
+    ],
+    "keywords": [
+      "Intercom",
+      "Comms"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/webcomms-panel",
+    "githubUrl": "https://github.com/bitfocus/companion-module-webcomms-panel",
+    "deprecationReason": null
+  },
+  "wled-ws": {
+    "id": "wled-ws",
+    "name": "wled-ws",
+    "shortname": "wled",
+    "manufacturer": "WLED",
+    "products": [
+      "WLED"
+    ],
+    "keywords": [
+      "WLED"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/wled-ws",
+    "githubUrl": "https://github.com/bitfocus/companion-module-wled-ws",
+    "deprecationReason": null
+  },
+  "yamaha-rcp": {
+    "id": "yamaha-rcp",
+    "name": "yamaha-rcp",
+    "shortname": "yamaha-rcp",
+    "manufacturer": "Yamaha",
+    "products": [
+      "RCP"
+    ],
+    "keywords": [
+      "Yamaha",
+      "Mixer",
+      "CL",
+      "QL",
+      "PM",
+      "TF",
+      "DM",
+      "RSio"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/yamaha-rcp",
+    "githubUrl": "https://github.com/bitfocus/companion-module-yamaha-rcp",
+    "deprecationReason": null
+  },
+  "youtube-live": {
+    "id": "youtube-live",
+    "name": "youtube-live",
+    "shortname": "YT",
+    "manufacturer": "Google",
+    "products": [
+      "YouTube"
+    ],
+    "keywords": [
+      "Stream"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/youtube-live",
+    "githubUrl": "https://github.com/bitfocus/companion-module-youtube-live",
+    "deprecationReason": null
+  },
+  "zenvideo-ndirouter": {
+    "id": "zenvideo-ndirouter",
+    "name": "zenvideo-ndirouter",
+    "shortname": "NDIRouter",
+    "manufacturer": "ZEN",
+    "products": [
+      "NDIRouter"
+    ],
+    "keywords": [
+      "Protocol",
+      "Matrix"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/zenvideo-ndirouter",
+    "githubUrl": "https://github.com/bitfocus/companion-module-zenvideo-ndirouter",
+    "deprecationReason": null
+  },
+  "zerodensity-realityhub": {
+    "id": "zerodensity-realityhub",
+    "name": "zerodensity-realityhub",
+    "shortname": "RealityHub",
+    "manufacturer": "Zerodensity",
+    "products": [
+      "RealityHub 1.3"
+    ],
+    "keywords": [
+      "Zerodensity",
+      "RealityHub"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/zerodensity-realityhub",
+    "githubUrl": "https://github.com/bitfocus/companion-module-zerodensity-realityhub",
+    "deprecationReason": null
+  },
+  "zinc-oscpoint": {
+    "id": "zinc-oscpoint",
+    "name": "OSCPoint",
+    "shortname": "OSCPoint",
+    "manufacturer": "Zinc",
+    "products": [
+      "OSCPoint"
+    ],
+    "keywords": [
+      "PowerPoint",
+      "OSC",
+      "Open Sound Control"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/zinc-oscpoint",
+    "githubUrl": "https://github.com/bitfocus/companion-module-zinc-oscpoint",
+    "deprecationReason": null
+  },
+  "zoom-osc-iso": {
+    "id": "zoom-osc-iso",
+    "name": "zoom-osc-iso",
+    "shortname": "Zoom OSC / ISO module",
+    "manufacturer": "Zoom",
+    "products": [
+      "OSC/ISO"
+    ],
+    "keywords": [
+      "zoom",
+      "ZoomOSC",
+      "ZoomISO",
+      "Zoom OSC",
+      "Zoom ISO"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/zoom-osc-iso",
+    "githubUrl": "https://github.com/bitfocus/companion-module-zoom-osc-iso",
+    "deprecationReason": null
+  },
+  "DigitalProjection-projectors": {
+    "id": "DigitalProjection-projectors",
+    "name": "digitalprojection-projectors",
+    "shortname": "DP-projectors",
+    "manufacturer": "DigitalProjection",
+    "products": [
+      "Models supported by Projector Controller II"
+    ],
+    "keywords": [
+      "DigitalProjection",
+      "Satellite",
+      "MLS",
+      "SCM",
+      "Titan",
+      "HIGHlite",
+      "E-Vision",
+      "M-Vision",
+      "TCP",
+      "Projector"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/DigitalProjection-projectors",
+    "githubUrl": "https://github.com/bitfocus/companion-module-DigitalProjection-projectors",
+    "deprecationReason": null
+  },
+  "axeltechnology_vjpro": {
+    "id": "axeltechnology_vjpro",
+    "name": "axeltechnology_vjpro",
+    "shortname": "vjpro",
+    "manufacturer": "AxelTechnology",
+    "products": [
+      "vjpro"
+    ],
+    "keywords": [
+      "vjpro",
+      "vj",
+      "axel",
+      "technology"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/axeltechnology_vjpro",
+    "githubUrl": "https://github.com/bitfocus/companion-module-axeltechnology_vjpro",
+    "deprecationReason": null
+  },
+  "ai-media-lexi-live": {
+    "id": "ai-media-lexi-live",
+    "name": "ai-media-lexi-live",
+    "shortname": "Lexi-Live",
+    "manufacturer": "AI Media",
+    "products": [
+      "Lexi Live"
+    ],
+    "keywords": [
+      "Closed Captioning"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/ai-media-lexi-live",
+    "githubUrl": "https://github.com/bitfocus/companion-module-ai-media-lexi-live",
+    "deprecationReason": null
+  },
+  "novastar-media-server": {
+    "id": "novastar-media-server",
+    "name": "novastar-media-server",
+    "shortname": "media-server",
+    "manufacturer": "Nuowaxingyun",
+    "products": [
+      "RX6"
+    ],
+    "keywords": [
+      "Nuowaxingyun",
+      "Media-Server",
+      "RX6"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/novastar-media-server",
+    "githubUrl": "https://github.com/bitfocus/companion-module-novastar-media-server",
+    "deprecationReason": null
+  },
+  "pixelhue-media-server": {
+    "id": "pixelhue-media-server",
+    "name": "pixelhue-media-server",
+    "shortname": "media-server",
+    "manufacturer": "PixelHue",
+    "products": [
+      "MS3"
+    ],
+    "keywords": [
+      "PixelHue",
+      "Media-Server",
+      "MS3"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/pixelhue-media-server",
+    "githubUrl": "https://github.com/bitfocus/companion-module-pixelhue-media-server",
+    "deprecationReason": null
+  },
+  "shure-mwx": {
+    "id": "shure-mwx",
+    "name": "shure-mwx",
+    "shortname": "shure-mwx",
+    "manufacturer": "Shure",
+    "products": [
+      "Microflex (MXW)"
+    ],
+    "keywords": [
+      "Wireless Microphone"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/shure-mwx",
+    "githubUrl": "https://github.com/bitfocus/companion-module-shure-mwx",
+    "deprecationReason": null
+  },
+  "smodelive": {
+    "id": "smodelive",
+    "name": "Smode Live",
+    "shortname": "Smode Live",
+    "manufacturer": "Smode",
+    "products": [
+      "Smode Live"
+    ],
+    "keywords": [
+      "Software",
+      "Media Server"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/smodelive",
+    "githubUrl": "https://github.com/bitfocus/companion-module-smodelive",
+    "deprecationReason": null
+  },
+  "tascam-cd-400u": {
+    "id": "tascam-cd-400u",
+    "name": "tascam-cd-400u",
+    "shortname": "CD-400U",
+    "manufacturer": "Tascam",
+    "products": [
+      "CD-400U",
+      "CD-400U DAB"
+    ],
+    "keywords": [
+      "Hardware",
+      "Audio",
+      "CD",
+      "Bluetooth",
+      "USB",
+      "Radio",
+      "AM",
+      "FM",
+      "DAB",
+      "SD"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/tascam-cd-400u",
+    "githubUrl": "https://github.com/bitfocus/companion-module-tascam-cd-400u",
+    "deprecationReason": null
+  },
+  "companion-module-tellyo-streamstudio": {
+    "id": "companion-module-tellyo-streamstudio",
+    "name": "tellyo-streamstudio",
+    "shortname": "streamstudio",
+    "manufacturer": "Tellyo",
+    "products": [
+      "Stream Studio"
+    ],
+    "keywords": [
+      "Software",
+      "Vision Mixer",
+      "Cloud"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/companion-module-tellyo-streamstudio",
+    "githubUrl": "https://github.com/bitfocus/companion-module-companion-module-tellyo-streamstudio",
+    "deprecationReason": null
+  },
+  "voicemeeter": {
+    "id": "voicemeeter",
+    "name": "voicemeeter",
+    "shortname": "Voicemeeter",
+    "manufacturer": "VBAudio",
+    "products": [
+      "Voicemeeter"
+    ],
+    "keywords": [
+      "voicemeeter",
+      "audio"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/voicemeeter",
+    "githubUrl": "https://github.com/bitfocus/companion-module-voicemeeter",
+    "deprecationReason": null
+  },
+  "oscpoint": {
+    "id": "oscpoint",
+    "name": "OSCPoint",
+    "shortname": "OSCPoint",
+    "manufacturer": "Zinc",
+    "products": [
+      "OSCPoint"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/oscpoint",
+    "githubUrl": "https://github.com/bitfocus/companion-module-oscpoint",
+    "deprecationReason": null
+  },
+  "panasonic-panapod": {
+    "id": "panasonic-panapod",
+    "name": "panasonic-panapod",
+    "shortname": "panapod",
+    "manufacturer": "Panasonic",
+    "products": [
+      "Panapod"
+    ],
+    "keywords": [
+      "panapod",
+      "camera",
+      "elevation",
+      "motor"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/panasonic-panapod",
+    "githubUrl": "https://github.com/bitfocus/companion-module-panasonic-panapod",
+    "deprecationReason": null
+  },
+  "novastar-d12": {
+    "id": "novastar-d12",
+    "name": "novastar-d12",
+    "shortname": "novastar",
+    "manufacturer": "Novastar",
+    "products": [
+      "D12"
+    ],
+    "keywords": [
+      "Presentation Switcher"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/novastar-d12",
+    "githubUrl": "https://github.com/bitfocus/companion-module-novastar-d12",
+    "deprecationReason": null
+  },
+  "pixelhue-fseries": {
+    "id": "pixelhue-fseries",
+    "name": "pixelhue-fseries",
+    "shortname": "pixelhue",
+    "manufacturer": "Pixelhue",
+    "products": [
+      "F8",
+      "F4",
+      "F4 Lite"
+    ],
+    "keywords": [
+      "Presentation Switcher"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/pixelhue-fseries",
+    "githubUrl": "https://github.com/bitfocus/companion-module-pixelhue-fseries",
+    "deprecationReason": null
+  }
+}

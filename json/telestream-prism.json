@@ -1,0 +1,28 @@
+{
+  "versions": [
+    {
+      "id": "1.2.0",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/telestream-prism-1.2.0.tgz",
+      "apiVersion": "1.10.0",
+      "deprecationReason": null
+    },
+    {
+      "id": "1.1.7",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/telestream-prism-1.1.7.tgz",
+      "apiVersion": "1.10.0",
+      "deprecationReason": null
+    },
+    {
+      "id": "1.1.2",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/telestream-prism-1.1.2.tgz",
+      "apiVersion": "1.8.0",
+      "deprecationReason": null
+    }
+  ]
+}
