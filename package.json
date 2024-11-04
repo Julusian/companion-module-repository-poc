@@ -1,0 +1,13 @@
+{
+  "name": "module-test",
+  "type": "module",
+  "scripts": {
+    "json": "zx json.mjs",
+    "populate": "zx populate.mjs"
+  },
+  "packageManager": "yarn@4.5.1",
+  "dependencies": {
+    "better-sqlite3": "^11.5.0",
+    "zx": "^8.2.0"
+  }
+}
