@@ -9,5 +9,8 @@
   "dependencies": {
     "better-sqlite3": "^11.5.0",
     "zx": "^8.2.0"
+  },
+  "devDependencies": {
+    "@companion-module/base": "^1.11.1"
   }
 }

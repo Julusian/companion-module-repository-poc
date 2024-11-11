@@ -6820,5 +6820,18 @@
     "storeUrl": "https://bitfocus.io/connections/pixelhue-fseries",
     "githubUrl": "https://github.com/bitfocus/companion-module-pixelhue-fseries",
     "deprecationReason": null
+  },
+  "fake-module": {
+    "id": "fake-module",
+    "name": "fake-module",
+    "shortname": "fake-module",
+    "manufacturer": "fake-module",
+    "products": [
+      "fake-test"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/fake-module",
+    "githubUrl": "https://github.com/bitfocus/companion-module-fake-module",
+    "deprecationReason": null
   }
 }
