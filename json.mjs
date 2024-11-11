@@ -28,11 +28,11 @@ for (const name of moduleNames) {
 
     return {
       id: row.version,
-      isPrerelease: false,
+      isPrerelease: row.version.includes("-"),
       releasedAt: new Date("2021-01-01").getTime(), // TODO - derive from version number?
       tarUrl: `https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/${row.name}-${row.version}.tgz`,
       apiVersion: jsonObj.runtime.apiVersion,
-      deprecationReason: null,
+      deprecationReason: jsonObj.deprecationReason || null,
     };
   });
 

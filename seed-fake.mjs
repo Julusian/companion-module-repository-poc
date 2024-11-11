@@ -67,6 +67,21 @@ query2.run({
   json: JSON.stringify(createFakeManifest("1.5.0", "1.5.5")),
 });
 query2.run({
+  id: `${fakeId}-1.6.0`,
+  name: fakeId,
+  version: "1.6.0-0",
+  json: JSON.stringify(createFakeManifest("1.6.0-0", "1.5.5")),
+});
+query2.run({
+  id: `${fakeId}-1.7.0`,
+  name: fakeId,
+  version: "1.7.0",
+  json: JSON.stringify({
+    ...createFakeManifest("1.7.0", "1.5.5"),
+    deprecationReason: "test deprecated",
+  }),
+});
+query2.run({
   id: `${fakeId}-1.22.1`,
   name: fakeId,
   version: "1.22.1",
