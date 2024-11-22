@@ -6609,19 +6609,6 @@
     "githubUrl": "https://github.com/bitfocus/companion-module-zoom-osc-iso",
     "deprecationReason": null
   },
-  "fake-module": {
-    "id": "fake-module",
-    "name": "fake-module",
-    "shortname": "fake-module",
-    "manufacturer": "fake-module",
-    "products": [
-      "fake-test"
-    ],
-    "keywords": [],
-    "storeUrl": "https://bitfocus.io/connections/fake-module",
-    "githubUrl": "https://github.com/bitfocus/companion-module-fake-module",
-    "deprecationReason": null
-  },
   "DigitalProjection-projectors": {
     "id": "DigitalProjection-projectors",
     "name": "digitalprojection-projectors",

@@ -3,7 +3,7 @@
     {
       "id": "3.1.5",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1731024000000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/birddog-ptz-3.1.5.tgz",
       "apiVersion": "1.11.1",
       "deprecationReason": null
@@ -11,7 +11,7 @@
     {
       "id": "3.1.4",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1724716800000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/birddog-ptz-3.1.4.tgz",
       "apiVersion": "1.10.0",
       "deprecationReason": null
@@ -19,7 +19,7 @@
     {
       "id": "3.1.3",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1708387200000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/birddog-ptz-3.1.3.tgz",
       "apiVersion": "1.7.0",
       "deprecationReason": null
@@ -27,7 +27,7 @@
     {
       "id": "3.1.2",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1707523200000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/birddog-ptz-3.1.2.tgz",
       "apiVersion": "1.7.0",
       "deprecationReason": null
@@ -35,7 +35,7 @@
     {
       "id": "3.1.0",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1698537600000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/birddog-ptz-3.1.0.tgz",
       "apiVersion": "1.5.1",
       "deprecationReason": null
@@ -43,7 +43,7 @@
     {
       "id": "3.0.3",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1693872000000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/birddog-ptz-3.0.3.tgz",
       "apiVersion": "1.4.3",
       "deprecationReason": null
@@ -51,7 +51,7 @@
     {
       "id": "3.0.2",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1684454400000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/birddog-ptz-3.0.2.tgz",
       "apiVersion": "1.4.1",
       "deprecationReason": null

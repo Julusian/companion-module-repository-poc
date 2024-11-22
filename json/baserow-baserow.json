@@ -3,7 +3,7 @@
     {
       "id": "1.0.1",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1725148800000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/baserow-baserow-1.0.1.tgz",
       "apiVersion": "1.10.0",
       "deprecationReason": null

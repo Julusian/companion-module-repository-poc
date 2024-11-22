@@ -3,7 +3,7 @@
     {
       "id": "2.0.6",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1715731200000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/tow-mixeffect-2.0.6.tgz",
       "apiVersion": "1.8.0",
       "deprecationReason": null
@@ -11,7 +11,7 @@
     {
       "id": "2.0.4",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1704758400000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/tow-mixeffect-2.0.4.tgz",
       "apiVersion": "1.7.0",
       "deprecationReason": null
@@ -19,7 +19,7 @@
     {
       "id": "2.0.3",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1689379200000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/tow-mixeffect-2.0.3.tgz",
       "apiVersion": "1.4.1",
       "deprecationReason": null

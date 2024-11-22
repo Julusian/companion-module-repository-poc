@@ -3,7 +3,7 @@
     {
       "id": "2.4.4",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1727222400000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/generic-emberplus-2.4.4.tgz",
       "apiVersion": "1.10.0",
       "deprecationReason": null
@@ -11,7 +11,7 @@
     {
       "id": "2.2.0",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1714953600000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/generic-emberplus-2.2.0.tgz",
       "apiVersion": "1.1.1",
       "deprecationReason": null
@@ -19,7 +19,7 @@
     {
       "id": "2.0.1",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1676332800000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/generic-emberplus-2.0.1.tgz",
       "apiVersion": "1.1.1",
       "deprecationReason": null

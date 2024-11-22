@@ -3,7 +3,7 @@
     {
       "id": "1.0.1",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1709510400000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/glensound-minferno-1.0.1.tgz",
       "apiVersion": "1.7.0",
       "deprecationReason": null
@@ -11,7 +11,7 @@
     {
       "id": "1.0.0",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1702166400000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/glensound-minferno-1.0.0.tgz",
       "apiVersion": "1.5.1",
       "deprecationReason": null

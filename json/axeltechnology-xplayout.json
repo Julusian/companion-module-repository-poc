@@ -3,7 +3,7 @@
     {
       "id": "1.0.3",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1727049600000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/axeltechnology-xplayout-1.0.3.tgz",
       "apiVersion": "1.5.1",
       "deprecationReason": null
@@ -11,7 +11,7 @@
     {
       "id": "1.0.0",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1718928000000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/axeltechnology-xplayout-1.0.0.tgz",
       "apiVersion": "1.5.1",
       "deprecationReason": null

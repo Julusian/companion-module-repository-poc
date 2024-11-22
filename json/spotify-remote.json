@@ -3,7 +3,7 @@
     {
       "id": "2.3.0",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1730332800000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/spotify-remote-2.3.0.tgz",
       "apiVersion": "1.10.0",
       "deprecationReason": null
@@ -11,7 +11,7 @@
     {
       "id": "2.2.2",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1728000000000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/spotify-remote-2.2.2.tgz",
       "apiVersion": "1.10.0",
       "deprecationReason": null
@@ -19,7 +19,7 @@
     {
       "id": "2.2.1",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1725753600000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/spotify-remote-2.2.1.tgz",
       "apiVersion": "1.10.0",
       "deprecationReason": null
@@ -27,7 +27,7 @@
     {
       "id": "2.1.0",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1683936000000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/spotify-remote-2.1.0.tgz",
       "apiVersion": "1.0.2",
       "deprecationReason": null

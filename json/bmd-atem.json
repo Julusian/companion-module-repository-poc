@@ -3,7 +3,7 @@
     {
       "id": "3.14.1",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1730851200000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/bmd-atem-3.14.1.tgz",
       "apiVersion": "1.11.0",
       "deprecationReason": null
@@ -11,7 +11,7 @@
     {
       "id": "3.13.1",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1728000000000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/bmd-atem-3.13.1.tgz",
       "apiVersion": "1.10.0",
       "deprecationReason": null
@@ -19,7 +19,7 @@
     {
       "id": "3.13.0",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1725926400000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/bmd-atem-3.13.0.tgz",
       "apiVersion": "1.10.0",
       "deprecationReason": null
@@ -27,7 +27,7 @@
     {
       "id": "3.11.0",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1715644800000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/bmd-atem-3.11.0.tgz",
       "apiVersion": "1.7.1",
       "deprecationReason": null
@@ -35,7 +35,7 @@
     {
       "id": "3.7.1",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1707264000000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/bmd-atem-3.7.1.tgz",
       "apiVersion": "1.6.0",
       "deprecationReason": null
@@ -43,7 +43,7 @@
     {
       "id": "3.7.0",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1705968000000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/bmd-atem-3.7.0.tgz",
       "apiVersion": "1.6.0",
       "deprecationReason": null
@@ -51,7 +51,7 @@
     {
       "id": "3.5.2",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1695686400000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/bmd-atem-3.5.2.tgz",
       "apiVersion": "1.5.0",
       "deprecationReason": null
@@ -59,7 +59,7 @@
     {
       "id": "3.3.3",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1689465600000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/bmd-atem-3.3.3.tgz",
       "apiVersion": "1.4.1",
       "deprecationReason": null
@@ -67,7 +67,7 @@
     {
       "id": "3.3.2",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1687046400000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/bmd-atem-3.3.2.tgz",
       "apiVersion": "1.4.1",
       "deprecationReason": null

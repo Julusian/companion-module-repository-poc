@@ -3,7 +3,7 @@
     {
       "id": "2.1.0",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1720569600000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/chamsys-magicq-udp-2.1.0.tgz",
       "apiVersion": "1.0.2",
       "deprecationReason": null
@@ -11,7 +11,7 @@
     {
       "id": "2.0.0",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1677024000000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/chamsys-magicq-udp-2.0.0.tgz",
       "apiVersion": "1.0.2",
       "deprecationReason": null

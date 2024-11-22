@@ -3,7 +3,7 @@
     {
       "id": "1.1.2",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1725753600000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/dan-dugan-automixer-1.1.2.tgz",
       "apiVersion": "1.10.0",
       "deprecationReason": null
@@ -11,7 +11,7 @@
     {
       "id": "1.0.4",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1715385600000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/dan-dugan-automixer-1.0.4.tgz",
       "apiVersion": "1.8.0",
       "deprecationReason": null
@@ -19,7 +19,7 @@
     {
       "id": "1.0.1",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1704758400000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/dan-dugan-automixer-1.0.1.tgz",
       "apiVersion": "1.7.0",
       "deprecationReason": null

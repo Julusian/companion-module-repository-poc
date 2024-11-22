@@ -3,7 +3,7 @@
     {
       "id": "2.4.2",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1720828800000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/zenvideo-ndirouter-2.4.2.tgz",
       "apiVersion": "1.8.0",
       "deprecationReason": null
@@ -11,7 +11,7 @@
     {
       "id": "2.4.1",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1717459200000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/zenvideo-ndirouter-2.4.1.tgz",
       "apiVersion": "1.8.0",
       "deprecationReason": null
@@ -19,7 +19,7 @@
     {
       "id": "2.4.0",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1715385600000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/zenvideo-ndirouter-2.4.0.tgz",
       "apiVersion": "1.8.0",
       "deprecationReason": null
@@ -27,7 +27,7 @@
     {
       "id": "2.2.0",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1705104000000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/zenvideo-ndirouter-2.2.0.tgz",
       "apiVersion": "1.7.0",
       "deprecationReason": null
@@ -35,7 +35,7 @@
     {
       "id": "2.0.0",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1691625600000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/zenvideo-ndirouter-2.0.0.tgz",
       "apiVersion": "1.4.1",
       "deprecationReason": null

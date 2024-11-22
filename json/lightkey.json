@@ -3,7 +3,7 @@
     {
       "id": "2.2.1",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1689552000000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/lightkey-2.2.1.tgz",
       "apiVersion": "1.4.1",
       "deprecationReason": null

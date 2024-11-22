@@ -3,7 +3,7 @@
     {
       "id": "2.3.0",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1727308800000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/canon-ptz-2.3.0.tgz",
       "apiVersion": "1.0.2",
       "deprecationReason": null
@@ -11,7 +11,7 @@
     {
       "id": "2.2.3",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1724371200000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/canon-ptz-2.2.3.tgz",
       "apiVersion": "1.0.2",
       "deprecationReason": null
@@ -19,7 +19,7 @@
     {
       "id": "2.2.1",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1715040000000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/canon-ptz-2.2.1.tgz",
       "apiVersion": "1.0.2",
       "deprecationReason": null
@@ -27,7 +27,7 @@
     {
       "id": "2.1.1",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1704672000000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/canon-ptz-2.1.1.tgz",
       "apiVersion": "1.0.2",
       "deprecationReason": null
@@ -35,7 +35,7 @@
     {
       "id": "2.0.12",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1695168000000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/canon-ptz-2.0.12.tgz",
       "apiVersion": "1.0.2",
       "deprecationReason": null
@@ -43,7 +43,7 @@
     {
       "id": "2.0.6",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1689379200000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/canon-ptz-2.0.6.tgz",
       "apiVersion": "1.0.2",
       "deprecationReason": null

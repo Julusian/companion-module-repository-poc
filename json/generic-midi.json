@@ -3,7 +3,7 @@
     {
       "id": "1.1.7",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1710201600000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/generic-midi-1.1.7.tgz",
       "apiVersion": "1.7.0",
       "deprecationReason": null

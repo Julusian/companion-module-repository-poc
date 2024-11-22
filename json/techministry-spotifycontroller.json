@@ -3,7 +3,7 @@
     {
       "id": "2.1.1",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1710460800000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/techministry-spotifycontroller-2.1.1.tgz",
       "apiVersion": "1.4.3",
       "deprecationReason": null
@@ -11,7 +11,7 @@
     {
       "id": "2.0.1",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1688256000000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/techministry-spotifycontroller-2.0.1.tgz",
       "apiVersion": "1.4.0",
       "deprecationReason": null

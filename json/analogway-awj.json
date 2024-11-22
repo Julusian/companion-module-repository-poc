@@ -3,7 +3,7 @@
     {
       "id": "2.4.3",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1729209600000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/analogway-awj-2.4.3.tgz",
       "apiVersion": "1.7.0",
       "deprecationReason": null
@@ -11,7 +11,7 @@
     {
       "id": "2.4.2",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1728172800000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/analogway-awj-2.4.2.tgz",
       "apiVersion": "1.7.0",
       "deprecationReason": null
@@ -19,7 +19,7 @@
     {
       "id": "2.4.1",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1727049600000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/analogway-awj-2.4.1.tgz",
       "apiVersion": "1.7.0",
       "deprecationReason": null
@@ -27,7 +27,7 @@
     {
       "id": "2.4.0",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1722124800000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/analogway-awj-2.4.0.tgz",
       "apiVersion": "1.7.0",
       "deprecationReason": null
@@ -35,7 +35,7 @@
     {
       "id": "2.3.0",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1687910400000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/analogway-awj-2.3.0.tgz",
       "apiVersion": "1.2.1",
       "deprecationReason": null

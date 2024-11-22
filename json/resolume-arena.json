@@ -3,7 +3,7 @@
     {
       "id": "3.8.0",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1728864000000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/resolume-arena-3.8.0.tgz",
       "apiVersion": "1.10.0",
       "deprecationReason": null
@@ -11,7 +11,7 @@
     {
       "id": "3.5.1",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1712707200000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/resolume-arena-3.5.1.tgz",
       "apiVersion": "1.7.0",
       "deprecationReason": null
@@ -19,7 +19,7 @@
     {
       "id": "2.0.2",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1692489600000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/resolume-arena-2.0.2.tgz",
       "apiVersion": "1.4.1",
       "deprecationReason": null
@@ -27,7 +27,7 @@
     {
       "id": "2.0.1",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1689379200000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/resolume-arena-2.0.1.tgz",
       "apiVersion": "1.4.1",
       "deprecationReason": null

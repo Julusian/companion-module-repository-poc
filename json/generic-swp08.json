@@ -3,7 +3,7 @@
     {
       "id": "2.0.2",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1727136000000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/generic-swp08-2.0.2.tgz",
       "apiVersion": "1.10.0",
       "deprecationReason": null
@@ -11,7 +11,7 @@
     {
       "id": "2.0.0",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1721779200000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/generic-swp08-2.0.0.tgz",
       "apiVersion": "1.8.0",
       "deprecationReason": null

@@ -3,23 +3,15 @@
     {
       "id": "2.1.0",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1704499200000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/generic-mqtt-2.1.0.tgz",
       "apiVersion": "1.6.0",
       "deprecationReason": null
     },
     {
-      "id": "2.0.2",
-      "isPrerelease": false,
-      "releasedAt": 1609459200000,
-      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/generic-mqtt-2.0.2.tgz",
-      "apiVersion": "1.0.2",
-      "deprecationReason": null
-    },
-    {
       "id": "2.0.1",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1673136000000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/generic-mqtt-2.0.1.tgz",
       "apiVersion": "1.0.2",
       "deprecationReason": null

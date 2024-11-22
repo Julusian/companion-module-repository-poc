@@ -3,7 +3,7 @@
     {
       "id": "2.2.0",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1724457600000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/generic-http-2.2.0.tgz",
       "apiVersion": "1.10.0",
       "deprecationReason": null
@@ -11,7 +11,7 @@
     {
       "id": "2.1.6",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1692489600000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/generic-http-2.1.6.tgz",
       "apiVersion": "1.4.1",
       "deprecationReason": null
@@ -19,7 +19,7 @@
     {
       "id": "2.1.5",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1687737600000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/generic-http-2.1.5.tgz",
       "apiVersion": "1.4.1",
       "deprecationReason": null

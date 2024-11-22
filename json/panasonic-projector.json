@@ -3,7 +3,7 @@
     {
       "id": "3.2.0",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1699315200000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/panasonic-projector-3.2.0.tgz",
       "apiVersion": "1.4.3",
       "deprecationReason": null
@@ -11,7 +11,7 @@
     {
       "id": "3.0.5",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1690416000000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/panasonic-projector-3.0.5.tgz",
       "apiVersion": "1.1.1",
       "deprecationReason": null
@@ -19,7 +19,7 @@
     {
       "id": "3.0.3",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1688169600000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/panasonic-projector-3.0.3.tgz",
       "apiVersion": "1.1.1",
       "deprecationReason": null

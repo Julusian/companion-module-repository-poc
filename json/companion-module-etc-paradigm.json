@@ -3,7 +3,7 @@
     {
       "id": "1.0.6",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1704585600000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/companion-module-etc-paradigm-1.0.6.tgz",
       "apiVersion": "1.5.1",
       "deprecationReason": null
@@ -11,7 +11,7 @@
     {
       "id": "1.0.4",
       "isPrerelease": false,
-      "releasedAt": 1609459200000,
+      "releasedAt": 1686441600000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/companion-module-etc-paradigm-1.0.4.tgz",
       "apiVersion": "1.1.1",
       "deprecationReason": null
