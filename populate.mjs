@@ -8,7 +8,7 @@ const branch = argv._[0] || "main";
 const db = new Database("modules.db");
 
 db.exec(
-  "CREATE TABLE IF NOT EXISTS modules (id TEXT PRIMARY KEY, name TEXT KEY, version TEXT KEY, json TEXT)"
+  "CREATE TABLE IF NOT EXISTS modules (id TEXT PRIMARY KEY, name TEXT KEY, version TEXT KEY, json TEXT, created_at TIMESTAMP)"
 );
 
 const query = db.prepare(
@@ -44,6 +44,21 @@ for (const name of modules) {
     );
     const json = JSON.parse(jsonStr);
 
+    let buildDate = null
+    try {
+      const buildInfo = await fs.readFile(
+        path.join(basePath, ".build-info"),
+        "utf8"
+      )
+
+      const match = /UPDATE_DATE=(.+)/.exec(buildInfo)
+      if (match) {
+        buildDate = new Date(match[1])
+      }
+    } catch (e) {
+      console.error('Failed to parse build-info')
+    }
+
     const row = query.get({ name: json.id, version: json.version });
     if (row) {
       //   console.log(`Already exists ${json.id}@${json.version}`);
@@ -63,6 +78,7 @@ for (const name of modules) {
       name: json.id,
       version: json.version,
       json: jsonStr,
+      created_at: new Date().toISOString(),
     });
     console.log("Added", json.id, json.version);
   } catch (e) {
