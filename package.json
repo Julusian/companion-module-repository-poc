@@ -8,6 +8,7 @@
   "packageManager": "yarn@4.5.1",
   "dependencies": {
     "better-sqlite3": "^11.5.0",
+    "semver": "^7.6.3",
     "zx": "^8.2.0"
   },
   "devDependencies": {

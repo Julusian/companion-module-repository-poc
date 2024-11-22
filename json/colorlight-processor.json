@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "id": "1.1.0",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/colorlight-processor-1.1.0.tgz",
+      "apiVersion": "1.0.2",
+      "deprecationReason": null
+    },
+    {
       "id": "1.0.2",
       "isPrerelease": false,
       "releasedAt": 1609459200000,

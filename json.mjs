@@ -2,6 +2,7 @@
 
 import { fs, path } from "zx";
 import Database from "better-sqlite3";
+import semver from 'semver'
 
 const db = new Database("modules.db");
 
@@ -20,7 +21,7 @@ console.log("found modules", moduleNames.size);
 const moduleData = {};
 
 for (const name of moduleNames) {
-  const moduleVersions = rows.filter((row) => row.name === name);
+  const moduleVersions = rows.filter((row) => row.name === name).sort((a, b) => semver.compare(b.version, a.version));
   const versions = moduleVersions.map((row) => {
     //   return JSON.parse(row.json);
 

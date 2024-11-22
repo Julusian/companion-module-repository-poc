@@ -2950,6 +2950,24 @@
     "githubUrl": "https://github.com/bitfocus/companion-module-interactivetechnologies-cueserver",
     "deprecationReason": null
   },
+  "interspace-cueether": {
+    "id": "interspace-cueether",
+    "name": "interspace-cueether",
+    "shortname": "CueEther",
+    "manufacturer": "Interspace Industries",
+    "products": [
+      "CueEther"
+    ],
+    "keywords": [
+      "Cue",
+      "Ether",
+      "Interspace",
+      "Industries"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/interspace-cueether",
+    "githubUrl": "https://github.com/bitfocus/companion-module-interspace-cueether",
+    "deprecationReason": null
+  },
   "interspace-mastercuev7": {
     "id": "interspace-mastercuev7",
     "name": "interspace-mastercuev7",
@@ -4606,6 +4624,19 @@
     ],
     "storeUrl": "https://bitfocus.io/connections/renewedvision-propresenter",
     "githubUrl": "https://github.com/bitfocus/companion-module-renewedvision-propresenter",
+    "deprecationReason": null
+  },
+  "renewedvision-propresenter-api": {
+    "id": "renewedvision-propresenter-api",
+    "name": "Propresenter-API",
+    "shortname": "Propresenter-API",
+    "manufacturer": "Renewed Vision",
+    "products": [
+      "ProPresenter API"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/renewedvision-propresenter-api",
+    "githubUrl": "https://github.com/bitfocus/companion-module-renewedvision-propresenter-api",
     "deprecationReason": null
   },
   "renewedvision-pvp": {
@@ -6578,6 +6609,19 @@
     "githubUrl": "https://github.com/bitfocus/companion-module-zoom-osc-iso",
     "deprecationReason": null
   },
+  "fake-module": {
+    "id": "fake-module",
+    "name": "fake-module",
+    "shortname": "fake-module",
+    "manufacturer": "fake-module",
+    "products": [
+      "fake-test"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/fake-module",
+    "githubUrl": "https://github.com/bitfocus/companion-module-fake-module",
+    "deprecationReason": null
+  },
   "DigitalProjection-projectors": {
     "id": "DigitalProjection-projectors",
     "name": "digitalprojection-projectors",
@@ -6618,21 +6662,6 @@
     ],
     "storeUrl": "https://bitfocus.io/connections/axeltechnology_vjpro",
     "githubUrl": "https://github.com/bitfocus/companion-module-axeltechnology_vjpro",
-    "deprecationReason": null
-  },
-  "ai-media-lexi-live": {
-    "id": "ai-media-lexi-live",
-    "name": "ai-media-lexi-live",
-    "shortname": "Lexi-Live",
-    "manufacturer": "AI Media",
-    "products": [
-      "Lexi Live"
-    ],
-    "keywords": [
-      "Closed Captioning"
-    ],
-    "storeUrl": "https://bitfocus.io/connections/ai-media-lexi-live",
-    "githubUrl": "https://github.com/bitfocus/companion-module-ai-media-lexi-live",
     "deprecationReason": null
   },
   "novastar-media-server": {
@@ -6700,31 +6729,6 @@
     "githubUrl": "https://github.com/bitfocus/companion-module-smodelive",
     "deprecationReason": null
   },
-  "tascam-cd-400u": {
-    "id": "tascam-cd-400u",
-    "name": "tascam-cd-400u",
-    "shortname": "CD-400U",
-    "manufacturer": "Tascam",
-    "products": [
-      "CD-400U",
-      "CD-400U DAB"
-    ],
-    "keywords": [
-      "Hardware",
-      "Audio",
-      "CD",
-      "Bluetooth",
-      "USB",
-      "Radio",
-      "AM",
-      "FM",
-      "DAB",
-      "SD"
-    ],
-    "storeUrl": "https://bitfocus.io/connections/tascam-cd-400u",
-    "githubUrl": "https://github.com/bitfocus/companion-module-tascam-cd-400u",
-    "deprecationReason": null
-  },
   "companion-module-tellyo-streamstudio": {
     "id": "companion-module-tellyo-streamstudio",
     "name": "tellyo-streamstudio",
@@ -6769,6 +6773,46 @@
     "keywords": [],
     "storeUrl": "https://bitfocus.io/connections/oscpoint",
     "githubUrl": "https://github.com/bitfocus/companion-module-oscpoint",
+    "deprecationReason": null
+  },
+  "ai-media-lexi-live": {
+    "id": "ai-media-lexi-live",
+    "name": "ai-media-lexi-live",
+    "shortname": "Lexi-Live",
+    "manufacturer": "AI Media",
+    "products": [
+      "Lexi Live"
+    ],
+    "keywords": [
+      "Closed Captioning"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/ai-media-lexi-live",
+    "githubUrl": "https://github.com/bitfocus/companion-module-ai-media-lexi-live",
+    "deprecationReason": null
+  },
+  "tascam-cd-400u": {
+    "id": "tascam-cd-400u",
+    "name": "tascam-cd-400u",
+    "shortname": "CD-400U",
+    "manufacturer": "Tascam",
+    "products": [
+      "CD-400U",
+      "CD-400U DAB"
+    ],
+    "keywords": [
+      "Hardware",
+      "Audio",
+      "CD",
+      "Bluetooth",
+      "USB",
+      "Radio",
+      "AM",
+      "FM",
+      "DAB",
+      "SD"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/tascam-cd-400u",
+    "githubUrl": "https://github.com/bitfocus/companion-module-tascam-cd-400u",
     "deprecationReason": null
   },
   "panasonic-panapod": {
@@ -6819,19 +6863,6 @@
     ],
     "storeUrl": "https://bitfocus.io/connections/pixelhue-fseries",
     "githubUrl": "https://github.com/bitfocus/companion-module-pixelhue-fseries",
-    "deprecationReason": null
-  },
-  "fake-module": {
-    "id": "fake-module",
-    "name": "fake-module",
-    "shortname": "fake-module",
-    "manufacturer": "fake-module",
-    "products": [
-      "fake-test"
-    ],
-    "keywords": [],
-    "storeUrl": "https://bitfocus.io/connections/fake-module",
-    "githubUrl": "https://github.com/bitfocus/companion-module-fake-module",
     "deprecationReason": null
   }
 }

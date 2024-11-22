@@ -1,10 +1,10 @@
 {
   "versions": [
     {
-      "id": "2.2.2",
+      "id": "2.2.3",
       "isPrerelease": false,
       "releasedAt": 1609459200000,
-      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/tplink-kasasmartplug-2.2.2.tgz",
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/tplink-kasasmartplug-2.2.3.tgz",
       "apiVersion": "1.11.0",
       "deprecationReason": null
     },

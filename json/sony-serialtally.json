@@ -1,10 +1,10 @@
 {
   "versions": [
     {
-      "id": "1.3.0",
+      "id": "1.3.1",
       "isPrerelease": false,
       "releasedAt": 1609459200000,
-      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/sony-serialtally-1.3.0.tgz",
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/sony-serialtally-1.3.1.tgz",
       "apiVersion": "1.7.1",
       "deprecationReason": null
     },
@@ -13,6 +13,14 @@
       "isPrerelease": false,
       "releasedAt": 1609459200000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/sony-serialtally-1.2.0.tgz",
+      "apiVersion": "1.7.1",
+      "deprecationReason": null
+    },
+    {
+      "id": "1.0.3",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/sony-serialtally-1.0.3.tgz",
       "apiVersion": "1.7.1",
       "deprecationReason": null
     },

@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "id": "3.6.7",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/studiocoast-vmix-3.6.7.tgz",
+      "apiVersion": "1.8.0",
+      "deprecationReason": null
+    },
+    {
       "id": "3.6.6",
       "isPrerelease": false,
       "releasedAt": 1609459200000,
@@ -17,11 +25,35 @@
       "deprecationReason": null
     },
     {
+      "id": "3.6.1",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/studiocoast-vmix-3.6.1.tgz",
+      "apiVersion": "1.8.0",
+      "deprecationReason": null
+    },
+    {
       "id": "3.5.5",
       "isPrerelease": false,
       "releasedAt": 1609459200000,
       "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/studiocoast-vmix-3.5.5.tgz",
       "apiVersion": "1.8.0",
+      "deprecationReason": null
+    },
+    {
+      "id": "3.5.4",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/studiocoast-vmix-3.5.4.tgz",
+      "apiVersion": "1.5.1",
+      "deprecationReason": null
+    },
+    {
+      "id": "3.5.3",
+      "isPrerelease": false,
+      "releasedAt": 1609459200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/studiocoast-vmix-3.5.3.tgz",
+      "apiVersion": "1.5.1",
       "deprecationReason": null
     },
     {

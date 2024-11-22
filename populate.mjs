@@ -7,6 +7,8 @@ const branch = argv._[0] || "main";
 
 const db = new Database("modules.db");
 
+await fs.appendFile('included-branches', branch + '\n')
+
 db.exec(
   "CREATE TABLE IF NOT EXISTS modules (id TEXT PRIMARY KEY, name TEXT KEY, version TEXT KEY, json TEXT, created_at TIMESTAMP)"
 );
