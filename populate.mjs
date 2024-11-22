@@ -17,14 +17,21 @@ const query = db.prepare(
   "SELECT * FROM modules WHERE name = @name AND version = @version"
 );
 const query2 = db.prepare(
-  `INSERT INTO modules (id, name, version, json) VALUES (@id, @name, @version, @json)`
+  `INSERT INTO modules (id, name, version, json, created_at) VALUES (@id, @name, @version, @json, @created_at)`
 );
 
-console.log("Removing old git clone");
-await fs.rm(".tmp-git", { recursive: true }).catch(() => null);
+if (!fs.existsSync(".tmp-git")) {
+  console.log(`Cloning`);
+  await $`git clone https://github.com/bitfocus/companion-bundled-modules.git .tmp-git`;
+} else {
+  console.log(`Updating`);
+  await $`git -C .tmp-git fetch --all`;
+}
 
-console.log(`Cloning: ${branch}`);
-await $`git clone https://github.com/bitfocus/companion-bundled-modules.git --depth 1 --branch=${branch} .tmp-git`;
+console.log("Checking out branch/tag");
+await $`git -C .tmp-git reset --hard`;
+await $`git -C .tmp-git checkout ${branch}`;
+
 
 console.log("iterating");
 const modules = await fs.readdir(".tmp-git");
@@ -80,7 +87,7 @@ for (const name of modules) {
       name: json.id,
       version: json.version,
       json: jsonStr,
-      created_at: new Date().toISOString(),
+      created_at: new Date(buildDate).toISOString(),
     });
     console.log("Added", json.id, json.version);
   } catch (e) {
