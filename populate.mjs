@@ -51,7 +51,12 @@ for (const name of modules) {
     }
 
     // create new tar
-    $`tar -cvzf generated/${name}-${json.version}.tgz -C ${basePath} .`;
+    const tarFilename = `generated/${name}-${json.version}.tgz`
+    if (await fs.exists(tarFilename)) {
+      console.log('skipping generation of tar', tarFilename )
+    } else {
+      $`tar -cvzf ${tarFilename} -C ${basePath} .`;
+    }
 
     query2.run({
       id: `${json.id}-${json.version}`,
