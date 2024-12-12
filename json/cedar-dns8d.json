@@ -1,0 +1,12 @@
+{
+  "versions": [
+    {
+      "id": "1.0.0",
+      "isPrerelease": false,
+      "releasedAt": 1733184000000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/cedar-dns8d-1.0.0.tgz",
+      "apiVersion": "1.11.2",
+      "deprecationReason": null
+    }
+  ]
+}

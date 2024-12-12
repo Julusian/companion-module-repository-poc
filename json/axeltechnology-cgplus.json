@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "id": "1.0.6",
+      "isPrerelease": false,
+      "releasedAt": 1732838400000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/axeltechnology-cgplus-1.0.6.tgz",
+      "apiVersion": "1.5.1",
+      "deprecationReason": null
+    },
+    {
       "id": "1.0.3",
       "isPrerelease": false,
       "releasedAt": 1726444800000,

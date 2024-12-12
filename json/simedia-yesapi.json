@@ -1,0 +1,12 @@
+{
+  "versions": [
+    {
+      "id": "1.2.2",
+      "isPrerelease": false,
+      "releasedAt": 1732838400000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/simedia-yesapi-1.2.2.tgz",
+      "apiVersion": "1.0.1",
+      "deprecationReason": null
+    }
+  ]
+}

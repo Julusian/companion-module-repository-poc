@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "id": "1.0.1",
+      "isPrerelease": false,
+      "releasedAt": 1732752000000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/boxcast-api-1.0.1.tgz",
+      "apiVersion": "1.10.0",
+      "deprecationReason": null
+    },
+    {
       "id": "1.0.0",
       "isPrerelease": false,
       "releasedAt": 1726531200000,

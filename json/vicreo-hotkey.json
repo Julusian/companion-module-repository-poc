@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "id": "4.6.0",
+      "isPrerelease": false,
+      "releasedAt": 1732406400000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/vicreo-hotkey-4.6.0.tgz",
+      "apiVersion": "1.10.0",
+      "deprecationReason": null
+    },
+    {
       "id": "4.5.0",
       "isPrerelease": false,
       "releasedAt": 1730419200000,

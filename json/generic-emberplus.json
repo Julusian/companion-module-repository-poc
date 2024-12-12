@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "id": "2.5.1",
+      "isPrerelease": false,
+      "releasedAt": 1733616000000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/generic-emberplus-2.5.1.tgz",
+      "apiVersion": "1.11.2",
+      "deprecationReason": null
+    },
+    {
       "id": "2.4.4",
       "isPrerelease": false,
       "releasedAt": 1727222400000,

@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "id": "2.1.0",
+      "isPrerelease": false,
+      "releasedAt": 1732579200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/axis-ptz-2.1.0.tgz",
+      "apiVersion": "1.0.0",
+      "deprecationReason": null
+    },
+    {
       "id": "2.0.4",
       "isPrerelease": false,
       "releasedAt": 1679529600000,

@@ -31,6 +31,7 @@ if (!fs.existsSync(".tmp-git")) {
 console.log("Checking out branch/tag");
 await $`git -C .tmp-git reset --hard`;
 await $`git -C .tmp-git checkout ${branch}`;
+await $`git -C .tmp-git pull`;
 
 
 console.log("iterating");

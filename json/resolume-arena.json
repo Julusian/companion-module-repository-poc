@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "id": "3.9.1",
+      "isPrerelease": false,
+      "releasedAt": 1733875200000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/resolume-arena-3.9.1.tgz",
+      "apiVersion": "1.10.0",
+      "deprecationReason": null
+    },
+    {
       "id": "3.8.0",
       "isPrerelease": false,
       "releasedAt": 1728864000000,

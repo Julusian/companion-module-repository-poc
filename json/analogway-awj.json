@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "id": "2.5.0",
+      "isPrerelease": false,
+      "releasedAt": 1732233600000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/analogway-awj-2.5.0.tgz",
+      "apiVersion": "1.9.0",
+      "deprecationReason": null
+    },
+    {
       "id": "2.4.3",
       "isPrerelease": false,
       "releasedAt": 1729209600000,

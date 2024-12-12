@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "id": "2.1.0",
+      "isPrerelease": false,
+      "releasedAt": 1732492800000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/tslproducts-umd-2.1.0.tgz",
+      "apiVersion": "1.4.1",
+      "deprecationReason": null
+    },
+    {
       "id": "2.0.1",
       "isPrerelease": false,
       "releasedAt": 1692662400000,

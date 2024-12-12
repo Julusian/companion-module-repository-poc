@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "id": "2.4.0",
+      "isPrerelease": false,
+      "releasedAt": 1733616000000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/presentationtools-aps-2.4.0.tgz",
+      "apiVersion": "1.5.1",
+      "deprecationReason": null
+    },
+    {
       "id": "2.3.1",
       "isPrerelease": false,
       "releasedAt": 1721347200000,

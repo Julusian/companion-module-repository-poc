@@ -2207,7 +2207,7 @@
     "id": "generic-midi",
     "name": "generic-midi",
     "shortname": "generic-midi",
-    "manufacturer": "generic",
+    "manufacturer": "Generic",
     "products": [
       "MIDI"
     ],
@@ -6850,6 +6850,177 @@
     ],
     "storeUrl": "https://bitfocus.io/connections/pixelhue-fseries",
     "githubUrl": "https://github.com/bitfocus/companion-module-pixelhue-fseries",
+    "deprecationReason": null
+  },
+  "android-tv": {
+    "id": "android-tv",
+    "name": "androidtv",
+    "shortname": "androidtv",
+    "manufacturer": "Google",
+    "products": [
+      "androidtv"
+    ],
+    "keywords": [
+      "TV"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/android-tv",
+    "githubUrl": "https://github.com/bitfocus/companion-module-android-tv",
+    "deprecationReason": null
+  },
+  "cedar-dns8d": {
+    "id": "cedar-dns8d",
+    "name": "cedar-dns8d",
+    "shortname": "DNS 8D",
+    "manufacturer": "Cedar",
+    "products": [
+      "DNS 8D"
+    ],
+    "keywords": [
+      "Dante",
+      "Noise Supressor",
+      "DNS"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/cedar-dns8d",
+    "githubUrl": "https://github.com/bitfocus/companion-module-cedar-dns8d",
+    "deprecationReason": null
+  },
+  "dcc-ex-commandstation": {
+    "id": "dcc-ex-commandstation",
+    "name": "dcc-ex-commandstation",
+    "shortname": "dcc-ex",
+    "manufacturer": "DCC-EX",
+    "products": [
+      "DCC-EX"
+    ],
+    "keywords": [
+      "DCC",
+      "Railway",
+      "Control",
+      "Modelling"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/dcc-ex-commandstation",
+    "githubUrl": "https://github.com/bitfocus/companion-module-dcc-ex-commandstation",
+    "deprecationReason": null
+  },
+  "focusrite-mp8r": {
+    "id": "focusrite-mp8r",
+    "name": "focusrite-mp8r",
+    "shortname": "MP8R",
+    "manufacturer": "Focusrite",
+    "products": [
+      "MP8R"
+    ],
+    "keywords": [
+      "Dante",
+      "Yamaha",
+      "Focusrite",
+      "Rednet"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/focusrite-mp8r",
+    "githubUrl": "https://github.com/bitfocus/companion-module-focusrite-mp8r",
+    "deprecationReason": null
+  },
+  "joy-playdeck": {
+    "id": "joy-playdeck",
+    "name": "Playdeck (Video Playout Software)",
+    "shortname": "Playdeck",
+    "manufacturer": "JOY event & media",
+    "products": [
+      "Playdeck with Feedbacks"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/joy-playdeck",
+    "githubUrl": "https://github.com/bitfocus/companion-module-joy-playdeck",
+    "deprecationReason": null
+  },
+  "neutrik-dpro": {
+    "id": "neutrik-dpro",
+    "name": "neutrik-dpro",
+    "shortname": "DPRO",
+    "manufacturer": "Neutrik",
+    "products": [
+      "NA-2-IO-DPRO"
+    ],
+    "keywords": [
+      "Dante",
+      "Yamaha",
+      "Neutrik",
+      "RCP"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/neutrik-dpro",
+    "githubUrl": "https://github.com/bitfocus/companion-module-neutrik-dpro",
+    "deprecationReason": null
+  },
+  "novastar-splicer": {
+    "id": "novastar-splicer",
+    "name": "novastar-splicer",
+    "shortname": "novastar-splicer",
+    "manufacturer": "Novastar",
+    "products": [
+      "Splicer"
+    ],
+    "keywords": [
+      "Splicer",
+      "Novastar",
+      "H-series",
+      "H2",
+      "H5",
+      "H9",
+      "H15"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/novastar-splicer",
+    "githubUrl": "https://github.com/bitfocus/companion-module-novastar-splicer",
+    "deprecationReason": null
+  },
+  "rode-rcv": {
+    "id": "rode-rcv",
+    "name": "rode-rcv",
+    "shortname": "RCV",
+    "manufacturer": "RØDE",
+    "products": [
+      "RØDECaster Video (RCV)"
+    ],
+    "keywords": [
+      "Rode",
+      "RØDE",
+      "Rodecaster",
+      "RØDECaster",
+      "Rodecaster Video",
+      "RØDECaster Video",
+      "RCV"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/rode-rcv",
+    "githubUrl": "https://github.com/bitfocus/companion-module-rode-rcv",
+    "deprecationReason": null
+  },
+  "sikn-kerkomroep": {
+    "id": "sikn-kerkomroep",
+    "name": "sikn-kerkomroep",
+    "shortname": "sikn-kerkomroep",
+    "manufacturer": "sikn",
+    "products": [
+      "kerkomroep"
+    ],
+    "keywords": [
+      "sikn",
+      "kerkomroep",
+      "church"
+    ],
+    "storeUrl": "https://bitfocus.io/connections/sikn-kerkomroep",
+    "githubUrl": "https://github.com/bitfocus/companion-module-sikn-kerkomroep",
+    "deprecationReason": null
+  },
+  "simedia-yesapi": {
+    "id": "simedia-yesapi",
+    "name": "yes-api-gateway",
+    "shortname": "YAG",
+    "manufacturer": "Si Media",
+    "products": [
+      "Yes Api Gateway"
+    ],
+    "keywords": [],
+    "storeUrl": "https://bitfocus.io/connections/simedia-yesapi",
+    "githubUrl": "https://github.com/bitfocus/companion-module-simedia-yesapi",
     "deprecationReason": null
   }
 }

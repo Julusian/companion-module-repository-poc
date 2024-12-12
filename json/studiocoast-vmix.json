@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "id": "3.7.0",
+      "isPrerelease": false,
+      "releasedAt": 1733270400000,
+      "tarUrl": "https://github.com/Julusian/companion-module-repository-poc/raw/refs/heads/main/generated/studiocoast-vmix-3.7.0.tgz",
+      "apiVersion": "1.8.0",
+      "deprecationReason": null
+    },
+    {
       "id": "3.6.7",
       "isPrerelease": false,
       "releasedAt": 1732060800000,
